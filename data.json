@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T15:10:31Z",
+ "generated_at": "2026-07-14T18:39:44Z",
  "sections": [
   {
    "icon": "🗺",
@@ -7,196 +7,579 @@
    "note": "wiki live-priced estimates (daily GE guide prices) · badge = intensity",
    "items": [
     {
-     "name": "Operating optimised hide tanner (Snake hide (swamp))",
-     "line1": "Invention 111",
-     "rate": "364.4M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈16.4M. Requires Invention 111. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_optimised_hide_tanner#Snake_hide_(swamp)",
+     "name": "Completing the Asuran Arsenal",
+     "line1": "Thieving 108, Thieving 114 (rec), Agility 99 (rec), Constitution 99 (rec), Archaeology 74 (rec), Thieving 120,",
+     "rate": "73.8M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.5K. Requires Thieving 108, Thieving 114 (rec), Agility 99 (rec), Constitution 99 (rec), Archaeology 74 (rec), Thieving 120, Agility 99, Quests: Eye of Het II. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Completing_the_Asuran_Arsenal",
      "reqs": [
       {
-       "s": "Invention",
-       "l": 111,
+       "s": "Thieving",
+       "l": 108,
        "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating high capacity plank maker (Magic planks)",
-     "line1": "Invention 117",
-     "rate": "354.4M/hr",
-     "badge": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.6M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Magic_planks",
-     "reqs": [
+      },
       {
-       "s": "Invention",
-       "l": 117,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating optimised hide tanner (Undead dragonhide)",
-     "line1": "Invention 111",
-     "rate": "286.1M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈146.5M. Requires Invention 111. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_optimised_hide_tanner#Undead_dragonhide",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 111,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating partial potion producer DX",
-     "line1": "Invention 114",
-     "rate": "245.8M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈23.3M. Requires Invention 114. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_partial_potion_producer_DX",
-     "reqs": [
-      {
-       "s": "Invention",
+       "s": "Thieving",
        "l": 114,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 99,
+       "rec": true
+      },
+      {
+       "s": "Constitution",
+       "l": 99,
+       "rec": true
+      },
+      {
+       "s": "Archaeology",
+       "l": 74,
+       "rec": true
+      },
+      {
+       "s": "Thieving",
+       "l": 120,
+       "rec": false
+      },
+      {
+       "s": "Agility",
+       "l": 99,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Eye of Het II"
+     ]
+    },
+    {
+     "name": "Defeating Croesus (Duo)",
+     "line1": "Construction 80 (rec), Woodcutting 99 (rec), Mining 99 (rec), Fishing 99 (rec), Hunter 99 (rec), Magic 90 (rec",
+     "rate": "52.9M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Construction 80 (rec), Woodcutting 99 (rec), Mining 99 (rec), Fishing 99 (rec), Hunter 99 (rec), Magic 90 (rec), Quests: The Light Within. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Defeating_Croesus#Duo",
+     "reqs": [
+      {
+       "s": "Construction",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Woodcutting",
+       "l": 99,
+       "rec": true
+      },
+      {
+       "s": "Mining",
+       "l": 99,
+       "rec": true
+      },
+      {
+       "s": "Fishing",
+       "l": 99,
+       "rec": true
+      },
+      {
+       "s": "Hunter",
+       "l": 99,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Light Within"
+     ]
+    },
+    {
+     "name": "Cleansing the Gate of Elidinis",
+     "line1": "Mining 80 (rec), Summoning 83 (rec), Defence 81 (rec), Magic 66, Necromancy 75, Archaeology 86, Quests: Ode of",
+     "rate": "50.0M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈80.7K. Requires Mining 80 (rec), Summoning 83 (rec), Defence 81 (rec), Magic 66, Necromancy 75, Archaeology 86, Quests: Ode of the Devourer. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Cleansing_the_Gate_of_Elidinis",
+     "reqs": [
+      {
+       "s": "Mining",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 83,
+       "rec": true
+      },
+      {
+       "s": "Defence",
+       "l": 81,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 66,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 75,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 86,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ode of the Devourer"
+     ]
+    },
+    {
+     "name": "Crafting necrotic runes (Bone runes)",
+     "line1": "Runecrafting 20, Runecrafting 105 (rec), Necromancy 24, Necromancy 50 (rec), Summoning 93 (rec), Archaeology 3",
+     "rate": "45.4M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.9M. Requires Runecrafting 20, Runecrafting 105 (rec), Necromancy 24, Necromancy 50 (rec), Summoning 93 (rec), Archaeology 36 (rec), Magic 80 (rec), Crafting 80 (rec), Invention 82 (rec), Quests: Rune Mythos, Hero&#39;s Welcome. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_necrotic_runes#Bone_runes",
+     "reqs": [
+      {
+       "s": "Runecrafting",
+       "l": 20,
+       "rec": false
+      },
+      {
+       "s": "Runecrafting",
+       "l": 105,
+       "rec": true
+      },
+      {
+       "s": "Necromancy",
+       "l": 24,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 50,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 93,
+       "rec": true
+      },
+      {
+       "s": "Archaeology",
+       "l": 36,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Crafting",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 82,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Rune Mythos",
+      "Hero&#39;s Welcome"
+     ]
+    },
+    {
+     "name": "Defeating Croesus (4-person)",
+     "line1": "Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec",
+     "rate": "42.5M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈171.3K. Requires Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec), Quests: The Light Within. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Defeating_Croesus#4-person",
+     "reqs": [
+      {
+       "s": "Construction",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Woodcutting",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Mining",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Fishing",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Hunter",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Light Within"
+     ]
+    },
+    {
+     "name": "Completing the Vault of Hereditas",
+     "line1": "Thieving 95, Thieving 102 (rec), Magic 90 (rec), Archaeology 84 (rec), Invention 81 (rec), Prayer 80 (rec), Ag",
+     "rate": "41.1M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈86.8K. Requires Thieving 95, Thieving 102 (rec), Magic 90 (rec), Archaeology 84 (rec), Invention 81 (rec), Prayer 80 (rec), Agility 72 (rec), Quests: The Light Within. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Completing_the_Vault_of_Hereditas",
+     "reqs": [
+      {
+       "s": "Thieving",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Thieving",
+       "l": 102,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Archaeology",
+       "l": 84,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 81,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 72,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Light Within"
+     ]
+    },
+    {
+     "name": "Crafting necrotic runes (Flesh runes)",
+     "line1": "Runecrafting 40, Runecrafting 105 (rec), Necromancy 24, Necromancy 50 (rec), Summoning 93 (rec), Archaeology 3",
+     "rate": "40.2M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.2M. Requires Runecrafting 40, Runecrafting 105 (rec), Necromancy 24, Necromancy 50 (rec), Summoning 93 (rec), Archaeology 36 (rec), Magic 80 (rec), Crafting 80 (rec), Invention 82 (rec), Quests: Rune Mythos, Hero&#39;s Welcome. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_necrotic_runes#Flesh_runes",
+     "reqs": [
+      {
+       "s": "Runecrafting",
+       "l": 40,
+       "rec": false
+      },
+      {
+       "s": "Runecrafting",
+       "l": 105,
+       "rec": true
+      },
+      {
+       "s": "Necromancy",
+       "l": 24,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 50,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 93,
+       "rec": true
+      },
+      {
+       "s": "Archaeology",
+       "l": 36,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Crafting",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 82,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Rune Mythos",
+      "Hero&#39;s Welcome"
+     ]
+    },
+    {
+     "name": "Crafting necrotic runes (Spirit runes)",
+     "line1": "Runecrafting 1, Runecrafting 110 (rec), Necromancy 24, Necromancy 50 (rec), Summoning 93 (rec), Archaeology 36",
+     "rate": "39.9M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.6M. Requires Runecrafting 1, Runecrafting 110 (rec), Necromancy 24, Necromancy 50 (rec), Summoning 93 (rec), Archaeology 36 (rec), Herblore 91 (rec), Magic 80 (rec), Crafting 80 (rec), Invention 82 (rec), Quests: Rune Mythos, Hero&#39;s Welcome. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_necrotic_runes#Spirit_runes",
+     "reqs": [
+      {
+       "s": "Runecrafting",
+       "l": 1,
+       "rec": false
+      },
+      {
+       "s": "Runecrafting",
+       "l": 110,
+       "rec": true
+      },
+      {
+       "s": "Necromancy",
+       "l": 24,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 50,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 93,
+       "rec": true
+      },
+      {
+       "s": "Archaeology",
+       "l": 36,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 91,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Crafting",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 82,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Rune Mythos",
+      "Hero&#39;s Welcome"
+     ]
+    },
+    {
+     "name": "Crafting necrotic runes (Miasma runes)",
+     "line1": "Runecrafting 60, Runecrafting 110, Necromancy 24, Necromancy 50 (rec), Summoning 93 (rec), Archaeology 36 (rec",
+     "rate": "35.6M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.4M. Requires Runecrafting 60, Runecrafting 110, Necromancy 24, Necromancy 50 (rec), Summoning 93 (rec), Archaeology 36 (rec), Magic 80 (rec), Crafting 80 (rec), Invention 82 (rec), Quests: Rune Mythos, Hero&#39;s Welcome. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_necrotic_runes#Miasma_runes",
+     "reqs": [
+      {
+       "s": "Runecrafting",
+       "l": 60,
+       "rec": false
+      },
+      {
+       "s": "Runecrafting",
+       "l": 110,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 24,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 50,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 93,
+       "rec": true
+      },
+      {
+       "s": "Archaeology",
+       "l": 36,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Crafting",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 82,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Rune Mythos",
+      "Hero&#39;s Welcome"
+     ]
+    },
+    {
+     "name": "Catching whirligigs (Dazzling)",
+     "line1": "Hunter 20",
+     "rate": "31.7M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈303.0M. Requires Hunter 20. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Catching_whirligigs#Dazzling",
+     "reqs": [
+      {
+       "s": "Hunter",
+       "l": 20,
        "rec": false
       }
      ],
      "quests": []
     },
     {
-     "name": "Operating high capacity plank maker (Yew planks)",
-     "line1": "Invention 117",
-     "rate": "237.2M/hr",
-     "badge": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.2M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Yew_planks",
+     "name": "Crafting astral runes through the Abyss",
+     "line1": "Runecrafting 40, Runecrafting 105, Summoning 93 (rec), Herblore 91 (rec), Invention 82 (rec), Archaeology 68 (",
+     "rate": "31.0M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈999.9K. Requires Runecrafting 40, Runecrafting 105, Summoning 93 (rec), Herblore 91 (rec), Invention 82 (rec), Archaeology 68 (rec), Quests: Lunar Diplomacy, Hero&#39;s Welcome. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_astral_runes_through_the_Abyss",
      "reqs": [
       {
-       "s": "Invention",
-       "l": 117,
+       "s": "Runecrafting",
+       "l": 40,
        "rec": false
+      },
+      {
+       "s": "Runecrafting",
+       "l": 105,
+       "rec": false
+      },
+      {
+       "s": "Summoning",
+       "l": 93,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 91,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 82,
+       "rec": true
+      },
+      {
+       "s": "Archaeology",
+       "l": 68,
+       "rec": true
       }
      ],
-     "quests": []
+     "quests": [
+      "Lunar Diplomacy",
+      "Hero&#39;s Welcome"
+     ]
     },
     {
-     "name": "Operating high capacity plank maker (Willow planks)",
-     "line1": "Invention 117",
-     "rate": "202.8M/hr",
-     "badge": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.2M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Willow_planks",
+     "name": "Crafting cosmic runes through the Abyss",
+     "line1": "Runecrafting 23, Runecrafting 110 (rec), Summoning 93 (rec), Dungeoneering 80 (rec), Farming 98 (rec), Archaeo",
+     "rate": "30.2M/hr",
+     "badge": "HIGH",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.2M. Requires Runecrafting 23, Runecrafting 110 (rec), Summoning 93 (rec), Dungeoneering 80 (rec), Farming 98 (rec), Archaeology 68 (rec), Herblore 91 (rec), Quests: Lost City, Hero&#39;s Welcome. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_cosmic_runes_through_the_Abyss",
      "reqs": [
       {
-       "s": "Invention",
-       "l": 117,
+       "s": "Runecrafting",
+       "l": 23,
        "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating high capacity plank maker (Elder planks)",
-     "line1": "Invention 117",
-     "rate": "187.7M/hr",
-     "badge": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈94.8M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Elder_planks",
-     "reqs": [
+      },
       {
-       "s": "Invention",
-       "l": 117,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating high capacity plank maker (Mahogany planks)",
-     "line1": "Invention 117",
-     "rate": "183.0M/hr",
-     "badge": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.4M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Mahogany_planks",
-     "reqs": [
+       "s": "Runecrafting",
+       "l": 110,
+       "rec": true
+      },
       {
-       "s": "Invention",
-       "l": 117,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating high capacity plank maker (Acadia planks)",
-     "line1": "Invention 117",
-     "rate": "174.0M/hr",
-     "badge": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈11.7M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Acadia_planks",
-     "reqs": [
+       "s": "Summoning",
+       "l": 93,
+       "rec": true
+      },
       {
-       "s": "Invention",
-       "l": 117,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating high capacity plank maker (Oak planks)",
-     "line1": "Invention 117",
-     "rate": "155.5M/hr",
-     "badge": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.1M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Oak_planks",
-     "reqs": [
+       "s": "Dungeoneering",
+       "l": 80,
+       "rec": true
+      },
       {
-       "s": "Invention",
-       "l": 117,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating optimised hide tanner (Black dragonhide)",
-     "line1": "Invention 111",
-     "rate": "141.2M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈54.5M. Requires Invention 111. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_optimised_hide_tanner#Black_dragonhide",
-     "reqs": [
+       "s": "Farming",
+       "l": 98,
+       "rec": true
+      },
       {
-       "s": "Invention",
-       "l": 111,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating optimised hide tanner (Royal dragonhide)",
-     "line1": "Invention 111",
-     "rate": "114.2M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈85.1M. Requires Invention 111. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_optimised_hide_tanner#Royal_dragonhide",
-     "reqs": [
+       "s": "Archaeology",
+       "l": 68,
+       "rec": true
+      },
       {
-       "s": "Invention",
-       "l": 111,
-       "rec": false
+       "s": "Herblore",
+       "l": 91,
+       "rec": true
       }
      ],
-     "quests": []
+     "quests": [
+      "Lost City",
+      "Hero&#39;s Welcome"
+     ]
     }
    ]
   },
@@ -802,6 +1185,185 @@
       }
      ],
      "quests": []
+    }
+   ]
+  },
+  {
+   "icon": "🏭",
+   "title": "Passive & Recurring",
+   "note": "machines, farm runs & buy-limit-capped methods — profit per real-time day, minutes of effort per cycle",
+   "items": [
+    {
+     "name": "Farming starbloom flowers",
+     "line1": "Farming 100, Quests: Stellar Born, Wiz Kid",
+     "rate": "≈93.9M/day passive",
+     "badge": "LOW",
+     "detail": "978.2K per 0h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈181.3K. Requires Farming 100, Quests: Stellar Born, Wiz Kid. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_starbloom_flowers",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 100,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Stellar Born",
+      "Wiz Kid"
+     ]
+    },
+    {
+     "name": "Cleaning grimy dwarf weed",
+     "line1": "Herblore 99",
+     "rate": "≈40.5M/day passive",
+     "badge": "HIGH",
+     "detail": "6.8M per 4h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈35.8M. Requires Herblore 99. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Cleaning_grimy_dwarf_weed",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 99,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Cleaning grimy harralander",
+     "line1": "Herblore 99",
+     "rate": "≈40.1M/day passive",
+     "badge": "HIGH",
+     "detail": "6.7M per 4h machine cycle, only ~4 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈31.4M. Requires Herblore 99. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Cleaning_grimy_harralander",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 99,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Farming dwarf weed (with Plant Power T4)",
+     "line1": "Farming 79, Farming 120 (rec), Quests: My Arm&#39;s Big Adventure, Plague&#39;s End, Wiz Kid",
+     "rate": "≈34.3M/day passive",
+     "badge": null,
+     "detail": "1.4M per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈335.0K. Requires Farming 79, Farming 120 (rec), Quests: My Arm&#39;s Big Adventure, Plague&#39;s End, Wiz Kid. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_dwarf_weed#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 79,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm&#39;s Big Adventure",
+      "Plague&#39;s End",
+      "Wiz Kid"
+     ]
+    },
+    {
+     "name": "Farming kwuarm (with Plant Power T4)",
+     "line1": "Farming 56, Farming 120 (rec), Quests: My Arm&#39;s Big Adventure, Plague&#39;s End",
+     "rate": "≈31.5M/day passive",
+     "badge": null,
+     "detail": "1.3M per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈196.4K. Requires Farming 56, Farming 120 (rec), Quests: My Arm&#39;s Big Adventure, Plague&#39;s End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_kwuarm#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 56,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm&#39;s Big Adventure",
+      "Plague&#39;s End"
+     ]
+    },
+    {
+     "name": "Farming lantadyme (with Plant Power T4)",
+     "line1": "Farming 73, Farming 120 (rec), Quests: My Arm&#39;s Big Adventure, Plague&#39;s End",
+     "rate": "≈30.3M/day passive",
+     "badge": null,
+     "detail": "1.3M per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈206.6K. Requires Farming 73, Farming 120 (rec), Quests: My Arm&#39;s Big Adventure, Plague&#39;s End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_lantadyme#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 73,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm&#39;s Big Adventure",
+      "Plague&#39;s End"
+     ]
+    },
+    {
+     "name": "Farming spirit weed (With Plant Power T4)",
+     "line1": "Farming 36, Farming 120 (rec), Quests: My Arm&#39;s Big Adventure, Plague&#39;s End",
+     "rate": "≈29.7M/day passive",
+     "badge": null,
+     "detail": "1.2M per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈358.2K. Requires Farming 36, Farming 120 (rec), Quests: My Arm&#39;s Big Adventure, Plague&#39;s End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_spirit_weed#With_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 36,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm&#39;s Big Adventure",
+      "Plague&#39;s End"
+     ]
+    },
+    {
+     "name": "Farming fellstalk (with Plant Power T4)",
+     "line1": "Farming 91, Farming 120 (rec), Quests: My Arm&#39;s Big Adventure, Plague&#39;s End",
+     "rate": "≈25.7M/day passive",
+     "badge": null,
+     "detail": "1.1M per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈612.6K. Requires Farming 91, Farming 120 (rec), Quests: My Arm&#39;s Big Adventure, Plague&#39;s End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_fellstalk#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 91,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm&#39;s Big Adventure",
+      "Plague&#39;s End"
+     ]
     }
    ]
   },
