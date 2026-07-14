@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>RS3 Money Advisor</title>
-<meta name="description" content="RuneScape 3 gold-making dashboard: money makers, combat, high-alch and GE set margins from live wiki prices, refreshed automatically.">
+<meta name="description" content="RuneScape 3 gold-making dashboard: money makers, combat, high-alch and GE set margins from live wiki prices, refreshed automatically — filterable to your own account via RuneMetrics.">
 <meta property="og:title" content="RS3 Money Advisor">
 <meta property="og:description" content="RS3 gold-making intelligence: money makers, combat, alchs and set margins, refreshed automatically.">
 <meta property="og:type" content="website">
@@ -54,6 +54,26 @@
   }
   @keyframes pulseDot { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(0.7); } }
   .preview-text { font-family: 'JetBrains Mono', monospace; font-size: 13px; color: oklch(75% 0.03 250); }
+
+  .rsn-bar { display: flex; justify-content: center; gap: 8px; margin-top: 20px; flex-wrap: wrap; }
+  .rsn-bar input {
+    font: inherit; font-size: 14px; padding: 9px 14px; border-radius: 999px; width: 200px;
+    background: oklch(18% 0.02 252); border: 1px solid oklch(55% 0.12 245 / 0.4);
+    color: oklch(92% 0.015 250); outline: none;
+  }
+  .rsn-bar input:focus { border-color: oklch(70% 0.14 240 / 0.7); }
+  .rsn-bar button {
+    font: inherit; font-size: 13.5px; font-weight: 600; cursor: pointer;
+    padding: 9px 18px; border-radius: 999px; color: oklch(88% 0.05 240);
+    background: oklch(35% 0.08 245 / 0.5); border: 1px solid oklch(60% 0.12 240 / 0.5);
+  }
+  .rsn-bar button:hover { background: oklch(40% 0.09 245 / 0.6); }
+  .rsn-bar button.ghost { background: transparent; color: oklch(65% 0.04 250); border-color: oklch(45% 0.05 250 / 0.4); }
+  .rsn-status { margin-top: 12px; font-size: 12.5px; color: oklch(68% 0.03 250); line-height: 1.6; max-width: 640px; margin-left: auto; margin-right: auto; }
+  .rsn-status.ok { color: oklch(78% 0.1 200); }
+  .rsn-status.err { color: oklch(78% 0.1 60); }
+  .card-more { font-size: 11.5px; color: oklch(60% 0.03 250); margin-top: 8px; }
+  .card-empty { font-size: 12.5px; color: oklch(65% 0.03 250); padding: 8px 0; }
 
   .switch-row { margin-top: 22px; }
   .switch-btn {
@@ -131,6 +151,12 @@
     <span class="preview-dot" id="liveDot"></span>
     <span class="preview-text" id="liveText">loading…</span>
   </div>
+  <div class="rsn-bar">
+    <input id="rsnInput" placeholder="your RSN…" maxlength="12" autocomplete="off" spellcheck="false">
+    <button id="rsnBtn" type="button">Filter for me</button>
+    <button id="rsnClear" type="button" class="ghost" hidden>show all</button>
+  </div>
+  <div class="rsn-status" id="rsnStatus">Money Makers, Combat &amp; Passive can be filtered to your account via <b>RuneMetrics</b> — no plugin needed, your profile just has to be set to public.</div>
   <div class="switch-row">
     <a class="switch-btn" href="https://yousdje.github.io/osrs-money-advisor/">Switch to OSRS →</a>
   </div>
@@ -143,6 +169,8 @@
   live-priced estimates; alch &amp; set margins are re-derived from daily GE guide prices
   (<a href="https://api.weirdgloop.org" rel="noopener">Weird Gloop API</a>) and volume-capped.
   RS3 GE prices update once a day — treat every figure as a guide-price estimate.<br>
+  Account data via <a href="https://apps.runescape.com/runemetrics/app" rel="noopener">RuneMetrics</a>
+  (public profiles only; your RSN is only sent there, never stored).<br>
   RuneScape is a trademark of Jagex Ltd; this project is unaffiliated.
 </div>
 
@@ -162,6 +190,69 @@ function ago(iso) {
   if (h < 48) return h + "h";
   return Math.floor(h / 24) + "d";
 }
+// ---- account profile (RuneMetrics via CORS relay) ---------------------------
+// RuneMetrics sends no CORS headers, so the same Cloudflare Worker that relays
+// WikiSync for the OSRS page merges the two RuneMetrics endpoints at /rs3/.
+const RM_PROXY = "https://rs.ur-advisor.workers.dev/rs3/";
+const SHOW_N = 10;           // rows shown per personalisable card after filtering
+// RuneMetrics skillvalues id -> skill name (verified against hiscores ranks)
+const SKILL_ID = ["Attack","Defence","Strength","Constitution","Ranged","Prayer",
+  "Magic","Cooking","Woodcutting","Fletching","Fishing","Firemaking","Crafting",
+  "Smithing","Mining","Herblore","Agility","Thieving","Slayer","Farming",
+  "Runecrafting","Hunter","Construction","Summoning","Dungeoneering","Divination",
+  "Invention","Archaeology","Necromancy"];
+const normQuest = s => String(s).replace(/['’]/g, "").replace(/\s+/g, " ").trim().toLowerCase();
+
+let data = null;
+let profile = null;   // { rsn, levels, combat, total, quests:Set(normalised) }
+
+async function fetchRuneMetrics(rsn) {
+  const r = await fetch(RM_PROXY + encodeURIComponent(rsn));
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  const payload = await r.json();
+  if (payload.profile && payload.profile.error) {
+    const e = new Error(payload.profile.error);
+    e.rmError = payload.profile.error;   // NO_PROFILE | PROFILE_PRIVATE | NOT_A_MEMBER…
+    throw e;
+  }
+  return payload;
+}
+
+function buildProfile(rsn, payload) {
+  const p = payload.profile || {};
+  const levels = {};
+  for (const sv of p.skillvalues || []) {
+    const name = SKILL_ID[sv.id];
+    if (name) levels[name] = sv.level;
+  }
+  const quests = new Set();
+  for (const q of payload.quests || []) {
+    if (q.status === "COMPLETED") quests.add(normQuest(q.title));
+  }
+  return { rsn: p.name || rsn, levels, combat: p.combatlevel || 0,
+           total: p.totalskill || 0, quests, questsDone: quests.size };
+}
+
+function statFor(name) {
+  if (!profile) return null;
+  if (name === "Combat") return profile.combat;
+  const v = profile.levels[name];
+  return v === undefined ? null : v;   // unknown skill name = never gates
+}
+
+function itemPasses(item) {
+  if (!profile) return true;
+  for (const r of item.reqs || []) {
+    const have = statFor(r.s);
+    if (have !== null && have < r.l) return false;
+  }
+  // fail-closed: a required quest missing from the profile hides the method
+  for (const q of item.quests || []) {
+    if (!profile.quests.has(normQuest(q))) return false;
+  }
+  return true;
+}
+
 let generatedAt = null;
 function tickClock() {
   if (!generatedAt) return;
@@ -172,12 +263,25 @@ function tickClock() {
   const stale = Date.now() - Date.parse(generatedAt) > 36 * 3600 * 1000;
   document.getElementById("liveDot").classList.toggle("stale", stale);
 }
-function render(data) {
+function render() {
+  if (!data) return;
   generatedAt = data.generated_at;
   tickClock();
   const grid = document.getElementById("grid");
   grid.textContent = "";
   for (const section of data.sections) {
+    const personal = !!section.personal;
+    let items = section.items;
+    let more = "";
+    if (personal) {
+      const matched = profile ? items.filter(itemPasses) : items;
+      more = profile
+        ? "top " + Math.min(SHOW_N, matched.length) + " of " + matched.length +
+          " methods " + esc(profile.rsn) + " can do (of " + items.length + " total)"
+        : "top " + Math.min(SHOW_N, items.length) + " of " + items.length +
+          " — enter your RSN above to filter";
+      items = matched.slice(0, SHOW_N);
+    }
     const card = document.createElement("div");
     card.className = "card";
     let inner =
@@ -185,10 +289,13 @@ function render(data) {
       "<h2>" + esc(section.title) + "</h2></div>";
     if (section.note) inner += '<p class="card-note">' + esc(section.note) + "</p>";
     inner += '<div class="divider"></div>';
-    if (!section.items.length) {
-      inner += '<div class="row-line1">nothing above thresholds right now</div>';
+    if (!items.length) {
+      inner += '<div class="card-empty">' +
+        (personal && profile
+          ? "nothing here fits this account yet — level up or quest on!"
+          : "nothing above thresholds right now") + "</div>";
     }
-    section.items.forEach((item, i) => {
+    items.forEach((item, i) => {
       const badge = item.badge
         ? '<span class="badge badge-' + esc(item.badge) + '">' + esc(item.badge) + "</span>"
         : "";
@@ -210,6 +317,7 @@ function render(data) {
           '<div class="row-detail">' + esc(item.detail) + link + "</div>" +
         "</div>";
     });
+    if (more) inner += '<div class="card-more">' + more + "</div>";
     card.innerHTML = inner;
     grid.appendChild(card);
   }
@@ -222,17 +330,78 @@ function render(data) {
     });
   });
 }
+// ---- wiring --------------------------------------------------------------------
+function setStatus(text, cls) {
+  const el = document.getElementById("rsnStatus");
+  el.className = "rsn-status" + (cls ? " " + cls : "");
+  el.innerHTML = text;
+}
+
+const DEFAULT_STATUS = "Money Makers, Combat &amp; Passive can be filtered to your " +
+  "account via <b>RuneMetrics</b> — no plugin needed, your profile just has to be " +
+  "set to public.";
+
+async function applyRsn(rsn, fromStorage) {
+  rsn = rsn.trim();
+  if (!rsn) return;
+  setStatus("looking up " + esc(rsn) + "…");
+  try {
+    const payload = await fetchRuneMetrics(rsn);
+    profile = buildProfile(rsn, payload);
+    localStorage.setItem("rs3-advisor-rsn", rsn);
+    document.getElementById("rsnClear").hidden = false;
+    document.getElementById("rsnInput").value = rsn;
+    setStatus("filtering for <b>" + esc(profile.rsn) + "</b> — combat " + profile.combat +
+              ", total " + profile.total + ", " + profile.questsDone +
+              " quests done (via RuneMetrics)", "ok");
+    render();
+  } catch (e) {
+    profile = null;
+    if (!fromStorage) {
+      setStatus(e.rmError === "PROFILE_PRIVATE"
+        ? "“" + esc(rsn) + "” has a private RuneMetrics profile. Make it public on " +
+          '<a href="https://apps.runescape.com/runemetrics/app/settings" rel="noopener" ' +
+          'target="_blank">the RuneMetrics settings page</a>, then retry.'
+        : e.rmError === "NO_PROFILE"
+        ? "No RS3 character named “" + esc(rsn) + "” found."
+        : e.rmError
+        ? "RuneMetrics says: " + esc(e.rmError) + " — profile data unavailable for “" + esc(rsn) + "”."
+        : "Couldn't reach RuneMetrics just now — try again in a minute.", "err");
+    }
+    render();
+  }
+}
+
+function clearRsn() {
+  profile = null;
+  localStorage.removeItem("rs3-advisor-rsn");
+  document.getElementById("rsnInput").value = "";
+  document.getElementById("rsnClear").hidden = true;
+  setStatus(DEFAULT_STATUS);
+  render();
+}
+
+document.getElementById("rsnBtn").addEventListener("click",
+  () => applyRsn(document.getElementById("rsnInput").value, false));
+document.getElementById("rsnInput").addEventListener("keydown",
+  e => { if (e.key === "Enter") applyRsn(e.target.value, false); });
+document.getElementById("rsnClear").addEventListener("click", clearRsn);
+
 async function load() {
   try {
     const r = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
     if (!r.ok) throw new Error("HTTP " + r.status);
-    render(await r.json());
+    data = await r.json();
+    render();
   } catch (e) {
     document.getElementById("liveText").textContent = "data unavailable";
     document.getElementById("liveDot").classList.add("stale");
   }
 }
-load();
+load().then(() => {
+  const saved = localStorage.getItem("rs3-advisor-rsn");
+  if (saved) applyRsn(saved, true);
+});
 setInterval(tickClock, 15000);
 setInterval(load, 30 * 60 * 1000);
 </script>
