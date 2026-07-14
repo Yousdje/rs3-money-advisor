@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>RS3 Money Advisor (preview)</title>
-<meta name="description" content="RuneScape 3 gold-making dashboard — preview build. The live RS3 data feed is under construction; see the OSRS Money Advisor for live prices.">
-<meta property="og:title" content="RS3 Money Advisor (preview)">
-<meta property="og:description" content="RuneScape 3 gold-making dashboard — preview build, live data feed under construction.">
+<title>RS3 Money Advisor</title>
+<meta name="description" content="RuneScape 3 gold-making dashboard: money makers, combat, high-alch and GE set margins from live wiki prices, refreshed automatically.">
+<meta property="og:title" content="RS3 Money Advisor">
+<meta property="og:description" content="RS3 gold-making intelligence: money makers, combat, alchs and set margins, refreshed automatically.">
 <meta property="og:type" content="website">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔷</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -46,10 +46,11 @@
     display: inline-flex; align-items: center; gap: 10px; padding: 8px 18px; border-radius: 999px;
     background: oklch(22% 0.03 255); border: 1px solid oklch(60% 0.14 240 / 0.35);
   }
-  .preview-dot { position: relative; width: 9px; height: 9px; border-radius: 50%; background: oklch(80% 0.14 85); flex-shrink: 0; }
+  .preview-dot { position: relative; width: 9px; height: 9px; border-radius: 50%; background: oklch(75% 0.18 200); flex-shrink: 0; }
+  .preview-dot.stale, .preview-dot.stale::after { background: oklch(80% 0.14 85); }
   .preview-dot::after {
     content: ""; position: absolute; inset: 0; border-radius: 50%;
-    background: oklch(80% 0.14 85); animation: pulseDot 1.8s ease-in-out infinite;
+    background: oklch(75% 0.18 200); animation: pulseDot 1.8s ease-in-out infinite;
   }
   @keyframes pulseDot { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(0.7); } }
   .preview-text { font-family: 'JetBrains Mono', monospace; font-size: 13px; color: oklch(75% 0.03 250); }
@@ -102,7 +103,6 @@
   .badge-LOW      { color: oklch(78% 0.1 190);  background: oklch(32% 0.04 190 / 0.3); border-color: oklch(55% 0.08 190 / 0.35); }
   .badge-MODERATE { color: oklch(80% 0.08 250); background: oklch(35% 0.04 250 / 0.3); border-color: oklch(58% 0.08 250 / 0.35); }
   .badge-HIGH     { color: oklch(75% 0.13 25);  background: oklch(32% 0.04 25 / 0.3);  border-color: oklch(55% 0.1 25 / 0.35); }
-  .badge-SAMPLE   { color: oklch(78% 0.06 85);  background: oklch(30% 0.04 85 / 0.3);  border-color: oklch(55% 0.08 85 / 0.35); }
   .row-line1 { font-size: 12.5px; color: oklch(65% 0.03 250); margin-top: 3px; }
   .row-right { text-align: right; flex-shrink: 0; }
   .row-rate { font-family: 'JetBrains Mono', monospace; font-size: 14.5px; font-weight: 600; color: oklch(76% 0.11 235); }
@@ -128,112 +128,113 @@
   </div>
   <p class="tagline">Gold-making intelligence, refreshed automatically</p>
   <div class="preview-pill">
-    <span class="preview-dot"></span>
-    <span class="preview-text">preview build · live RS3 feed under construction</span>
+    <span class="preview-dot" id="liveDot"></span>
+    <span class="preview-text" id="liveText">loading…</span>
   </div>
   <div class="switch-row">
     <a class="switch-btn" href="https://yousdje.github.io/osrs-money-advisor/">Switch to OSRS →</a>
-  </div>
-  <div class="banner">
-    ⚠️ <b>Preview.</b> The numbers below are illustrative samples showing the planned layout —
-    they are <b>not live prices</b>. The RS3 data pipeline is under construction; for real,
-    hourly-verified figures use the <a href="https://yousdje.github.io/osrs-money-advisor/">OSRS Money Advisor</a>.
   </div>
 </div>
 
 <div class="grid" id="grid"></div>
 
 <div class="footer">
-  Preview build — no live data yet. When the RS3 feed ships, prices will come from the
-  <a href="https://runescape.wiki" rel="noopener">RS3 Wiki</a> ecosystem with the same
-  conservative conventions as the OSRS advisor.<br>
+  Money-maker rates are the <a href="https://runescape.wiki/w/Money_making_guide" rel="noopener">RS3 Wiki</a>'s
+  live-priced estimates; alch &amp; set margins are re-derived from daily GE guide prices
+  (<a href="https://api.weirdgloop.org" rel="noopener">Weird Gloop API</a>) and volume-capped.
+  RS3 GE prices update once a day — treat every figure as a guide-price estimate.<br>
   RuneScape is a trademark of Jagex Ltd; this project is unaffiliated.
 </div>
 
 <script>
 "use strict";
-// Illustrative sample sections (from the design mock) — every row is badged
-// SAMPLE and the page carries a preview banner. Replace with a data.json feed
-// once the RS3 pipeline exists (same contract as the OSRS site).
-const SECTIONS = [
-  { icon: "📈", title: "Flips", items: [
-    { name: "Divine super defence flask (6)", line1: "buy 890 → sell 968, +78/ea", rate: "≈24.6K/hr", detail: "Sample row — steady raids/PvM demand keeps flasks flipping consistently." },
-    { name: "Cinderbane gloves", line1: "buy 41,220 → sell 43,850, +2,630/ea", rate: "≈22.3K/hr", detail: "Sample row — low volume but wide margin." },
-    { name: "Elder rune sword +5", line1: "buy 612,400 → sell 638,900, +26,500/ea", rate: "≈18.6K/hr", detail: "Sample row — high-capital flip." },
-  ]},
-  { icon: "⚗️", title: "Decant → Extreme", items: [
-    { name: "Extreme attack (1)→(4)", line1: "per-dose decant, sell as (4)", rate: "+1,840/pot · ≈100.5K/hr", detail: "Sample row — PvM-prep demand." },
-    { name: "Overload (2)→(4)", line1: "per-dose decant, sell as (4)", rate: "+1,205/pot · ≈72.4K/hr", detail: "Sample row — raids staple." },
-    { name: "Prayer renewal (1)→(4)", line1: "per-dose decant, sell as (4)", rate: "+310/pot · ≈49.6K/hr", detail: "Sample row — reliable volume." },
-  ]},
-  { icon: "🛡", title: "Sets", items: [
-    { name: "Pernix armour set", line1: "combine pieces → sell as set", rate: "+31,200 · ≈46.8K/hr", detail: "Sample row — ranged tier set combine." },
-    { name: "Torva armour set", line1: "combine pieces → sell as set", rate: "+48,650 · ≈24.3K/hr", detail: "Sample row — thin volume, high margin." },
-    { name: "Virtus armour set", line1: "combine pieces → sell as set", rate: "+22,940 · ≈17.2K/hr", detail: "Sample row — magic tier set." },
-  ]},
-  { icon: "✨", title: "High Alch", items: [
-    { name: "Ripper claws", line1: "buy → cast high alchemy", rate: "+2,150/alch · ≈800.0K/hr", detail: "Sample row — needs high Magic and rune supply." },
-    { name: "Seasinger kiteshield", line1: "buy → cast high alchemy", rate: "+1,890/alch · ≈700.0K/hr", detail: "Sample row — moderate buy limit." },
-    { name: "Zamorakian spear", line1: "buy → cast high alchemy", rate: "+1,640/alch · ≈600.0K/hr", detail: "Sample row — high buy limit." },
-  ]},
-  { icon: "🗺", title: "Money Makers", items: [
-    { name: "Divination (Memory Strand farming)", line1: "wiki gp/hr estimate", rate: "3.8M/hr", risk: "MODERATE", detail: "Sample row — requires high Divination." },
-    { name: "Runespan (essence + XP)", line1: "high Runecrafting recommended", rate: "2.1M/hr", risk: "LOW", detail: "Sample row — safe, no combat." },
-    { name: "Elite Dungeon trash farming", line1: "setup: starting capital", rate: "1.7M/hr", risk: "MODERATE", detail: "Sample row — needs decent gear." },
-  ]},
-  { icon: "⚔️", title: "Combat You Can Do", items: [
-    { name: "Killing Kalphite King", line1: "combat / high risk", rate: "2.4M/hr", risk: "HIGH", detail: "Sample row — Combat 90+, good gear, death risk." },
-    { name: "Killing Vindicta & Gorvek", line1: "combat / moderate risk", rate: "1.1M/hr", risk: "MODERATE", detail: "Sample row — Combat 80+, ranged setup." },
-    { name: "Killing Chaos Elemental", line1: "combat / low risk", rate: "420.5K/hr", risk: "LOW", detail: "Sample row — Combat 60+." },
-  ]},
-];
-
-function esc(s) {
-  return String(s).replace(/[&<>"']/g, c => ({
+function esc(x) {
+  return String(x).replace(/[&<>"']/g, c => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
   }[c]));
 }
-
-const grid = document.getElementById("grid");
-for (const section of SECTIONS) {
-  const card = document.createElement("div");
-  card.className = "card";
-  let inner =
-    '<div class="card-head"><span class="icon">' + esc(section.icon) + "</span>" +
-    "<h2>" + esc(section.title) + "</h2></div>" +
-    '<p class="card-note">illustrative sample — not live data</p>' +
-    '<div class="divider"></div>';
-  section.items.forEach((item, i) => {
-    const risk = item.risk
-      ? '<span class="badge badge-' + esc(item.risk) + '">' + esc(item.risk) + "</span>"
-      : "";
-    inner +=
-      '<div class="row' + (i === 0 ? " best" : "") + '">' +
-        '<button class="row-main" type="button">' +
-          '<span class="row-left">' +
-            '<span class="row-name-line"><span class="row-name">' + esc(item.name) + "</span>" + risk +
-              '<span class="badge badge-SAMPLE">SAMPLE</span></span>' +
-            '<span class="row-line1">' + esc(item.line1) + "</span>" +
-          "</span>" +
-          '<span class="row-right">' +
-            '<span class="row-rate">' + esc(item.rate) + "</span>" +
-            '<div class="row-hint">details ▼</div>' +
-          "</span>" +
-        "</button>" +
-        '<div class="row-detail">' + esc(item.detail) + "</div>" +
-      "</div>";
-  });
-  card.innerHTML = inner;
-  grid.appendChild(card);
+function ago(iso) {
+  const s = Math.max(0, Math.floor((Date.now() - Date.parse(iso)) / 1000));
+  if (s < 90) return s + "s";
+  const m = Math.floor(s / 60);
+  if (m < 90) return m + "m";
+  const h = Math.floor(m / 60);
+  if (h < 48) return h + "h";
+  return Math.floor(h / 24) + "d";
 }
-grid.querySelectorAll(".row-main").forEach(btn => {
-  btn.addEventListener("click", () => {
-    const row = btn.closest(".row");
-    row.classList.toggle("open");
-    btn.querySelector(".row-hint").textContent =
-      row.classList.contains("open") ? "hide ▲" : "details ▼";
+let generatedAt = null;
+function tickClock() {
+  if (!generatedAt) return;
+  const stamp = generatedAt.replace("T", " ").replace(/:\d\d(\.\d+)?Z$/, " UTC");
+  document.getElementById("liveText").textContent =
+    "Updated " + ago(generatedAt) + " ago \u00b7 " + stamp;
+  // RS3 GE prices move daily; refresh runs every 6h — >36h means it is stuck
+  const stale = Date.now() - Date.parse(generatedAt) > 36 * 3600 * 1000;
+  document.getElementById("liveDot").classList.toggle("stale", stale);
+}
+function render(data) {
+  generatedAt = data.generated_at;
+  tickClock();
+  const grid = document.getElementById("grid");
+  grid.textContent = "";
+  for (const section of data.sections) {
+    const card = document.createElement("div");
+    card.className = "card";
+    let inner =
+      '<div class="card-head"><span class="icon">' + esc(section.icon) + "</span>" +
+      "<h2>" + esc(section.title) + "</h2></div>";
+    if (section.note) inner += '<p class="card-note">' + esc(section.note) + "</p>";
+    inner += '<div class="divider"></div>';
+    if (!section.items.length) {
+      inner += '<div class="row-line1">nothing above thresholds right now</div>';
+    }
+    section.items.forEach((item, i) => {
+      const badge = item.badge
+        ? '<span class="badge badge-' + esc(item.badge) + '">' + esc(item.badge) + "</span>"
+        : "";
+      const link = item.url
+        ? ' \u00b7 <a href="' + esc(item.url) + '" rel="noopener" target="_blank">wiki guide</a>'
+        : "";
+      inner +=
+        '<div class="row' + (i === 0 ? " best" : "") + '">' +
+          '<button class="row-main" type="button">' +
+            '<span class="row-left">' +
+              '<span class="row-name-line"><span class="row-name">' + esc(item.name) + "</span>" + badge + "</span>" +
+              '<span class="row-line1">' + esc(item.line1) + "</span>" +
+            "</span>" +
+            '<span class="row-right">' +
+              '<span class="row-rate">' + esc(item.rate) + "</span>" +
+              '<div class="row-hint">details \u25bc</div>' +
+            "</span>" +
+          "</button>" +
+          '<div class="row-detail">' + esc(item.detail) + link + "</div>" +
+        "</div>";
+    });
+    card.innerHTML = inner;
+    grid.appendChild(card);
+  }
+  grid.querySelectorAll(".row-main").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const row = btn.closest(".row");
+      row.classList.toggle("open");
+      btn.querySelector(".row-hint").textContent =
+        row.classList.contains("open") ? "hide \u25b2" : "details \u25bc";
+    });
   });
-});
+}
+async function load() {
+  try {
+    const r = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    render(await r.json());
+  } catch (e) {
+    document.getElementById("liveText").textContent = "data unavailable";
+    document.getElementById("liveDot").classList.add("stale");
+  }
+}
+load();
+setInterval(tickClock, 15000);
+setInterval(load, 30 * 60 * 1000);
 </script>
 </body>
 </html>
