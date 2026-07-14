@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T19:55:36Z",
+ "generated_at": "2026-07-14T20:15:33Z",
  "sections": [
   {
    "icon": "🗺",
@@ -244,54 +244,6 @@
      ]
     },
     {
-     "name": "Completing the Vault of Hereditas",
-     "line1": "Thieving 95, Thieving 102 (rec), Magic 90 (rec), Archaeology 84 (rec), Invention 81 (rec), Prayer 80 (rec), Ag",
-     "rate": "41.1M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈86.8K. Requires Thieving 95, Thieving 102 (rec), Magic 90 (rec), Archaeology 84 (rec), Invention 81 (rec), Prayer 80 (rec), Agility 72 (rec), Quests: The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Completing_the_Vault_of_Hereditas",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Thieving",
-       "l": 102,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Archaeology",
-       "l": 84,
-       "rec": true
-      },
-      {
-       "s": "Invention",
-       "l": 81,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 72,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Light Within"
-     ]
-    },
-    {
      "name": "Crafting necrotic runes (Flesh runes)",
      "line1": "Runecrafting 40, Runecrafting 105 (rec), Necromancy 24, Necromancy 50 (rec), Summoning 93 (rec), Archaeology 3",
      "rate": "40.2M/hr",
@@ -472,22 +424,6 @@
       "Rune Mythos",
       "Hero's Welcome"
      ]
-    },
-    {
-     "name": "Catching whirligigs (Dazzling)",
-     "line1": "Hunter 20",
-     "rate": "31.7M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈303.0M. Requires Hunter 20. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Catching_whirligigs#Dazzling",
-     "reqs": [
-      {
-       "s": "Hunter",
-       "l": 20,
-       "rec": false
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Crafting astral runes through the Abyss",
@@ -786,27 +722,6 @@
      "quests": []
     },
     {
-     "name": "Havenhythe Big Game Hunter (Kebbits)",
-     "line1": "Hunter 98, Slayer 77",
-     "rate": "24.6M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.5M. Requires Hunter 98, Slayer 77. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Havenhythe_Big_Game_Hunter#Kebbits",
-     "reqs": [
-      {
-       "s": "Hunter",
-       "l": 98,
-       "rec": false
-      },
-      {
-       "s": "Slayer",
-       "l": 77,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Crafting water runes through the Abyss (with Wild Runes)",
      "line1": "Runecrafting 5, Runecrafting 110 (rec), Summoning 93 (rec), Dungeoneering 80 (rec), Farming 104 (rec), Archaeo",
      "rate": "23.1M/hr",
@@ -853,42 +768,6 @@
      "quests": [
       "Hero's Welcome"
      ]
-    },
-    {
-     "name": "Big Game Hunter (Tier 2 dinosaurs)",
-     "line1": "Hunter 90, Slayer 70, Agility 85 (rec), Archaeology 103 (rec), Dungeoneering 95 (rec)",
-     "rate": "23.1M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.8M. Requires Hunter 90, Slayer 70, Agility 85 (rec), Archaeology 103 (rec), Dungeoneering 95 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Big_Game_Hunter#Tier_2_dinosaurs",
-     "reqs": [
-      {
-       "s": "Hunter",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Slayer",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Agility",
-       "l": 85,
-       "rec": true
-      },
-      {
-       "s": "Archaeology",
-       "l": 103,
-       "rec": true
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Crafting death runes through the Abyss",
@@ -1082,27 +961,6 @@
      ]
     },
     {
-     "name": "Havenhythe Big Game Hunter (Chinchompas)",
-     "line1": "Hunter 96, Slayer 77",
-     "rate": "19.3M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5M. Requires Hunter 96, Slayer 77. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Havenhythe_Big_Game_Hunter#Chinchompas",
-     "reqs": [
-      {
-       "s": "Hunter",
-       "l": 96,
-       "rec": false
-      },
-      {
-       "s": "Slayer",
-       "l": 77,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Making aggression potions",
      "line1": "Herblore 82",
      "rate": "17.8M/hr",
@@ -1131,42 +989,6 @@
       "Meeting History",
       "Enchanted key (lore activity)"
      ]
-    },
-    {
-     "name": "Big Game Hunter (Tier 1 dinosaurs)",
-     "line1": "Hunter 75, Slayer 55, Agility 85 (rec), Archaeology 103 (rec), Dungeoneering 95 (rec)",
-     "rate": "16.6M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈55.0K. Requires Hunter 75, Slayer 55, Agility 85 (rec), Archaeology 103 (rec), Dungeoneering 95 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Big_Game_Hunter#Tier_1_dinosaurs",
-     "reqs": [
-      {
-       "s": "Hunter",
-       "l": 75,
-       "rec": false
-      },
-      {
-       "s": "Slayer",
-       "l": 55,
-       "rec": false
-      },
-      {
-       "s": "Agility",
-       "l": 85,
-       "rec": true
-      },
-      {
-       "s": "Archaeology",
-       "l": 103,
-       "rec": true
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Running the Anachronia Agility Course for codex pages",
@@ -1300,42 +1122,6 @@
      "quests": []
     },
     {
-     "name": "Big Game Hunter (Tier 3 dinosaurs)",
-     "line1": "Hunter 96, Slayer 76, Agility 85 (rec), Archaeology 103 (rec), Dungeoneering 95 (rec)",
-     "rate": "12.1M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.8M. Requires Hunter 96, Slayer 76, Agility 85 (rec), Archaeology 103 (rec), Dungeoneering 95 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Big_Game_Hunter#Tier_3_dinosaurs",
-     "reqs": [
-      {
-       "s": "Hunter",
-       "l": 96,
-       "rec": false
-      },
-      {
-       "s": "Slayer",
-       "l": 76,
-       "rec": false
-      },
-      {
-       "s": "Agility",
-       "l": 85,
-       "rec": true
-      },
-      {
-       "s": "Archaeology",
-       "l": 103,
-       "rec": true
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Making summoning potions",
      "line1": "Herblore 40, Dungeoneering 49",
      "rate": "12.1M/hr",
@@ -1452,32 +1238,6 @@
      ]
     },
     {
-     "name": "Tanning hides (Black dragonhide)",
-     "line1": "no requirements listed",
-     "rate": "11.3M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈67.6M. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Tanning_hides#Black_dragonhide",
-     "reqs": [],
-     "quests": []
-    },
-    {
-     "name": "Catching whirligigs (Gliding)",
-     "line1": "Hunter 30",
-     "rate": "10.4M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈65.3K. Requires Hunter 30. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Catching_whirligigs#Gliding",
-     "reqs": [
-      {
-       "s": "Hunter",
-       "l": 30,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Screening soil using Sift Soil (Saltwater mud)",
      "line1": "Archaeology 99, Archaeology 120 (rec), Magic 91, Summoning 50 (rec), Quests: Lunar Diplomacy",
      "rate": "10.3M/hr",
@@ -1562,16 +1322,6 @@
        "rec": true
       }
      ],
-     "quests": []
-    },
-    {
-     "name": "Tanning hides (Royal dragonhide)",
-     "line1": "no requirements listed",
-     "rate": "10.1M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈108.5M. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Tanning_hides#Royal_dragonhide",
-     "reqs": [],
      "quests": []
     },
     {
@@ -1845,22 +1595,6 @@
      "quests": []
     },
     {
-     "name": "Catching whirligigs (Speedy)",
-     "line1": "Hunter 90",
-     "rate": "9.0M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈77.8K. Requires Hunter 90. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Catching_whirligigs#Speedy",
-     "reqs": [
-      {
-       "s": "Hunter",
-       "l": 90,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Casting Bones to Bananas",
      "line1": "Magic 15",
      "rate": "8.9M/hr",
@@ -1954,24 +1688,6 @@
      ]
     },
     {
-     "name": "Making extra fine sand with Telekinetic Grind",
-     "line1": "Magic 85, Quests: Lunar Diplomacy",
-     "rate": "8.8M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈61.4M. Requires Magic 85, Quests: Lunar Diplomacy. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_extra_fine_sand_with_Telekinetic_Grind",
-     "reqs": [
-      {
-       "s": "Magic",
-       "l": 85,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Lunar Diplomacy"
-     ]
-    },
-    {
      "name": "Making infernal magic incense sticks",
      "line1": "Firemaking 75",
      "rate": "8.7M/hr",
@@ -1998,22 +1714,6 @@
       {
        "s": "Firemaking",
        "l": 75,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Tanning hides (Blue dragonhide)",
-     "line1": "Crafting 2",
-     "rate": "8.6M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈37.9M. Requires Crafting 2. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Tanning_hides#Blue_dragonhide",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 2,
        "rec": false
       }
      ],
@@ -2274,22 +1974,6 @@
      "quests": []
     },
     {
-     "name": "Tanning hides (Green dragonhide)",
-     "line1": "Crafting 2",
-     "rate": "7.8M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈24.1M. Requires Crafting 2. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Tanning_hides#Green_dragonhide",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 2,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Imbuing eternal magic weapons (Eternal magic wand)",
      "line1": "Runecrafting 104, Runecrafting 106 (rec), Quests: Making History",
      "rate": "7.4M/hr",
@@ -2311,27 +1995,6 @@
      "quests": [
       "Making History"
      ]
-    },
-    {
-     "name": "Creating small classic and large historic crates",
-     "line1": "Invention 20, Archaeology 5",
-     "rate": "7.4M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.8M. Requires Invention 20, Archaeology 5. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Creating_small_classic_and_large_historic_crates",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 20,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 5,
-       "rec": false
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Exchanging agility arena tickets for pirate hook",
@@ -2600,22 +2263,6 @@
      ]
     },
     {
-     "name": "Catching whirligigs (Swift)",
-     "line1": "Hunter 50",
-     "rate": "6.7M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.5K. Requires Hunter 50. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Catching_whirligigs#Swift",
-     "reqs": [
-      {
-       "s": "Hunter",
-       "l": 50,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Enchanting onyx bolts",
      "line1": "Magic 87",
      "rate": "6.7M/hr",
@@ -2696,58 +2343,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Smithing Masterwork armour",
-     "line1": "Smithing 99, Dungeoneering 70 (rec), Prayer 91, Archaeology 102, Quests: The Light Within, Plague's End",
-     "rate": "6.4M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈12.5M. Requires Smithing 99, Dungeoneering 70 (rec), Prayer 91, Archaeology 102, Quests: The Light Within, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Smithing_Masterwork_armour",
-     "reqs": [
-      {
-       "s": "Smithing",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 70,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 91,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 102,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "The Light Within",
-      "Plague's End"
-     ]
-    },
-    {
-     "name": "Tanning royal dragonhide with Make Leather",
-     "line1": "Magic 83, Quests: Dream Mentor",
-     "rate": "6.2M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈70.9M. Requires Magic 83, Quests: Dream Mentor. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Tanning_royal_dragonhide_with_Make_Leather",
-     "reqs": [
-      {
-       "s": "Magic",
-       "l": 83,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Dream Mentor"
-     ]
     },
     {
      "name": "Making standard teleport tablets (Lumbridge teleport)",
@@ -3121,27 +2716,6 @@
      ]
     },
     {
-     "name": "Enchanting bakriminel bolts (Opal)",
-     "line1": "Fletching 89, Magic 89",
-     "rate": "5.7M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.3M. Requires Fletching 89, Magic 89. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Enchanting_bakriminel_bolts#Opal",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 89,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 89,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Making standard teleport tablets (Heart teleport)",
      "line1": "Magic 61, Construction 67, Invention 60 (rec), Quests: Tales of the God Wars (miniquest)",
      "rate": "5.7M/hr",
@@ -3367,39 +2941,6 @@
      "quests": []
     },
     {
-     "name": "Pickpocketing TzHaar-Hur traders",
-     "line1": "Thieving 111, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within",
-     "rate": "5.0M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈119.7K. Requires Thieving 111, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_TzHaar-Hur_traders",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 111,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 84,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Light Within"
-     ]
-    },
-    {
      "name": "Constructing frames at Fort Forinthry (Acadia)",
      "line1": "Construction 50",
      "rate": "5.0M/hr",
@@ -3432,24 +2973,6 @@
      "quests": []
     },
     {
-     "name": "Making planks in Fort Forinthry (Magic)",
-     "line1": "Construction 80, Quests: New Foundations",
-     "rate": "4.9M/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.6M. Requires Construction 80, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_planks_in_Fort_Forinthry#Magic",
-     "reqs": [
-      {
-       "s": "Construction",
-       "l": 80,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
-     ]
-    },
-    {
      "name": "Making primal extracts (102 Herblore)",
      "line1": "Herblore 102",
      "rate": "4.8M/hr",
@@ -3464,39 +2987,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Pickpocketing Goebie scavengers",
-     "line1": "Thieving 102, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within",
-     "rate": "4.8M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈119.7K. Requires Thieving 102, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Goebie_scavengers",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 102,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 84,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Light Within"
-     ]
     },
     {
      "name": "Screening aerated sediment",
@@ -3528,40 +3018,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Pickpocketing vyrelord and vyrelady consumers",
-     "line1": "Thieving 118, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Branches of Darkmeyer, The Li",
-     "rate": "4.7M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈119.7K. Requires Thieving 118, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Branches of Darkmeyer, The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_vyrelord_and_vyrelady_consumers",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 118,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 84,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Branches of Darkmeyer",
-      "The Light Within"
-     ]
     },
     {
      "name": "Screening fiery brimstone",
@@ -3632,45 +3088,6 @@
      "quests": [
       "Dwarf Cannon",
       "Ghosts Ahoy"
-     ]
-    },
-    {
-     "name": "Crafting dust runes (Earth altar with hot air balloon)",
-     "line1": "Runecrafting 10, Runecrafting 90 (rec), Magic 82, Summoning 93 (rec), Archaeology 36 (rec), Quests: Lunar Dipl",
-     "rate": "4.6M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.2M. Requires Runecrafting 10, Runecrafting 90 (rec), Magic 82, Summoning 93 (rec), Archaeology 36 (rec), Quests: Lunar Diplomacy, Enlightened Journey. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_dust_runes#Earth_altar_with_hot_air_balloon",
-     "reqs": [
-      {
-       "s": "Runecrafting",
-       "l": 10,
-       "rec": false
-      },
-      {
-       "s": "Runecrafting",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 82,
-       "rec": false
-      },
-      {
-       "s": "Summoning",
-       "l": 93,
-       "rec": true
-      },
-      {
-       "s": "Archaeology",
-       "l": 36,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Lunar Diplomacy",
-      "Enlightened Journey"
      ]
     },
     {
@@ -3823,24 +3240,6 @@
      ]
     },
     {
-     "name": "Crafting dragonstone jewellery (Necklaces)",
-     "line1": "Crafting 72, Quests: New Foundations",
-     "rate": "4.4M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈11.4M. Requires Crafting 72, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_dragonstone_jewellery#Necklaces",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 72,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
-     ]
-    },
-    {
      "name": "Smelting bane bars",
      "line1": "Smithing 80, Smithing 89 (rec), Prayer 91 (rec), Archaeology 102, Smithing 99, Quests: Family Crest, Plague's ",
      "rate": "4.3M/hr",
@@ -3879,22 +3278,6 @@
       "Plague's End",
       "The Light Within"
      ]
-    },
-    {
-     "name": "Blessing extra fine sand",
-     "line1": "Prayer 20",
-     "rate": "4.3M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.0M. Requires Prayer 20. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Blessing_extra_fine_sand",
-     "reqs": [
-      {
-       "s": "Prayer",
-       "l": 20,
-       "rec": false
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Crafting ganodermic visors",
@@ -4071,62 +3454,6 @@
      ]
     },
     {
-     "name": "Crafting dragonstone jewellery (Bracelets)",
-     "line1": "Crafting 74, Quests: New Foundations",
-     "rate": "4.2M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈11.4M. Requires Crafting 74, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_dragonstone_jewellery#Bracelets",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 74,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
-     ]
-    },
-    {
-     "name": "Crafting dust runes (Air altar)",
-     "line1": "Runecrafting 10, Runecrafting 90 (rec), Magic 82, Summoning 93 (rec), Archaeology 36 (rec), Quests: Lunar Dipl",
-     "rate": "4.2M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈887.3K. Requires Runecrafting 10, Runecrafting 90 (rec), Magic 82, Summoning 93 (rec), Archaeology 36 (rec), Quests: Lunar Diplomacy. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_dust_runes#Air_altar",
-     "reqs": [
-      {
-       "s": "Runecrafting",
-       "l": 10,
-       "rec": false
-      },
-      {
-       "s": "Runecrafting",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 82,
-       "rec": false
-      },
-      {
-       "s": "Summoning",
-       "l": 93,
-       "rec": true
-      },
-      {
-       "s": "Archaeology",
-       "l": 36,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Lunar Diplomacy"
-     ]
-    },
-    {
      "name": "Constructing frames at Fort Forinthry (Teak)",
      "line1": "Construction 30",
      "rate": "4.1M/hr",
@@ -4153,22 +3480,6 @@
       {
        "s": "Herblore",
        "l": 49,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making torstol incense sticks",
-     "line1": "Firemaking 75",
-     "rate": "4.0M/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.0M. Requires Firemaking 75. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_torstol_incense_sticks",
-     "reqs": [
-      {
-       "s": "Firemaking",
-       "l": 75,
        "rec": false
       }
      ],
@@ -4492,40 +3803,6 @@
      "quests": []
     },
     {
-     "name": "Pickpocketing Vyrewatch tither",
-     "line1": "Thieving 100, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Branches of Darkmeyer, The Li",
-     "rate": "3.6M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈119.7K. Requires Thieving 100, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Branches of Darkmeyer, The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Vyrewatch_tither",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 100,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 84,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Branches of Darkmeyer",
-      "The Light Within"
-     ]
-    },
-    {
      "name": "Excavating Xolo remains",
      "line1": "Archaeology 119, Summoning 50",
      "rate": "3.6M/hr",
@@ -4626,24 +3903,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Making planks in Fort Forinthry (Yew)",
-     "line1": "Construction 70, Quests: New Foundations",
-     "rate": "3.6M/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.1M. Requires Construction 70, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_planks_in_Fort_Forinthry#Yew",
-     "reqs": [
-      {
-       "s": "Construction",
-       "l": 70,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
-     ]
     },
     {
      "name": "Looting Shifting Tombs (Full completion)",
@@ -4825,16 +4084,6 @@
        "rec": false
       }
      ],
-     "quests": []
-    },
-    {
-     "name": "Crushing desert goat horns",
-     "line1": "no requirements listed",
-     "rate": "3.4M/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈950.0K. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Crushing_desert_goat_horns",
-     "reqs": [],
      "quests": []
     },
     {
@@ -5075,24 +4324,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Making planks in Fort Forinthry (Willow)",
-     "line1": "Construction 20, Quests: New Foundations",
-     "rate": "3.2M/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.5M. Requires Construction 20, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_planks_in_Fort_Forinthry#Willow",
-     "reqs": [
-      {
-       "s": "Construction",
-       "l": 20,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
-     ]
     },
     {
      "name": "Pickpocketing Archaeology professors (Kharid-et)",
@@ -5428,42 +4659,6 @@
      "quests": []
     },
     {
-     "name": "Making planks in Fort Forinthry (Elder)",
-     "line1": "Construction 90, Quests: New Foundations",
-     "rate": "3.0M/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈30.7M. Requires Construction 90, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_planks_in_Fort_Forinthry#Elder",
-     "reqs": [
-      {
-       "s": "Construction",
-       "l": 90,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
-     ]
-    },
-    {
-     "name": "Making planks in Fort Forinthry (Mahogany)",
-     "line1": "Construction 60, Quests: New Foundations",
-     "rate": "3.0M/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5M. Requires Construction 60, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_planks_in_Fort_Forinthry#Mahogany",
-     "reqs": [
-      {
-       "s": "Construction",
-       "l": 60,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
-     ]
-    },
-    {
      "name": "Excavating material cache (Stormguard steel)",
      "line1": "Archaeology 70, Archaeology 76 (rec)",
      "rate": "2.9M/hr",
@@ -5506,24 +4701,6 @@
      "quests": []
     },
     {
-     "name": "Making ritual candles (Greater)",
-     "line1": "Necromancy 60, Quests: Necromancy!",
-     "rate": "2.9M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Necromancy 60, Quests: Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_ritual_candles#Greater",
-     "reqs": [
-      {
-       "s": "Necromancy",
-       "l": 60,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Necromancy!"
-     ]
-    },
-    {
      "name": "Constructing frames at Fort Forinthry (Maple)",
      "line1": "Construction 40",
      "rate": "2.9M/hr",
@@ -5535,27 +4712,6 @@
        "s": "Construction",
        "l": 40,
        "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Charging dinarrows (Jas)",
-     "line1": "Fletching 95, Fletching 99 (rec)",
-     "rate": "2.9M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈15.5M. Requires Fletching 95, Fletching 99 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Charging_dinarrows#Jas",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Fletching",
-       "l": 99,
-       "rec": true
       }
      ],
      "quests": []
@@ -5608,24 +4764,6 @@
      "quests": []
     },
     {
-     "name": "Making planks in Fort Forinthry (Acadia)",
-     "line1": "Construction 50, Quests: New Foundations",
-     "rate": "2.9M/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.0M. Requires Construction 50, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_planks_in_Fort_Forinthry#Acadia",
-     "reqs": [
-      {
-       "s": "Construction",
-       "l": 50,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
-     ]
-    },
-    {
      "name": "Mining common gem rocks in Al Kharid mine",
      "line1": "Dungeoneering 99 (rec), Mining 40 (rec)",
      "rate": "2.8M/hr",
@@ -5661,24 +4799,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Crafting dragonstone jewellery (Rings)",
-     "line1": "Crafting 55, Quests: New Foundations",
-     "rate": "2.8M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈11.4M. Requires Crafting 55, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_dragonstone_jewellery#Rings",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 55,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
-     ]
     },
     {
      "name": "Opening muddy chests (Free-to-play)",
@@ -5784,24 +4904,6 @@
      "quests": []
     },
     {
-     "name": "Making planks in Fort Forinthry (Oak)",
-     "line1": "Construction 10, Quests: New Foundations",
-     "rate": "2.6M/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.5M. Requires Construction 10, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_planks_in_Fort_Forinthry#Oak",
-     "reqs": [
-      {
-       "s": "Construction",
-       "l": 10,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
-     ]
-    },
-    {
      "name": "Collecting anti-dragon shields",
      "line1": "Combat 40 (rec), Prayer 37 (rec), Quests: Dragon Slayer",
      "rate": "2.6M/hr",
@@ -5886,41 +4988,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Smelting primal bars",
-     "line1": "Smithing 100, Smithing 106 (rec), Prayer 91 (rec), Archaeology 102, Quests: Family Crest, Plague's End, The Li",
-     "rate": "2.6M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈411.9M. Requires Smithing 100, Smithing 106 (rec), Prayer 91 (rec), Archaeology 102, Quests: Family Crest, Plague's End, The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_primal_bars",
-     "reqs": [
-      {
-       "s": "Smithing",
-       "l": 100,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 91,
-       "rec": true
-      },
-      {
-       "s": "Archaeology",
-       "l": 102,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Family Crest",
-      "Plague's End",
-      "The Light Within"
-     ]
     },
     {
      "name": "Cleaning grimy snapdragon",
@@ -6080,24 +5147,6 @@
      ],
      "quests": [
       "Extinction"
-     ]
-    },
-    {
-     "name": "Crafting dragonstone jewellery (Unstrung amulets)",
-     "line1": "Crafting 80, Quests: New Foundations",
-     "rate": "2.4M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈11.4M. Requires Crafting 80, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_dragonstone_jewellery#Unstrung_amulets",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 80,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
      ]
     },
     {
@@ -6381,27 +5430,6 @@
      "quests": []
     },
     {
-     "name": "Enchanting bakriminel bolts (Emerald)",
-     "line1": "Fletching 93, Magic 93",
-     "rate": "2.2M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.1M. Requires Fletching 93, Magic 93. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Enchanting_bakriminel_bolts#Emerald",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 93,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 93,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Mining concentrated coal rocks",
      "line1": "Mining 70, Summoning 83 (rec)",
      "rate": "2.2M/hr",
@@ -6516,22 +5544,6 @@
        "s": "Herblore",
        "l": 48,
        "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making yew incense sticks",
-     "line1": "Firemaking 65",
-     "rate": "2.1M/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.7M. Requires Firemaking 65. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_yew_incense_sticks",
-     "reqs": [
-      {
-       "s": "Firemaking",
-       "l": 65,
-       "rec": false
       }
      ],
      "quests": []
@@ -6665,27 +5677,6 @@
      "quests": []
     },
     {
-     "name": "Cultivating hydrangea bushes at Het's Oasis",
-     "line1": "Farming 70, Farming 99 (rec)",
-     "rate": "2.0M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈263.7K. Requires Farming 70, Farming 99 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Cultivating_hydrangea_bushes_at_Het%27s_Oasis",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 99,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Catching sailfish",
      "line1": "Fishing 97, Invention 85 (rec)",
      "rate": "2.0M/hr",
@@ -6705,67 +5696,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Tipping bakriminel bolts (Dragonstone)",
-     "line1": "Fletching 97, Construction 65, Quests: Dead and Buried",
-     "rate": "2.0M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.6M. Requires Fletching 97, Construction 65, Quests: Dead and Buried. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Tipping_bakriminel_bolts#Dragonstone",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 97,
-       "rec": false
-      },
-      {
-       "s": "Construction",
-       "l": 65,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Dead and Buried"
-     ]
-    },
-    {
-     "name": "Smithing elder rune + 5 items",
-     "line1": "Smithing 90, Smithing 99 (rec), Prayer 91 (rec), Invention 76 (rec), Herblore 95, Quests: The Light Within",
-     "rate": "1.9M/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.4M. Requires Smithing 90, Smithing 99 (rec), Prayer 91 (rec), Invention 76 (rec), Herblore 95, Quests: The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Smithing_elder_rune_%2B_5_items",
-     "reqs": [
-      {
-       "s": "Smithing",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 99,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 91,
-       "rec": true
-      },
-      {
-       "s": "Invention",
-       "l": 76,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 95,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "The Light Within"
-     ]
     },
     {
      "name": "Pickpocketing elven workers (Amlodd)",
@@ -6923,27 +5853,6 @@
      "quests": []
     },
     {
-     "name": "Enchanting bakriminel bolts (Diamond)",
-     "line1": "Fletching 96, Magic 96",
-     "rate": "1.8M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.2M. Requires Fletching 96, Magic 96. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Enchanting_bakriminel_bolts#Diamond",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 96,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 96,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Completing the Zamorakian collection (Zamorakian IV)",
      "line1": "Archaeology 116, Archaeology 120 (rec)",
      "rate": "1.8M/hr",
@@ -7019,29 +5928,6 @@
      "quests": [
       "Plague's End",
       "The Light Within"
-     ]
-    },
-    {
-     "name": "Smelting silver bars",
-     "line1": "Smithing 20, Necromancy 5, Quests: Necromancy!",
-     "rate": "1.8M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.3M. Requires Smithing 20, Necromancy 5, Quests: Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_silver_bars",
-     "reqs": [
-      {
-       "s": "Smithing",
-       "l": 20,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 5,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Necromancy!"
      ]
     },
     {
@@ -7616,27 +6502,6 @@
      "quests": []
     },
     {
-     "name": "Charging dinarrows (Ful)",
-     "line1": "Fletching 95, Fletching 99 (rec)",
-     "rate": "1.5M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈14.6M. Requires Fletching 95, Fletching 99 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Charging_dinarrows#Ful",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Fletching",
-       "l": 99,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Cutting jade",
      "line1": "Crafting 13, Crafting 50 (rec)",
      "rate": "1.5M/hr",
@@ -7899,24 +6764,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Making ritual candles (Regular)",
-     "line1": "Necromancy 20, Quests: Necromancy!",
-     "rate": "1.3M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈506.9K. Requires Necromancy 20, Quests: Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_ritual_candles#Regular",
-     "reqs": [
-      {
-       "s": "Necromancy",
-       "l": 20,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Necromancy!"
-     ]
     },
     {
      "name": "Harvesting elder energy",
@@ -8225,37 +7072,6 @@
       {
        "s": "Smithing",
        "l": 20,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Creating XP capacitor 5000s",
-     "line1": "Invention 106, Crafting 80, Smithing 80, Divination 80",
-     "rate": "1.1M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.2M. Requires Invention 106, Crafting 80, Smithing 80, Divination 80. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Creating_XP_capacitor_5000s",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 106,
-       "rec": false
-      },
-      {
-       "s": "Crafting",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Divination",
-       "l": 80,
        "rec": false
       }
      ],
@@ -8596,27 +7412,6 @@
      "quests": []
     },
     {
-     "name": "Charging dinarrows (Wen)",
-     "line1": "Fletching 95, Fletching 99 (rec)",
-     "rate": "878.4K/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈14.6M. Requires Fletching 95, Fletching 99 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Charging_dinarrows#Wen",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Fletching",
-       "l": 99,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Buying buckets of milk",
      "line1": "no requirements listed",
      "rate": "856.1K/hr",
@@ -8677,22 +7472,6 @@
      "quests": []
     },
     {
-     "name": "Creating equipment siphon",
-     "line1": "Invention 27",
-     "rate": "826.1K/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.2M. Requires Invention 27. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Creating_equipment_siphon",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 27,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Cutting willow logs",
      "line1": "Woodcutting 20",
      "rate": "820.7K/hr",
@@ -8709,37 +7488,6 @@
      "quests": []
     },
     {
-     "name": "Creating mechanised chinchompas",
-     "line1": "Invention 50, Crafting 80, Smithing 80, Divination 80",
-     "rate": "811.0K/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.6M. Requires Invention 50, Crafting 80, Smithing 80, Divination 80. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Creating_mechanised_chinchompas",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 50,
-       "rec": false
-      },
-      {
-       "s": "Crafting",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Divination",
-       "l": 80,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Spinning flax (Spinning wheel)",
      "line1": "Crafting 1",
      "rate": "802.2K/hr",
@@ -8750,22 +7498,6 @@
       {
        "s": "Crafting",
        "l": 1,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Grinding sandstone into extra fine sand",
-     "line1": "Crafting 20",
-     "rate": "800.8K/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.0M. Requires Crafting 20. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Grinding_sandstone_into_extra_fine_sand",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 20,
        "rec": false
       }
      ],
@@ -9099,27 +7831,6 @@
      "quests": []
     },
     {
-     "name": "Enchanting bakriminel bolts (Ruby)",
-     "line1": "Fletching 95, Magic 95",
-     "rate": "537.3K/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.7M. Requires Fletching 95, Magic 95. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Enchanting_bakriminel_bolts#Ruby",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 95,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Collecting harmonic dust",
      "line1": "Crafting 75, Quests: Plague's End",
      "rate": "517.4K/hr",
@@ -9376,22 +8087,6 @@
      "quests": []
     },
     {
-     "name": "Catching whirligigs (Hasty)",
-     "line1": "Hunter 70",
-     "rate": "156.8K/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈58.0K. Requires Hunter 70. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Catching_whirligigs#Hasty",
-     "reqs": [
-      {
-       "s": "Hunter",
-       "l": 70,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Smithing adamant arrowheads (From ores)",
      "line1": "Smithing 40",
      "rate": "143.1K/hr",
@@ -9457,40 +8152,6 @@
      ]
     },
     {
-     "name": "Making planks in Fort Forinthry (Maple)",
-     "line1": "Construction 40, Quests: New Foundations",
-     "rate": "120.0K/hr",
-     "badge": "MODERATE",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.1M. Requires Construction 40, Quests: New Foundations. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_planks_in_Fort_Forinthry#Maple",
-     "reqs": [
-      {
-       "s": "Construction",
-       "l": 40,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "New Foundations"
-     ]
-    },
-    {
-     "name": "Catching whirligigs (Plain)",
-     "line1": "Hunter 16",
-     "rate": "106.5K/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Hunter 16. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Catching_whirligigs#Plain",
-     "reqs": [
-      {
-       "s": "Hunter",
-       "l": 16,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Casting siphon self",
      "line1": "Divination 95, Summoning 81",
      "rate": "105.6K/hr",
@@ -9519,143 +8180,6 @@
    "personal": true,
    "note": "bosses & mobs by gp/hr · badge = intensity",
    "items": [
-    {
-     "name": "Killing Amascut, the Devourer (2000 Enrage)",
-     "line1": "Attack 99, Ranged 99, Magic 99, Necromancy 99, Defence 99 (rec), Herblore 106 (rec), Prayer 95 (rec), Inventio",
-     "rate": "187.1M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.9M. Requires Attack 99, Ranged 99, Magic 99, Necromancy 99, Defence 99 (rec), Herblore 106 (rec), Prayer 95 (rec), Invention 89 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Amascut,_the_Devourer#2000_Enrage",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 99,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Killing Zemouregal & Vorkath (Hard Mode w/ Flight Skip)",
-     "line1": "Combat 115 (rec), Prayer 95 (rec), Herblore 96 (rec), Quests: Battle of Forinthry",
-     "rate": "181.3M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.1M. Requires Combat 115 (rec), Prayer 95 (rec), Herblore 96 (rec), Quests: Battle of Forinthry. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Zemouregal_%26_Vorkath#Hard_Mode_w/_Flight_Skip",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 115,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 96,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Battle of Forinthry"
-     ]
-    },
-    {
-     "name": "Killing Telos, the Warden (200 Killstreak)",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 106 (rec), Prayer 95 (rec), Summonin",
-     "rate": "171.5M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.2M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 106 (rec), Prayer 95 (rec), Summoning 73 (rec), Necromancy 73 (rec), Quests: The Temple at Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Telos,_the_Warden#200_Killstreak",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 73,
-       "rec": true
-      },
-      {
-       "s": "Necromancy",
-       "l": 73,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Temple at Senntisten"
-     ]
-    },
     {
      "name": "Killing Zamorak, Lord of Chaos (2000 enrage)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96, Herblore 106 (rec), Prayer 95, ",
@@ -9703,57 +8227,6 @@
        "s": "Prayer",
        "l": 95,
        "rec": false
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Killing Amascut, the Devourer (1000 Enrage)",
-     "line1": "Attack 99, Ranged 99, Magic 99, Necromancy 99, Defence 99 (rec), Herblore 106 (rec), Prayer 95 (rec), Inventio",
-     "rate": "131.2M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.9M. Requires Attack 99, Ranged 99, Magic 99, Necromancy 99, Defence 99 (rec), Herblore 106 (rec), Prayer 95 (rec), Invention 89 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Amascut,_the_Devourer#1000_Enrage",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 99,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
       },
       {
        "s": "Invention",
@@ -9907,59 +8380,6 @@
      ]
     },
     {
-     "name": "Killing Telos, the Warden (2449 Enrage Claims)",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 106 (rec), Prayer 95 (rec), Summonin",
-     "rate": "92.7M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 106 (rec), Prayer 95 (rec), Summoning 99 (rec), Quests: The Temple at Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Telos,_the_Warden#2449_Enrage_Claims",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 99,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Temple at Senntisten"
-     ]
-    },
-    {
      "name": "Killing Nex, Angel of Death (Duo)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec)",
      "rate": "90.4M/hr",
@@ -10001,57 +8421,6 @@
        "s": "Prayer",
        "l": 95,
        "rec": false
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Killing Amascut, the Devourer (750 Enrage)",
-     "line1": "Attack 99, Ranged 99, Magic 99, Necromancy 99, Defence 99 (rec), Herblore 106 (rec), Prayer 95 (rec), Inventio",
-     "rate": "88.7M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.9M. Requires Attack 99, Ranged 99, Magic 99, Necromancy 99, Defence 99 (rec), Herblore 106 (rec), Prayer 95 (rec), Invention 89 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Amascut,_the_Devourer#750_Enrage",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 99,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
       },
       {
        "s": "Invention",
@@ -10159,85 +8528,6 @@
        "s": "Prayer",
        "l": 95,
        "rec": false
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Killing Zemouregal & Vorkath (Hard Mode, Magic)",
-     "line1": "Combat 115 (rec), Prayer 95 (rec), Herblore 96 (rec), Quests: Battle of Forinthry",
-     "rate": "75.4M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.1M. Requires Combat 115 (rec), Prayer 95 (rec), Herblore 96 (rec), Quests: Battle of Forinthry. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Zemouregal_%26_Vorkath#Hard_Mode,_Magic",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 115,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 96,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Battle of Forinthry"
-     ]
-    },
-    {
-     "name": "Killing Amascut, the Devourer (500 Enrage)",
-     "line1": "Attack 99, Ranged 99, Magic 99, Necromancy 99, Defence 99 (rec), Herblore 106 (rec), Prayer 95 (rec), Inventio",
-     "rate": "73.2M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.9M. Requires Attack 99, Ranged 99, Magic 99, Necromancy 99, Defence 99 (rec), Herblore 106 (rec), Prayer 95 (rec), Invention 89 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Amascut,_the_Devourer#500_Enrage",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 99,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
       },
       {
        "s": "Invention",
@@ -10389,57 +8679,6 @@
      ]
     },
     {
-     "name": "Killing Amascut, the Devourer (100 Enrage)",
-     "line1": "Attack 99, Ranged 99, Magic 99, Necromancy 99, Defence 99 (rec), Herblore 106 (rec), Prayer 95 (rec), Inventio",
-     "rate": "59.0M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.9M. Requires Attack 99, Ranged 99, Magic 99, Necromancy 99, Defence 99 (rec), Herblore 106 (rec), Prayer 95 (rec), Invention 89 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Amascut,_the_Devourer#100_Enrage",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 99,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Killing Nex, Angel of Death (7-player)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96, Herblore 106 (rec), Prayer 95, ",
      "rate": "56.9M/hr",
@@ -10494,34 +8733,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Killing Zemouregal & Vorkath (Hard Mode, Necromancy)",
-     "line1": "Combat 115 (rec), Prayer 95 (rec), Herblore 96 (rec), Quests: Battle of Forinthry",
-     "rate": "54.8M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.5M. Requires Combat 115 (rec), Prayer 95 (rec), Herblore 96 (rec), Quests: Battle of Forinthry. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Zemouregal_%26_Vorkath#Hard_Mode,_Necromancy",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 115,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 96,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Battle of Forinthry"
-     ]
     },
     {
      "name": "Killing Zamorak, Lord of Chaos (100 enrage)",
@@ -10634,60 +8845,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Killing Raksha",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96 (rec), Herblore 106 (rec), Praye",
-     "rate": "46.3M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.6M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96 (rec), Herblore 106 (rec), Prayer 95 (rec), Quests: Raksha, the Shadow Colossus (quest), Extinction. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Raksha",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 96,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Raksha, the Shadow Colossus (quest)",
-      "Extinction"
-     ]
     },
     {
      "name": "Killing Solak",
@@ -11080,59 +9237,6 @@
      ]
     },
     {
-     "name": "Killing Telos, the Warden (999 Enrage Claims)",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 106 (rec), Prayer 95 (rec), Summonin",
-     "rate": "33.4M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.2M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 106 (rec), Prayer 95 (rec), Summoning 99 (rec), Quests: The Temple at Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Telos,_the_Warden#999_Enrage_Claims",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 99,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Temple at Senntisten"
-     ]
-    },
-    {
      "name": "Killing Vorago (Solo)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Praye",
      "rate": "33.2M/hr",
@@ -11413,39 +9517,6 @@
       "Fate of the Gods",
       "The Temple at Senntisten",
       "Animal Magnetism"
-     ]
-    },
-    {
-     "name": "Killing Zemouregal & Vorkath (Normal Mode)",
-     "line1": "Necromancy 90 (rec), Defence 90 (rec), Prayer 95 (rec), Herblore 96 (rec), Quests: Battle of Forinthry",
-     "rate": "24.7M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.4M. Requires Necromancy 90 (rec), Defence 90 (rec), Prayer 95 (rec), Herblore 96 (rec), Quests: Battle of Forinthry. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Zemouregal_%26_Vorkath#Normal_Mode",
-     "reqs": [
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 96,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Battle of Forinthry"
      ]
     },
     {
@@ -12804,57 +10875,6 @@
      ]
     },
     {
-     "name": "Killing Amascut, the Devourer (Normal Mode)",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 96 (rec), Prayer 95 (rec), Invention",
-     "rate": "11.4M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.5M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 96 (rec), Prayer 95 (rec), Invention 89 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Amascut,_the_Devourer#Normal_Mode",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 96,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Completing ED3 - Shadow Reef (Duo)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96 (rec), Herblore 96 (rec), Prayer 95 (rec), Inventi",
      "rate": "11.4M/hr",
@@ -13836,59 +11856,6 @@
      "quests": []
     },
     {
-     "name": "Killing Telos, the Warden (100 Enrage Claims)",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 106 (rec), Prayer 95 (rec), Summonin",
-     "rate": "6.1M/hr",
-     "badge": "HIGH",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.9M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 106 (rec), Prayer 95 (rec), Summoning 99 (rec), Quests: The Temple at Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Telos,_the_Warden#100_Enrage_Claims",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 99,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Temple at Senntisten"
-     ]
-    },
-    {
      "name": "Killing capsarii",
      "line1": "Slayer 99, Herblore 96 (rec), Prayer 92 (rec), Ranged 80 (rec), Defence 80 (rec), Summoning 99 (rec), Quests: ",
      "rate": "5.8M/hr",
@@ -14281,34 +12248,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Scavenging",
-     "line1": "Invention 85, Combat 80 (rec), Prayer 92 (rec), Quests: The Blood Pact",
-     "rate": "4.7M/hr",
-     "badge": "LOW",
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈552.2K. Requires Invention 85, Combat 80 (rec), Prayer 92 (rec), Quests: The Blood Pact. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Scavenging",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 85,
-       "rec": false
-      },
-      {
-       "s": "Combat",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 92,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Blood Pact"
-     ]
     },
     {
      "name": "Killing acheron mammoths",
@@ -16773,57 +14712,6 @@
    "note": "machines, farm runs & buy-limit-capped methods — profit per real-time day, minutes of effort per cycle",
    "items": [
     {
-     "name": "Farming starbloom flowers",
-     "line1": "Farming 100, Quests: Stellar Born, Wiz Kid",
-     "rate": "≈93.9M/day passive",
-     "badge": "LOW",
-     "detail": "978.2K per 0h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈181.3K. Requires Farming 100, Quests: Stellar Born, Wiz Kid. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_starbloom_flowers",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 100,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Stellar Born",
-      "Wiz Kid"
-     ]
-    },
-    {
-     "name": "Cleaning grimy dwarf weed",
-     "line1": "Herblore 99",
-     "rate": "≈40.5M/day passive",
-     "badge": "HIGH",
-     "detail": "6.8M per 4h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈35.8M. Requires Herblore 99. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Cleaning_grimy_dwarf_weed",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 99,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Cleaning grimy harralander",
-     "line1": "Herblore 99",
-     "rate": "≈40.1M/day passive",
-     "badge": "HIGH",
-     "detail": "6.7M per 4h machine cycle, only ~4 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈31.4M. Requires Herblore 99. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Cleaning_grimy_harralander",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 99,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Farming dwarf weed (with Plant Power T4)",
      "line1": "Farming 79, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End, Wiz Kid",
      "rate": "≈34.3M/day passive",
@@ -17055,22 +14943,6 @@
       "My Arm's Big Adventure",
       "Plague's End"
      ]
-    },
-    {
-     "name": "Charging inert adrenaline crystals",
-     "line1": "Herblore 93",
-     "rate": "≈14.0M/day passive",
-     "badge": null,
-     "detail": "14.0M per 24h machine cycle, only ~60 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.2M. Requires Herblore 93. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Charging_inert_adrenaline_crystals",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 93,
-       "rec": false
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Farming dwarf weed (without Plant Power T4)",
@@ -17376,22 +15248,6 @@
       "My Arm's Big Adventure",
       "Plague's End"
      ]
-    },
-    {
-     "name": "Making ultracompost (infernus pyroclasts)",
-     "line1": "Farming 50",
-     "rate": "≈5.4M/day passive",
-     "badge": "LOW",
-     "detail": "6.3M per 28h machine cycle, only ~20 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.6M. Requires Farming 50. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_ultracompost_(infernus_pyroclasts)",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 50,
-       "rec": false
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Completing Soul Reaper tasks",
@@ -17799,22 +15655,6 @@
      ]
     },
     {
-     "name": "Operating high capacity plank maker (Magic planks)",
-     "line1": "Invention 117",
-     "rate": "≈1.7M/day passive",
-     "badge": null,
-     "detail": "11.8M per 168h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.6M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Magic_planks",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 117,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Picking coconuts",
      "line1": "Farming 68, Summoning 78, Quests: Plague's End, The Path of Glouphrie, The Prisoner of Glouphrie",
      "rate": "≈1.7M/day passive",
@@ -17886,22 +15726,6 @@
       "My Arm's Big Adventure",
       "Plague's End"
      ]
-    },
-    {
-     "name": "Operating optimised hide tanner (Snake hide (swamp))",
-     "line1": "Invention 111",
-     "rate": "≈1.5M/day passive",
-     "badge": "LOW",
-     "detail": "12.1M per 192h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈16.4M. Requires Invention 111. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_optimised_hide_tanner#Snake_hide_(swamp)",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 111,
-       "rec": false
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Buying from the Culinaromancer's Chest (Food)",
@@ -18008,22 +15832,6 @@
      "quests": []
     },
     {
-     "name": "Operating optimised hide tanner (Undead dragonhide)",
-     "line1": "Invention 111",
-     "rate": "≈1.2M/day passive",
-     "badge": "LOW",
-     "detail": "9.5M per 192h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈146.5M. Requires Invention 111. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_optimised_hide_tanner#Undead_dragonhide",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 111,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Making potion flasks",
      "line1": "Crafting 89, Mining 81, Quests: As a First Resort",
      "rate": "≈1.2M/day passive",
@@ -18047,22 +15855,6 @@
      ]
     },
     {
-     "name": "Operating high capacity plank maker (Yew planks)",
-     "line1": "Invention 117",
-     "rate": "≈1.1M/day passive",
-     "badge": null,
-     "detail": "7.9M per 168h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.2M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Yew_planks",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 117,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Farming marigolds",
      "line1": "Farming 2",
      "rate": "≈986.7K/day passive",
@@ -18073,70 +15865,6 @@
       {
        "s": "Farming",
        "l": 2,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating high capacity plank maker (Willow planks)",
-     "line1": "Invention 117",
-     "rate": "≈965.7K/day passive",
-     "badge": null,
-     "detail": "6.8M per 168h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.2M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Willow_planks",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 117,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating high capacity plank maker (Elder planks)",
-     "line1": "Invention 117",
-     "rate": "≈893.9K/day passive",
-     "badge": null,
-     "detail": "6.3M per 168h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈94.8M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Elder_planks",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 117,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating high capacity plank maker (Mahogany planks)",
-     "line1": "Invention 117",
-     "rate": "≈871.4K/day passive",
-     "badge": null,
-     "detail": "6.1M per 168h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.4M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Mahogany_planks",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 117,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating high capacity plank maker (Acadia planks)",
-     "line1": "Invention 117",
-     "rate": "≈828.5K/day passive",
-     "badge": null,
-     "detail": "5.8M per 168h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈11.7M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Acadia_planks",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 117,
        "rec": false
       }
      ],
@@ -18221,32 +15949,6 @@
      ]
     },
     {
-     "name": "Buying construction materials from Bandit Duty Free",
-     "line1": "no requirements listed",
-     "rate": "≈750.4K/day passive",
-     "badge": "MODERATE",
-     "detail": "750.4K per 24h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.9M. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Buying_construction_materials_from_Bandit_Duty_Free",
-     "reqs": [],
-     "quests": []
-    },
-    {
-     "name": "Operating high capacity plank maker (Oak planks)",
-     "line1": "Invention 117",
-     "rate": "≈740.7K/day passive",
-     "badge": null,
-     "detail": "5.2M per 168h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.1M. Requires Invention 117. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_high_capacity_plank_maker#Oak_planks",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 117,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Buying feathers",
      "line1": "Fishing 68 (rec), Quests: Animal Magnetism, The Fremennik Trials, Shilo Village, The Jack of Spades, As a Firs",
      "rate": "≈675.6K/day passive",
@@ -18269,22 +15971,6 @@
       "Visions of Havenhythe",
       "Anachronia base camp tutorial"
      ]
-    },
-    {
-     "name": "Operating partial potion producer DX",
-     "line1": "Invention 114",
-     "rate": "≈630.3K/day passive",
-     "badge": "LOW",
-     "detail": "8.2M per 312h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈23.3M. Requires Invention 114. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_partial_potion_producer_DX",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 114,
-       "rec": false
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Buying mithril seeds",
@@ -18335,22 +16021,6 @@
       {
        "s": "Construction",
        "l": 60,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Operating optimised hide tanner (Black dragonhide)",
-     "line1": "Invention 111",
-     "rate": "≈588.4K/day passive",
-     "badge": "LOW",
-     "detail": "4.7M per 192h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈54.5M. Requires Invention 111. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_optimised_hide_tanner#Black_dragonhide",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 111,
        "rec": false
       }
      ],
@@ -18456,55 +16126,55 @@
   {
    "icon": "🛡",
    "title": "Sets",
-   "note": "GE-clerk set exchange, daily guide prices, no tax in RS3 · thinnest-leg volume gated",
+   "note": "GE-clerk set exchange, daily guide prices, 2% GE sell tax deducted · thinnest-leg volume gated",
    "items": [
     {
      "name": "Armadyl armour set (combine)",
      "line1": "buy pieces, combine at the GE clerk, sell the set",
-     "rate": "+5.7M · ≈5.7M/hr",
-     "detail": "Margin at daily guide prices; thinnest leg trades 46/day, projected 4 conversions/4h (≈22.7M per window). Guide prices are midpoints — real offers fill a few percent worse."
-    },
-    {
-     "name": "Overload ingredient set (combine)",
-     "line1": "buy pieces, combine at the GE clerk, sell the set",
-     "rate": "+5.6K · ≈5.2M/hr",
-     "detail": "Margin at daily guide prices; thinnest leg trades 36,540/day, projected 3,654 conversions/4h (≈20.6M per window). Guide prices are midpoints — real offers fill a few percent worse."
+     "rate": "+5.2M · ≈5.2M/hr",
+     "detail": "Margin at daily guide prices; thinnest leg trades 46/day, projected 4 conversions/4h (≈20.6M per window). Guide prices are midpoints — real offers fill a few percent worse."
     },
     {
      "name": "Robes of subjugation set (combine)",
      "line1": "buy pieces, combine at the GE clerk, sell the set",
-     "rate": "+4.7M · ≈3.5M/hr",
-     "detail": "Margin at daily guide prices; thinnest leg trades 35/day, projected 3 conversions/4h (≈14.1M per window). Guide prices are midpoints — real offers fill a few percent worse."
+     "rate": "+4.3M · ≈3.2M/hr",
+     "detail": "Margin at daily guide prices; thinnest leg trades 35/day, projected 3 conversions/4h (≈12.9M per window). Guide prices are midpoints — real offers fill a few percent worse."
     },
     {
      "name": "Virtus armour set (combine)",
      "line1": "buy pieces, combine at the GE clerk, sell the set",
-     "rate": "+11.9M · ≈3.0M/hr",
-     "detail": "Margin at daily guide prices; thinnest leg trades 7/day, projected 1 conversions/4h (≈11.9M per window). Guide prices are midpoints — real offers fill a few percent worse."
+     "rate": "+8.3M · ≈2.1M/hr",
+     "detail": "Margin at daily guide prices; thinnest leg trades 7/day, projected 1 conversions/4h (≈8.3M per window). Guide prices are midpoints — real offers fill a few percent worse."
     },
     {
      "name": "Bandos armour set (combine)",
      "line1": "buy pieces, combine at the GE clerk, sell the set",
-     "rate": "+1.9M · ≈962.3K/hr",
-     "detail": "Margin at daily guide prices; thinnest leg trades 25/day, projected 2 conversions/4h (≈3.8M per window). Guide prices are midpoints — real offers fill a few percent worse."
+     "rate": "+1.8M · ≈909.9K/hr",
+     "detail": "Margin at daily guide prices; thinnest leg trades 25/day, projected 2 conversions/4h (≈3.6M per window). Guide prices are midpoints — real offers fill a few percent worse."
     },
     {
      "name": "Elder rune armour set + 5 (combine)",
      "line1": "buy pieces, combine at the GE clerk, sell the set",
-     "rate": "+750.1K · ≈750.1K/hr",
-     "detail": "Margin at daily guide prices; thinnest leg trades 47/day, projected 4 conversions/4h (≈3.0M per window). Guide prices are midpoints — real offers fill a few percent worse."
+     "rate": "+597.1K · ≈597.1K/hr",
+     "detail": "Margin at daily guide prices; thinnest leg trades 47/day, projected 4 conversions/4h (≈2.4M per window). Guide prices are midpoints — real offers fill a few percent worse."
     },
     {
      "name": "Elder rune armour set + 4 (combine)",
      "line1": "buy pieces, combine at the GE clerk, sell the set",
-     "rate": "+2.2M · ≈539.2K/hr",
-     "detail": "Margin at daily guide prices; thinnest leg trades 5/day, projected 1 conversions/4h (≈2.2M per window). Guide prices are midpoints — real offers fill a few percent worse."
+     "rate": "+2.0M · ≈501.3K/hr",
+     "detail": "Margin at daily guide prices; thinnest leg trades 5/day, projected 1 conversions/4h (≈2.0M per window). Guide prices are midpoints — real offers fill a few percent worse."
     },
     {
      "name": "Dragon plate armour set (lg) (combine)",
      "line1": "buy pieces, combine at the GE clerk, sell the set",
-     "rate": "+1.6M · ≈388.5K/hr",
-     "detail": "Margin at daily guide prices; thinnest leg trades 13/day, projected 1 conversions/4h (≈1.6M per window). Guide prices are midpoints — real offers fill a few percent worse."
+     "rate": "+1.4M · ≈349.6K/hr",
+     "detail": "Margin at daily guide prices; thinnest leg trades 13/day, projected 1 conversions/4h (≈1.4M per window). Guide prices are midpoints — real offers fill a few percent worse."
+    },
+    {
+     "name": "Orikalkum armour set + 3 (combine)",
+     "line1": "buy pieces, combine at the GE clerk, sell the set",
+     "rate": "+704.2K · ≈176.1K/hr",
+     "detail": "Margin at daily guide prices; thinnest leg trades 13/day, projected 1 conversions/4h (≈704.2K per window). Guide prices are midpoints — real offers fill a few percent worse."
     }
    ]
   }
