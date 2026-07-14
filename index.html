@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RS3 Money Advisor (preview)</title>
+<meta name="description" content="RuneScape 3 gold-making dashboard — preview build. The live RS3 data feed is under construction; see the OSRS Money Advisor for live prices.">
+<meta property="og:title" content="RS3 Money Advisor (preview)">
+<meta property="og:description" content="RuneScape 3 gold-making dashboard — preview build, live data feed under construction.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔷</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background-color: oklch(13% 0.012 250);
+    background-image:
+      radial-gradient(ellipse 1000px 500px at 50% -10%, oklch(24% 0.05 245 / 0.4), transparent),
+      radial-gradient(ellipse 500px 400px at 15% 30%, oklch(18% 0.02 250 / 0.6), transparent),
+      radial-gradient(ellipse 600px 500px at 85% 70%, oklch(17% 0.02 240 / 0.5), transparent),
+      radial-gradient(ellipse 300px 300px at 60% 90%, oklch(20% 0.015 250 / 0.4), transparent),
+      repeating-linear-gradient(115deg, oklch(20% 0.01 250 / 0.5) 0px, transparent 2px, transparent 5px),
+      repeating-linear-gradient(25deg, oklch(10% 0.01 250 / 0.4) 0px, transparent 2px, transparent 6px);
+    background-size: auto, auto, auto, auto, 6px 6px, 7px 7px;
+    font-family: 'Inter', sans-serif;
+    color: oklch(92% 0.015 250);
+    padding-bottom: 40px;
+  }
+  ::selection { background: oklch(70% 0.16 240 / 0.3); }
+  a { color: oklch(76% 0.11 235); }
+
+  .header { max-width: 1400px; margin: 0 auto; padding: 56px 40px 28px; text-align: center; }
+  .title-row { display: inline-flex; align-items: center; gap: 14px; margin-bottom: 14px; }
+  .title-row .gem { font-size: 36px; }
+  h1 {
+    font-family: 'Sora', sans-serif; font-weight: 700; font-size: 42px; letter-spacing: -0.5px;
+    margin: 0; color: oklch(90% 0.02 250);
+  }
+  .tagline { font-size: 17px; color: oklch(70% 0.03 250); margin: 0 0 20px; letter-spacing: 0.2px; }
+
+  .preview-pill {
+    display: inline-flex; align-items: center; gap: 10px; padding: 8px 18px; border-radius: 999px;
+    background: oklch(22% 0.03 255); border: 1px solid oklch(60% 0.14 240 / 0.35);
+  }
+  .preview-dot { position: relative; width: 9px; height: 9px; border-radius: 50%; background: oklch(80% 0.14 85); flex-shrink: 0; }
+  .preview-dot::after {
+    content: ""; position: absolute; inset: 0; border-radius: 50%;
+    background: oklch(80% 0.14 85); animation: pulseDot 1.8s ease-in-out infinite;
+  }
+  @keyframes pulseDot { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(0.7); } }
+  .preview-text { font-family: 'JetBrains Mono', monospace; font-size: 13px; color: oklch(75% 0.03 250); }
+
+  .switch-row { margin-top: 22px; }
+  .switch-btn {
+    display: inline-flex; align-items: center; gap: 8px; padding: 10px 22px; border-radius: 999px;
+    background: oklch(30% 0.04 85 / 0.4); border: 1px solid oklch(55% 0.1 85 / 0.4);
+    color: oklch(80% 0.1 85); text-decoration: none; font-size: 13.5px; font-weight: 600;
+  }
+  .switch-btn:hover { background: oklch(34% 0.05 85 / 0.5); border-color: oklch(65% 0.12 85 / 0.5); }
+
+  .banner {
+    max-width: 720px; margin: 26px auto 0; padding: 14px 22px; border-radius: 12px;
+    background: oklch(30% 0.05 85 / 0.25); border: 1px solid oklch(60% 0.1 85 / 0.35);
+    font-size: 13.5px; color: oklch(85% 0.06 85); line-height: 1.6;
+  }
+
+  .grid {
+    max-width: 1400px; margin: 0 auto; padding: 24px 40px 0;
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(min(400px, 100%), 1fr)); gap: 28px;
+  }
+  @media (max-width: 560px) { .grid { padding: 16px 16px 0; } .header { padding: 40px 16px 24px; } h1 { font-size: 32px; } }
+
+  .card {
+    background: oklch(20% 0.025 255); border: 1px solid oklch(55% 0.12 245 / 0.25);
+    border-radius: 16px; padding: 28px 26px; display: flex; flex-direction: column; gap: 4px;
+  }
+  .card-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 2px; }
+  .card-head .icon { font-size: 22px; }
+  .card-head h2 { font-family: 'Sora', sans-serif; font-size: 19px; font-weight: 700; letter-spacing: -0.2px; margin: 0; color: oklch(85% 0.03 245); }
+  .card-note { font-size: 11.5px; color: oklch(70% 0.06 85); margin: 0 0 6px; }
+  .divider { height: 1px; background: linear-gradient(90deg, oklch(65% 0.16 235 / 0.6), transparent); margin-bottom: 14px; }
+
+  .row { border-radius: 10px; margin-bottom: 6px; overflow: hidden; background: transparent; }
+  .row.best { background: oklch(28% 0.04 245 / 0.4); }
+  .row-main {
+    cursor: pointer; padding: 12px 14px; display: flex; align-items: center;
+    justify-content: space-between; gap: 14px; border: 0; width: 100%;
+    background: transparent; font: inherit; color: inherit; text-align: left;
+  }
+  .row-main:hover { background: oklch(28% 0.03 250 / 0.5); }
+  .row-left { min-width: 0; flex: 1; }
+  .row-name-line { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .row-name { font-size: 15px; font-weight: 600; color: oklch(93% 0.01 250); }
+  .badge {
+    font-family: 'JetBrains Mono', monospace; font-size: 10.5px; font-weight: 600;
+    letter-spacing: 0.4px; padding: 2px 8px; border-radius: 999px; border: 1px solid;
+  }
+  .badge-LOW      { color: oklch(78% 0.1 190);  background: oklch(32% 0.04 190 / 0.3); border-color: oklch(55% 0.08 190 / 0.35); }
+  .badge-MODERATE { color: oklch(80% 0.08 250); background: oklch(35% 0.04 250 / 0.3); border-color: oklch(58% 0.08 250 / 0.35); }
+  .badge-HIGH     { color: oklch(75% 0.13 25);  background: oklch(32% 0.04 25 / 0.3);  border-color: oklch(55% 0.1 25 / 0.35); }
+  .badge-SAMPLE   { color: oklch(78% 0.06 85);  background: oklch(30% 0.04 85 / 0.3);  border-color: oklch(55% 0.08 85 / 0.35); }
+  .row-line1 { font-size: 12.5px; color: oklch(65% 0.03 250); margin-top: 3px; }
+  .row-right { text-align: right; flex-shrink: 0; }
+  .row-rate { font-family: 'JetBrains Mono', monospace; font-size: 14.5px; font-weight: 600; color: oklch(76% 0.11 235); }
+  .row-hint { font-size: 10px; color: oklch(58% 0.03 250); margin-top: 2px; }
+  .row-detail {
+    padding: 10px 14px 14px; font-size: 12.5px; color: oklch(70% 0.03 250); line-height: 1.6;
+    border-top: 1px solid oklch(55% 0.12 245 / 0.2); display: none;
+  }
+  .row.open .row-detail { display: block; }
+
+  .footer {
+    max-width: 1400px; margin: 48px auto 0; padding: 0 40px; text-align: center;
+    font-size: 12px; color: oklch(58% 0.03 250); line-height: 1.8;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="title-row">
+    <span class="gem">🔷</span>
+    <h1>RS3 Advisor</h1>
+  </div>
+  <p class="tagline">Gold-making intelligence, refreshed automatically</p>
+  <div class="preview-pill">
+    <span class="preview-dot"></span>
+    <span class="preview-text">preview build · live RS3 feed under construction</span>
+  </div>
+  <div class="switch-row">
+    <a class="switch-btn" href="https://yousdje.github.io/osrs-money-advisor/">Switch to OSRS →</a>
+  </div>
+  <div class="banner">
+    ⚠️ <b>Preview.</b> The numbers below are illustrative samples showing the planned layout —
+    they are <b>not live prices</b>. The RS3 data pipeline is under construction; for real,
+    hourly-verified figures use the <a href="https://yousdje.github.io/osrs-money-advisor/">OSRS Money Advisor</a>.
+  </div>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<div class="footer">
+  Preview build — no live data yet. When the RS3 feed ships, prices will come from the
+  <a href="https://runescape.wiki" rel="noopener">RS3 Wiki</a> ecosystem with the same
+  conservative conventions as the OSRS advisor.<br>
+  RuneScape is a trademark of Jagex Ltd; this project is unaffiliated.
+</div>
+
+<script>
+"use strict";
+// Illustrative sample sections (from the design mock) — every row is badged
+// SAMPLE and the page carries a preview banner. Replace with a data.json feed
+// once the RS3 pipeline exists (same contract as the OSRS site).
+const SECTIONS = [
+  { icon: "📈", title: "Flips", items: [
+    { name: "Divine super defence flask (6)", line1: "buy 890 → sell 968, +78/ea", rate: "≈98.4K/4h", detail: "Sample row — steady raids/PvM demand keeps flasks flipping consistently." },
+    { name: "Cinderbane gloves", line1: "buy 41,220 → sell 43,850, +2,630/ea", rate: "≈89.2K/4h", detail: "Sample row — low volume but wide margin." },
+    { name: "Elder rune sword +5", line1: "buy 612,400 → sell 638,900, +26,500/ea", rate: "≈74.5K/4h", detail: "Sample row — high-capital flip." },
+  ]},
+  { icon: "⚗️", title: "Decant → Extreme", items: [
+    { name: "Extreme attack (1)→(4)", line1: "per-dose decant, sell as (4)", rate: "+1,840/pot · ≈402.1K/4h", detail: "Sample row — PvM-prep demand." },
+    { name: "Overload (2)→(4)", line1: "per-dose decant, sell as (4)", rate: "+1,205/pot · ≈289.7K/4h", detail: "Sample row — raids staple." },
+    { name: "Prayer renewal (1)→(4)", line1: "per-dose decant, sell as (4)", rate: "+310/pot · ≈198.3K/4h", detail: "Sample row — reliable volume." },
+  ]},
+  { icon: "🛡", title: "Sets", items: [
+    { name: "Pernix armour set", line1: "combine pieces → sell as set", rate: "+31,200 · ≈187.2K/4h", detail: "Sample row — ranged tier set combine." },
+    { name: "Torva armour set", line1: "combine pieces → sell as set", rate: "+48,650 · ≈97.3K/4h", detail: "Sample row — thin volume, high margin." },
+    { name: "Virtus armour set", line1: "combine pieces → sell as set", rate: "+22,940 · ≈68.8K/4h", detail: "Sample row — magic tier set." },
+  ]},
+  { icon: "✨", title: "High Alch", items: [
+    { name: "Ripper claws", line1: "buy → cast high alchemy", rate: "+2,150/alch · ≈3.2M/4h", detail: "Sample row — needs high Magic and rune supply." },
+    { name: "Seasinger kiteshield", line1: "buy → cast high alchemy", rate: "+1,890/alch · ≈2.8M/4h", detail: "Sample row — moderate buy limit." },
+    { name: "Zamorakian spear", line1: "buy → cast high alchemy", rate: "+1,640/alch · ≈2.4M/4h", detail: "Sample row — high buy limit." },
+  ]},
+  { icon: "🗺", title: "Money Makers", items: [
+    { name: "Divination (Memory Strand farming)", line1: "wiki gp/hr estimate", rate: "3.8M/hr", risk: "MODERATE", detail: "Sample row — requires high Divination." },
+    { name: "Runespan (essence + XP)", line1: "high Runecrafting recommended", rate: "2.1M/hr", risk: "LOW", detail: "Sample row — safe, no combat." },
+    { name: "Elite Dungeon trash farming", line1: "setup: starting capital", rate: "1.7M/hr", risk: "MODERATE", detail: "Sample row — needs decent gear." },
+  ]},
+  { icon: "⚔️", title: "Combat You Can Do", items: [
+    { name: "Killing Kalphite King", line1: "combat / high risk", rate: "2.4M/hr", risk: "HIGH", detail: "Sample row — Combat 90+, good gear, death risk." },
+    { name: "Killing Vindicta & Gorvek", line1: "combat / moderate risk", rate: "1.1M/hr", risk: "MODERATE", detail: "Sample row — Combat 80+, ranged setup." },
+    { name: "Killing Chaos Elemental", line1: "combat / low risk", rate: "420.5K/hr", risk: "LOW", detail: "Sample row — Combat 60+." },
+  ]},
+];
+
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+
+const grid = document.getElementById("grid");
+for (const section of SECTIONS) {
+  const card = document.createElement("div");
+  card.className = "card";
+  let inner =
+    '<div class="card-head"><span class="icon">' + esc(section.icon) + "</span>" +
+    "<h2>" + esc(section.title) + "</h2></div>" +
+    '<p class="card-note">illustrative sample — not live data</p>' +
+    '<div class="divider"></div>';
+  section.items.forEach((item, i) => {
+    const risk = item.risk
+      ? '<span class="badge badge-' + esc(item.risk) + '">' + esc(item.risk) + "</span>"
+      : "";
+    inner +=
+      '<div class="row' + (i === 0 ? " best" : "") + '">' +
+        '<button class="row-main" type="button">' +
+          '<span class="row-left">' +
+            '<span class="row-name-line"><span class="row-name">' + esc(item.name) + "</span>" + risk +
+              '<span class="badge badge-SAMPLE">SAMPLE</span></span>' +
+            '<span class="row-line1">' + esc(item.line1) + "</span>" +
+          "</span>" +
+          '<span class="row-right">' +
+            '<span class="row-rate">' + esc(item.rate) + "</span>" +
+            '<div class="row-hint">details ▼</div>' +
+          "</span>" +
+        "</button>" +
+        '<div class="row-detail">' + esc(item.detail) + "</div>" +
+      "</div>";
+  });
+  card.innerHTML = inner;
+  grid.appendChild(card);
+}
+grid.querySelectorAll(".row-main").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const row = btn.closest(".row");
+    row.classList.toggle("open");
+    btn.querySelector(".row-hint").textContent =
+      row.classList.contains("open") ? "hide ▲" : "details ▼";
+  });
+});
+</script>
+</body>
+</html>
