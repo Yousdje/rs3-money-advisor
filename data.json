@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T21:11:18Z",
+ "generated_at": "2026-07-15T03:12:17Z",
  "sections": [
   {
    "icon": "🗺",
@@ -1818,6 +1818,28 @@
      "quests": []
     },
     {
+     "name": "Making super attack potions",
+     "line1": "Herblore 45, Dungeoneering 49",
+     "rate": "7.4M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.6M. Requires Herblore 45, Dungeoneering 49. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_attack_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 45,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Exchanging agility arena tickets for pirate hook",
      "line1": "Agility 40, Quests: Rocking Out",
      "rate": "7.4M/hr",
@@ -1848,28 +1870,6 @@
       {
        "s": "Construction",
        "l": 80,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making super attack potions",
-     "line1": "Herblore 45, Dungeoneering 49",
-     "rate": "7.3M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.6M. Requires Herblore 45, Dungeoneering 49. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_attack_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 45,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
        "rec": false
       }
      ],
@@ -5038,7 +5038,7 @@
     {
      "name": "Crafting decorated urns (no rune)",
      "line1": "Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End",
-     "rate": "12.6M/hr",
+     "rate": "13.1M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.6M. Requires Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End. ",
@@ -10694,7 +10694,7 @@
     {
      "name": "Killing Beastmaster Durzag",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec)",
-     "rate": "17.4M/hr",
+     "rate": "17.3M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.9M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
@@ -12833,7 +12833,7 @@
     {
      "name": "Killing TzekHaar-Jad",
      "line1": "Ranged 90, Magic 90, Defence 90 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec)",
-     "rate": "1.5M/hr",
+     "rate": "1.6M/hr",
      "badge": "MODERATE",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.6M. Requires Ranged 90, Magic 90, Defence 90 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec). ",
@@ -15102,7 +15102,7 @@
     {
      "name": "Killing glacytes",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, T",
-     "rate": "922.6K/hr",
+     "rate": "937.8K/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.7M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, The Temple at Senntisten. ",
