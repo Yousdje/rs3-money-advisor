@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T09:13:19Z",
+ "generated_at": "2026-07-15T09:46:39Z",
  "sections": [
   {
    "icon": "🗺",
@@ -3989,6 +3989,32 @@
      ]
     },
     {
+     "name": "Farming dwarf weed (with Plant Power T4)",
+     "line1": "Farming 79, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End, Wiz Kid",
+     "rate": "1.4M/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 1.4M per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈342.0K. Requires Farming 79, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End, Wiz Kid. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_dwarf_weed#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 79,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End",
+      "Wiz Kid"
+     ]
+    },
+    {
      "name": "Stealing cave goblin wire",
      "line1": "Thieving 44, Quests: Death to the Dorgeshuun",
      "rate": "1.4M/hr",
@@ -4023,6 +4049,31 @@
       }
      ],
      "quests": []
+    },
+    {
+     "name": "Farming kwuarm (with Plant Power T4)",
+     "line1": "Farming 56, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "1.3M/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 1.3M per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈196.5K. Requires Farming 56, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_kwuarm#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 56,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
     },
     {
      "name": "Completing the Zamorakian collection (Zamorakian I)",
@@ -4067,6 +4118,56 @@
       }
      ],
      "quests": []
+    },
+    {
+     "name": "Farming lantadyme (with Plant Power T4)",
+     "line1": "Farming 73, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "1.3M/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 1.3M per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈208.2K. Requires Farming 73, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_lantadyme#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 73,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
+    },
+    {
+     "name": "Farming spirit weed (With Plant Power T4)",
+     "line1": "Farming 36, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "1.2M/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 1.2M per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈358.2K. Requires Farming 36, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_spirit_weed#With_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 36,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
     },
     {
      "name": "Mining tin ore",
@@ -4198,6 +4299,31 @@
      ]
     },
     {
+     "name": "Farming fellstalk (with Plant Power T4)",
+     "line1": "Farming 91, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "1.1M/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 1.1M per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈612.7K. Requires Farming 91, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_fellstalk#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 91,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
+    },
+    {
      "name": "Mining animica",
      "line1": "Mining 90, Mining 99 (rec), Summoning 83, Strength 99 (rec)",
      "rate": "1.1M/hr",
@@ -4320,6 +4446,31 @@
      "quests": []
     },
     {
+     "name": "Farming torstol (with Plant Power T4)",
+     "line1": "Farming 85, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "932.4K/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 932.4K per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈300.3K. Requires Farming 85, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_torstol#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 85,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
+    },
+    {
      "name": "Mining clay",
      "line1": "Mining 20",
      "rate": "927.8K/hr",
@@ -4345,6 +4496,23 @@
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Hunting_polar_kebbits",
      "reqs": [],
+     "quests": []
+    },
+    {
+     "name": "Mucking dragon manure",
+     "line1": "Farming 92",
+     "rate": "904.4K/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 1.4M per 1h30 cycle with ~70 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈420. Requires Farming 92. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Mucking_dragon_manure",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 92,
+       "rec": false
+      }
+     ],
      "quests": []
     },
     {
@@ -4556,6 +4724,31 @@
      "quests": []
     },
     {
+     "name": "Farming toadflax (with Plant Power T4)",
+     "line1": "Farming 38, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "715.3K/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 715.3K per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈164.1K. Requires Farming 38, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_toadflax#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 38,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
+    },
+    {
      "name": "Casting fruitfall",
      "line1": "Summoning 69",
      "rate": "703.1K/hr",
@@ -4663,6 +4856,56 @@
      ]
     },
     {
+     "name": "Farming wergali (with Plant Power T4)",
+     "line1": "Farming 46, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "611.8K/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 611.8K per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈170.5K. Requires Farming 46, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_wergali#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 46,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
+    },
+    {
+     "name": "Farming arbuck (with Plant Power T4)",
+     "line1": "Farming 77, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "604.2K/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 604.2K per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5M. Requires Farming 77, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_arbuck#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 77,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
+    },
+    {
      "name": "Collecting swamp toads",
      "line1": "no requirements listed",
      "rate": "584.8K/hr",
@@ -4729,6 +4972,44 @@
      "quests": []
     },
     {
+     "name": "Farming ranarr (with Plant Power T4)",
+     "line1": "Farming 32, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "370.4K/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 370.4K per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈248.4K. Requires Farming 32, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_ranarr#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 32,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
+    },
+    {
+     "name": "Buying from the Culinaromancer's Chest (Culinary)",
+     "line1": "Quests: Recipe for Disaster",
+     "rate": "365.7K/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 61.0K per 10min cycle with ~6 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈350. Requires Quests: Recipe for Disaster. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Buying_from_the_Culinaromancer%27s_Chest#Culinary",
+     "reqs": [],
+     "quests": [
+      "Recipe for Disaster"
+     ]
+    },
+    {
      "name": "Crafting ruby jewellery (Rings from ores)",
      "line1": "Crafting 34, Smithing 40, Quests: Family Crest",
      "rate": "327.6K/hr",
@@ -4787,6 +5068,81 @@
      "quests": []
     },
     {
+     "name": "Farming cadantine (with Plant Power T4)",
+     "line1": "Farming 67, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "264.1K/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 264.1K per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈180.6K. Requires Farming 67, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_cadantine#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 67,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
+    },
+    {
+     "name": "Farming irit (with Plant Power T4)",
+     "line1": "Farming 44, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "260.5K/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 260.5K per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈75.3K. Requires Farming 44, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_irit#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 44,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
+    },
+    {
+     "name": "Farming snapdragon (With Plant Power T4)",
+     "line1": "Farming 62, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "256.5K/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 256.5K per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈180.3K. Requires Farming 62, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_snapdragon#With_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 62,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
+    },
+    {
      "name": "Collecting limpwurt roots",
      "line1": "Dungeoneering 20, Combat 53 (rec)",
      "rate": "247.9K/hr",
@@ -4840,6 +5196,31 @@
       }
      ],
      "quests": []
+    },
+    {
+     "name": "Farming avantoe (with Plant Power T4)",
+     "line1": "Farming 50, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
+     "rate": "202.2K/hr",
+     "badge": null,
+     "elite": null,
+     "detail": "Interval-gated: 202.2K per 1h cycle with ~7 min hands-on — the rate is the sustained wall-clock average, you cannot queue extra hours of it. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈95.0K. Requires Farming 50, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Farming_avantoe#with_Plant_Power_T4",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 50,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "My Arm's Big Adventure",
+      "Plague's End"
+     ]
     },
     {
      "name": "Collecting sandstone (5kg)",
@@ -5951,7 +6332,7 @@
     {
      "name": "Pickpocketing Menaphos market guards",
      "line1": "Thieving 104, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Jack of Spades, The Light Wit",
-     "rate": "4.2M/hr",
+     "rate": "4.3M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈120.0K. Requires Thieving 104, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Jack of Spades, The Light Within. ",
@@ -6406,6 +6787,28 @@
      "quests": []
     },
     {
+     "name": "Smelting iron bars (Members)",
+     "line1": "Smithing 10, Smithing 19 (rec)",
+     "rate": "3.2M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.4M. Requires Smithing 10, Smithing 19 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_iron_bars#Members",
+     "reqs": [
+      {
+       "s": "Smithing",
+       "l": 10,
+       "rec": false
+      },
+      {
+       "s": "Smithing",
+       "l": 19,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Kharid-et)",
      "line1": "Thieving 108, Archaeology 58, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
      "rate": "3.2M/hr",
@@ -6485,31 +6888,9 @@
      "quests": []
     },
     {
-     "name": "Smelting iron bars (Members)",
-     "line1": "Smithing 10, Smithing 19 (rec)",
-     "rate": "3.2M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.4M. Requires Smithing 10, Smithing 19 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_iron_bars#Members",
-     "reqs": [
-      {
-       "s": "Smithing",
-       "l": 10,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 19,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Pickpocketing Archaeology professors (Senntisten)",
      "line1": "Thieving 108, Archaeology 67, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.2M/hr",
+     "rate": "3.1M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈120.0K. Requires Thieving 108, Archaeology 67, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec). ",
@@ -6581,9 +6962,41 @@
      "quests": []
     },
     {
+     "name": "Pickpocketing Archaeology professors (Orthen)",
+     "line1": "Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec)",
+     "rate": "3.0M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈120.0K. Requires Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Orthen",
+     "reqs": [
+      {
+       "s": "Thieving",
+       "l": 108,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 80,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Daemonheim)",
      "line1": "Thieving 108, Archaeology 103, Dungeoneering 95, Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.1M/hr",
+     "rate": "3.0M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈120.0K. Requires Thieving 108, Archaeology 103, Dungeoneering 95, Magic 90 (rec), Prayer 80 (rec). ",
@@ -6602,38 +7015,6 @@
       {
        "s": "Dungeoneering",
        "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Pickpocketing Archaeology professors (Orthen)",
-     "line1": "Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.1M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈120.0K. Requires Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Orthen",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 108,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 90,
        "rec": false
       },
       {
@@ -11840,6 +12221,42 @@
      "quests": []
     },
     {
+     "name": "Killing K'ril Tsutsaroth (High-Level)",
+     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
+     "rate": "4.3M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈769.1K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
+     "reqs": [
+      {
+       "s": "Constitution",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 107,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Troll Stronghold",
+      "The Temple at Senntisten",
+      "Ritual of the Mahjarrat"
+     ]
+    },
+    {
      "name": "K'ril Tsutsaroth Alt Guide (High-level)",
      "line1": "Constitution 99, Magic 99, Herblore 107 (rec), Prayer 95 (rec), Summoning 96 (rec), Archaeology 118 (rec), Que",
      "rate": "4.3M/hr",
@@ -11876,42 +12293,6 @@
       {
        "s": "Archaeology",
        "l": 118,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Troll Stronghold",
-      "The Temple at Senntisten",
-      "Ritual of the Mahjarrat"
-     ]
-    },
-    {
-     "name": "Killing K'ril Tsutsaroth (High-Level)",
-     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
-     "rate": "4.3M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈769.1K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
-     "reqs": [
-      {
-       "s": "Constitution",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 107,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
        "rec": true
       }
      ],
@@ -13501,7 +13882,7 @@
     {
      "name": "Killing nightmares",
      "line1": "Slayer 80, Magic 90, Necromancy 90, Prayer 95 (rec), Herblore 97 (rec), Invention 99 (rec), Dungeoneering 30 (",
-     "rate": "9.9M/hr",
+     "rate": "9.8M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.1M. Requires Slayer 80, Magic 90, Necromancy 90, Prayer 95 (rec), Herblore 97 (rec), Invention 99 (rec), Dungeoneering 30 (rec), Quests: Children of Mah, Desert Treasure, City of Senntisten. ",
@@ -13674,7 +14055,7 @@
      "rate": "7.4M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.1M. Requires Necromancy 99 (rec), Defence 90 (rec), Summoning 80, Herblore 107 (rec), Prayer 95, Invention 89 (rec), Quests: Osseous Rex. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.0M. Requires Necromancy 99 (rec), Defence 90 (rec), Summoning 80, Herblore 107 (rec), Prayer 95, Invention 89 (rec), Quests: Osseous Rex. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_Osseous",
      "reqs": [
       {
@@ -13713,13 +14094,13 @@
      ]
     },
     {
-     "name": "Killing abyssal beasts (Melee)",
+     "name": "Killing abyssal beasts (Necromancy)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
      "rate": "7.3M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.5M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Necromancy",
      "reqs": [
       {
        "s": "Slayer",
@@ -13740,13 +14121,13 @@
      "quests": []
     },
     {
-     "name": "Killing abyssal beasts (Necromancy)",
+     "name": "Killing abyssal beasts (Melee)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
      "rate": "7.3M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.5M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Necromancy",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
      "reqs": [
       {
        "s": "Slayer",
@@ -13842,9 +14223,39 @@
      ]
     },
     {
+     "name": "Killing rune dragons",
+     "line1": "Ranged 80, Herblore 85, Prayer 95 (rec), Quests: Fate of the Gods, The World Wakes",
+     "rate": "6.4M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.9M. Requires Ranged 80, Herblore 85, Prayer 95 (rec), Quests: Fate of the Gods, The World Wakes. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_rune_dragons",
+     "reqs": [
+      {
+       "s": "Ranged",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 85,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Fate of the Gods",
+      "The World Wakes"
+     ]
+    },
+    {
      "name": "Killing muspah",
      "line1": "Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treas",
-     "rate": "6.4M/hr",
+     "rate": "6.3M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.7M. Requires Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treasure. ",
@@ -13874,36 +14285,6 @@
      "quests": [
       "Fate of the Gods",
       "Desert Treasure"
-     ]
-    },
-    {
-     "name": "Killing rune dragons",
-     "line1": "Ranged 80, Herblore 85, Prayer 95 (rec), Quests: Fate of the Gods, The World Wakes",
-     "rate": "6.4M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.9M. Requires Ranged 80, Herblore 85, Prayer 95 (rec), Quests: Fate of the Gods, The World Wakes. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_rune_dragons",
-     "reqs": [
-      {
-       "s": "Ranged",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 85,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Fate of the Gods",
-      "The World Wakes"
      ]
     },
     {
@@ -14490,6 +14871,50 @@
      ]
     },
     {
+     "name": "Killing abyssal demons (Melee with Death Note Relic)",
+     "line1": "Slayer 85, Combat 70, Combat 138 (rec), Prayer 71, Archaeology 106, Dungeoneering 100, Quests: The Temple at S",
+     "rate": "2.8M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.8M. Requires Slayer 85, Combat 70, Combat 138 (rec), Prayer 71, Archaeology 106, Dungeoneering 100, Quests: The Temple at Senntisten. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_demons#Melee_with_Death_Note_Relic",
+     "reqs": [
+      {
+       "s": "Slayer",
+       "l": 85,
+       "rec": false
+      },
+      {
+       "s": "Combat",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Combat",
+       "l": 138,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 71,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 106,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 100,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "The Temple at Senntisten"
+     ]
+    },
+    {
      "name": "Killing tormented demons",
      "line1": "Slayer 99, Ranged 90, Strength 90, Attack 90, Prayer 92, Herblore 106, Summoning 87 (rec), Quests: While Guthi",
      "rate": "2.8M/hr",
@@ -14537,50 +14962,6 @@
      "quests": [
       "While Guthix Sleeps",
       "Dimension of Disaster: Curse of Arrav",
-      "The Temple at Senntisten"
-     ]
-    },
-    {
-     "name": "Killing abyssal demons (Melee with Death Note Relic)",
-     "line1": "Slayer 85, Combat 70, Combat 138 (rec), Prayer 71, Archaeology 106, Dungeoneering 100, Quests: The Temple at S",
-     "rate": "2.8M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.8M. Requires Slayer 85, Combat 70, Combat 138 (rec), Prayer 71, Archaeology 106, Dungeoneering 100, Quests: The Temple at Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_demons#Melee_with_Death_Note_Relic",
-     "reqs": [
-      {
-       "s": "Slayer",
-       "l": 85,
-       "rec": false
-      },
-      {
-       "s": "Combat",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Combat",
-       "l": 138,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 71,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 106,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 100,
-       "rec": false
-      }
-     ],
-     "quests": [
       "The Temple at Senntisten"
      ]
     },
@@ -14839,7 +15220,7 @@
     {
      "name": "Killing glacytes",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, T",
-     "rate": "915.7K/hr",
+     "rate": "913.9K/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.7M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, The Temple at Senntisten. ",
@@ -15246,258 +15627,15 @@
    "icon": "🏭",
    "title": "Passive & Recurring",
    "personal": true,
-   "note": "machines, farm runs & buy-limit-capped methods — profit per real-time day, minutes of effort per cycle",
+   "note": "machines, farm runs & regrowing patches — profit per real-time day (short cycles assume a ~16h waking day), minutes of effort per cycle",
    "items": [
-    {
-     "name": "Farming dwarf weed (with Plant Power T4)",
-     "line1": "Farming 79, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End, Wiz Kid",
-     "rate": "≈33.5M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "1.4M per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈342.0K. Requires Farming 79, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End, Wiz Kid. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_dwarf_weed#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 79,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End",
-      "Wiz Kid"
-     ]
-    },
-    {
-     "name": "Farming kwuarm (with Plant Power T4)",
-     "line1": "Farming 56, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈31.5M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "1.3M per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈196.5K. Requires Farming 56, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_kwuarm#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 56,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
-     "name": "Farming lantadyme (with Plant Power T4)",
-     "line1": "Farming 73, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈30.3M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "1.3M per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈208.2K. Requires Farming 73, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_lantadyme#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 73,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
-     "name": "Farming spirit weed (With Plant Power T4)",
-     "line1": "Farming 36, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈29.7M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "1.2M per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈358.2K. Requires Farming 36, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_spirit_weed#With_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 36,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
-     "name": "Farming fellstalk (with Plant Power T4)",
-     "line1": "Farming 91, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈26.6M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "1.1M per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈612.7K. Requires Farming 91, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_fellstalk#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 91,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
-     "name": "Farming torstol (with Plant Power T4)",
-     "line1": "Farming 85, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈22.4M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "932.4K per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈300.3K. Requires Farming 85, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_torstol#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 85,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
-     "name": "Mucking dragon manure",
-     "line1": "Farming 92",
-     "rate": "≈21.7M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "1.4M per 2h machine cycle, only ~70 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈420. Requires Farming 92. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Mucking_dragon_manure",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 92,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Farming toadflax (with Plant Power T4)",
-     "line1": "Farming 38, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈17.2M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "715.3K per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈164.1K. Requires Farming 38, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_toadflax#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 38,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
-     "name": "Farming wergali (with Plant Power T4)",
-     "line1": "Farming 46, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈14.7M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "611.8K per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈170.5K. Requires Farming 46, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_wergali#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 46,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
-     "name": "Farming arbuck (with Plant Power T4)",
-     "line1": "Farming 77, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈14.5M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "604.2K per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5M. Requires Farming 77, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_arbuck#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 77,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
     {
      "name": "Farming dwarf weed (without Plant Power T4)",
      "line1": "Farming 79, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End, Wiz Kid",
-     "rate": "≈10.0M/day passive",
+     "rate": "≈6.7M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "417.2K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈164.0K. Requires Farming 79, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End, Wiz Kid. ",
+     "detail": "417.2K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈164.0K. Requires Farming 79, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End, Wiz Kid. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_dwarf_weed#without_Plant_Power_T4",
      "reqs": [
       {
@@ -15520,10 +15658,10 @@
     {
      "name": "Farming fellstalk (without Plant Power T4)",
      "line1": "Farming 91, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈9.6M/day passive",
+     "rate": "≈6.4M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "398.1K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈178.6K. Requires Farming 91, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "398.1K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈178.6K. Requires Farming 91, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_fellstalk#without_Plant_Power_T4",
      "reqs": [
       {
@@ -15545,10 +15683,10 @@
     {
      "name": "Farming spirit weed (Without Plant Power T4)",
      "line1": "Farming 36, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈9.1M/day passive",
+     "rate": "≈6.1M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "379.9K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈153.1K. Requires Farming 36, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "379.9K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈153.1K. Requires Farming 36, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_spirit_weed#Without_Plant_Power_T4",
      "reqs": [
       {
@@ -15568,37 +15706,12 @@
      ]
     },
     {
-     "name": "Farming ranarr (with Plant Power T4)",
-     "line1": "Farming 32, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈8.9M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "370.4K per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈248.4K. Requires Farming 32, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_ranarr#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 32,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
      "name": "Farming kwuarm (without Plant Power T4)",
      "line1": "Farming 56, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈8.8M/day passive",
+     "rate": "≈5.9M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "366.1K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈136.9K. Requires Farming 56, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "366.1K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈136.9K. Requires Farming 56, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_kwuarm#without_Plant_Power_T4",
      "reqs": [
       {
@@ -15618,25 +15731,12 @@
      ]
     },
     {
-     "name": "Buying from the Culinaromancer's Chest (Culinary)",
-     "line1": "Quests: Recipe for Disaster",
-     "rate": "≈8.8M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "61.0K per 0h machine cycle, only ~6 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈350. Requires Quests: Recipe for Disaster. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Buying_from_the_Culinaromancer%27s_Chest#Culinary",
-     "reqs": [],
-     "quests": [
-      "Recipe for Disaster"
-     ]
-    },
-    {
      "name": "Farming lantadyme (without Plant Power T4)",
      "line1": "Farming 73, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈8.5M/day passive",
+     "rate": "≈5.6M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "352.2K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈138.1K. Requires Farming 73, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "352.2K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈138.1K. Requires Farming 73, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_lantadyme#without_Plant_Power_T4",
      "reqs": [
       {
@@ -15658,10 +15758,10 @@
     {
      "name": "Farming arbuck (without any Plant Power unlocked)",
      "line1": "Farming 77, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈8.2M/day passive",
+     "rate": "≈5.5M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "454.8K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈271.5K. Requires Farming 77, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "454.8K per 1h20 cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈271.5K. Requires Farming 77, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_arbuck#without_any_Plant_Power_unlocked",
      "reqs": [
       {
@@ -15683,10 +15783,10 @@
     {
      "name": "Farming godly grapevines",
      "line1": "Farming 95, Cooking 92, Agility 13 (rec), Quests: A Fairy Tale I - Growing Pains",
-     "rate": "≈6.7M/day passive",
+     "rate": "≈4.4M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "370.4K per 1h machine cycle, only ~4 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈29.4K. Requires Farming 95, Cooking 92, Agility 13 (rec), Quests: A Fairy Tale I - Growing Pains. ",
+     "detail": "370.4K per 1h20 cycle, only ~4 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈29.4K. Requires Farming 95, Cooking 92, Agility 13 (rec), Quests: A Fairy Tale I - Growing Pains. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_godly_grapevines",
      "reqs": [
       {
@@ -15712,10 +15812,10 @@
     {
      "name": "Farming torstol (without Plant Power T4)",
      "line1": "Farming 85, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈6.4M/day passive",
+     "rate": "≈4.2M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "264.8K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈147.3K. Requires Farming 85, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "264.8K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈147.3K. Requires Farming 85, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_torstol#without_Plant_Power_T4",
      "reqs": [
       {
@@ -15735,87 +15835,12 @@
      ]
     },
     {
-     "name": "Farming cadantine (with Plant Power T4)",
-     "line1": "Farming 67, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈6.3M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "264.1K per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈180.6K. Requires Farming 67, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_cadantine#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 67,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
-     "name": "Farming irit (with Plant Power T4)",
-     "line1": "Farming 44, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈6.3M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "260.5K per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈75.3K. Requires Farming 44, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_irit#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 44,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
-     "name": "Farming snapdragon (With Plant Power T4)",
-     "line1": "Farming 62, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈6.2M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "256.5K per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈180.3K. Requires Farming 62, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_snapdragon#With_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 62,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
      "name": "Completing Soul Reaper tasks",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec)",
-     "rate": "≈5.2M/day passive",
+     "rate": "≈5.2M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "36.7M per 168h machine cycle, only ~360 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
+     "detail": "36.7M per 168h cycle, only ~360 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
      "url": "https://runescape.wiki/w/Money_making_guide/Completing_Soul_Reaper_tasks",
      "reqs": [
       {
@@ -15857,37 +15882,12 @@
      "quests": []
     },
     {
-     "name": "Farming avantoe (with Plant Power T4)",
-     "line1": "Farming 50, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈4.9M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "202.2K per 1h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈95.0K. Requires Farming 50, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_avantoe#with_Plant_Power_T4",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 50,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "My Arm's Big Adventure",
-      "Plague's End"
-     ]
-    },
-    {
      "name": "Mega shop run (Daily)",
      "line1": "Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal",
-     "rate": "≈4.8M/day passive",
+     "rate": "≈4.8M/day recurring",
      "badge": "MODERATE",
      "elite": null,
-     "detail": "4.8M per 24h machine cycle, only ~30 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.2M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
+     "detail": "4.8M per 24h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.2M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Mega_shop_run#Daily",
      "reqs": [
       {
@@ -15925,10 +15925,10 @@
     {
      "name": "Farming morchella mushrooms",
      "line1": "Farming 74, Farming 81 (rec), Archaeology 81 (rec), Necromancy 80, Quests: A Fairy Tale II - Cure a Queen",
-     "rate": "≈4.0M/day passive",
+     "rate": "≈2.7M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "552.9K per 3h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈45.2K. Requires Farming 74, Farming 81 (rec), Archaeology 81 (rec), Necromancy 80, Quests: A Fairy Tale II - Cure a Queen. ",
+     "detail": "552.9K per 3h20 cycle, only ~2 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈45.2K. Requires Farming 74, Farming 81 (rec), Archaeology 81 (rec), Necromancy 80, Quests: A Fairy Tale II - Cure a Queen. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_morchella_mushrooms",
      "reqs": [
       {
@@ -15959,10 +15959,10 @@
     {
      "name": "Farming toadflax (without Plant Power T4)",
      "line1": "Farming 38, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈3.8M/day passive",
+     "rate": "≈2.6M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "159.6K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈133.7K. Requires Farming 38, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "159.6K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈133.7K. Requires Farming 38, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_toadflax#without_Plant_Power_T4",
      "reqs": [
       {
@@ -15984,10 +15984,10 @@
     {
      "name": "Picking primal fruit",
      "line1": "Farming 95, Farming 101 (rec), Summoning 78, Summoning 92 (rec), Magic 72, Quests: Plague's End, The Prisoner ",
-     "rate": "≈3.4M/day passive",
+     "rate": "≈2.3M/day recurring",
      "badge": "HIGH",
      "elite": null,
-     "detail": "857.0K per 6h machine cycle, only ~6 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.4K. Requires Farming 95, Farming 101 (rec), Summoning 78, Summoning 92 (rec), Magic 72, Quests: Plague's End, The Prisoner of Glouphrie, Love Story. ",
+     "detail": "857.0K per 6h cycle, only ~6 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.4K. Requires Farming 95, Farming 101 (rec), Summoning 78, Summoning 92 (rec), Magic 72, Quests: Plague's End, The Prisoner of Glouphrie, Love Story. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Picking_primal_fruit",
      "reqs": [
       {
@@ -16025,10 +16025,10 @@
     {
      "name": "Farming wergali (without Plant Power T4)",
      "line1": "Farming 46, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈3.0M/day passive",
+     "rate": "≈2.0M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "126.6K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈134.3K. Requires Farming 46, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "126.6K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈134.3K. Requires Farming 46, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_wergali#without_Plant_Power_T4",
      "reqs": [
       {
@@ -16050,10 +16050,10 @@
     {
      "name": "Gathering golden roses with Rapid Growth",
      "line1": "Farming 90, Magic 88, Quests: The Light Within",
-     "rate": "≈2.7M/day passive",
+     "rate": "≈2.7M/day recurring",
      "badge": "LOW",
      "elite": null,
-     "detail": "2.7M per 24h machine cycle, only ~3 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈139.1K. Requires Farming 90, Magic 88, Quests: The Light Within. ",
+     "detail": "2.7M per 24h cycle, only ~3 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈139.1K. Requires Farming 90, Magic 88, Quests: The Light Within. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Gathering_golden_roses_with_Rapid_Growth",
      "reqs": [
       {
@@ -16074,10 +16074,10 @@
     {
      "name": "Mega shop run (Weekly)",
      "line1": "Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal",
-     "rate": "≈2.4M/day passive",
+     "rate": "≈2.4M/day recurring",
      "badge": "MODERATE",
      "elite": null,
-     "detail": "17.1M per 168h machine cycle, only ~30 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.9M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
+     "detail": "17.1M per 168h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.9M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Mega_shop_run#Weekly",
      "reqs": [
       {
@@ -16115,10 +16115,10 @@
     {
      "name": "Buying meat from Chargurr",
      "line1": "Quests: As a First Resort",
-     "rate": "≈2.3M/day passive",
+     "rate": "≈2.3M/day recurring",
      "badge": "LOW",
      "elite": null,
-     "detail": "2.3M per 24h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈159.8K. Requires Quests: As a First Resort. ",
+     "detail": "2.3M per 24h cycle, only ~2 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈159.8K. Requires Quests: As a First Resort. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Buying_meat_from_Chargurr",
      "reqs": [],
      "quests": [
@@ -16128,10 +16128,10 @@
     {
      "name": "Farming snapdragon (Without Plant Power T4)",
      "line1": "Farming 62, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈2.1M/day passive",
+     "rate": "≈1.4M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "89.3K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈40.4K. Requires Farming 62, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "89.3K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈40.4K. Requires Farming 62, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_snapdragon#Without_Plant_Power_T4",
      "reqs": [
       {
@@ -16153,10 +16153,10 @@
     {
      "name": "Picking curry leaves",
      "line1": "Farming 68, Summoning 78, Quests: Plague's End, The Path of Glouphrie, The Prisoner of Glouphrie",
-     "rate": "≈2.0M/day passive",
+     "rate": "≈1.3M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "373.5K per 4h machine cycle, only ~4 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.2K. Requires Farming 68, Summoning 78, Quests: Plague's End, The Path of Glouphrie, The Prisoner of Glouphrie. ",
+     "detail": "373.5K per 4h30 cycle, only ~4 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.2K. Requires Farming 68, Summoning 78, Quests: Plague's End, The Path of Glouphrie, The Prisoner of Glouphrie. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Picking_curry_leaves",
      "reqs": [
       {
@@ -16179,10 +16179,10 @@
     {
      "name": "Buying supplies from Razmire",
      "line1": "Quests: In Aid of the Myreque, The Branches of Darkmeyer, Shades of Mort'ton",
-     "rate": "≈1.9M/day passive",
+     "rate": "≈1.9M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "1.9M per 24h machine cycle, only ~50 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈39.0K. Requires Quests: In Aid of the Myreque, The Branches of Darkmeyer, Shades of Mort'ton. ",
+     "detail": "1.9M per 24h cycle, only ~50 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈39.0K. Requires Quests: In Aid of the Myreque, The Branches of Darkmeyer, Shades of Mort'ton. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Buying_supplies_from_Razmire",
      "reqs": [],
      "quests": [
@@ -16194,10 +16194,10 @@
     {
      "name": "High level player-owned farm run",
      "line1": "Farming 92, Construction 60",
-     "rate": "≈1.9M/day passive",
+     "rate": "≈1.9M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "3.4M per 42h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.2M. Requires Farming 92, Construction 60. ",
+     "detail": "3.4M per 42h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.2M. Requires Farming 92, Construction 60. ",
      "url": "https://runescape.wiki/w/Money_making_guide/High_level_player-owned_farm_run",
      "reqs": [
       {
@@ -16214,12 +16214,23 @@
      "quests": []
     },
     {
-     "name": "Buying limestone & limestone bricks (Full run)",
-     "line1": "Quests: Shades of Mort'ton, Plague's End, The Giant Dwarf, New Foundations",
-     "rate": "≈1.8M/day passive",
+     "name": "Buying supplies from the Stonemason",
+     "line1": "no requirements listed",
+     "rate": "≈1.8M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "12.8M per 168h machine cycle, only ~140 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.0M. Requires Quests: Shades of Mort'ton, Plague's End, The Giant Dwarf, New Foundations. ",
+     "detail": "1.8M per 24h cycle, only ~7 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈42.9M. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Buying_supplies_from_the_Stonemason",
+     "reqs": [],
+     "quests": []
+    },
+    {
+     "name": "Buying limestone & limestone bricks (Full run)",
+     "line1": "Quests: Shades of Mort'ton, Plague's End, The Giant Dwarf, New Foundations",
+     "rate": "≈1.8M/day recurring",
+     "badge": null,
+     "elite": null,
+     "detail": "12.8M per 168h cycle, only ~140 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.0M. Requires Quests: Shades of Mort'ton, Plague's End, The Giant Dwarf, New Foundations. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Buying_limestone_%26_limestone_bricks#Full_run",
      "reqs": [],
      "quests": [
@@ -16230,23 +16241,12 @@
      ]
     },
     {
-     "name": "Buying supplies from the Stonemason",
-     "line1": "no requirements listed",
-     "rate": "≈1.8M/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "1.8M per 24h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.7M. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Buying_supplies_from_the_Stonemason",
-     "reqs": [],
-     "quests": []
-    },
-    {
      "name": "Picking coconuts",
      "line1": "Farming 68, Summoning 78, Quests: Plague's End, The Path of Glouphrie, The Prisoner of Glouphrie",
-     "rate": "≈1.7M/day passive",
+     "rate": "≈1.1M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "314.9K per 4h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.2K. Requires Farming 68, Summoning 78, Quests: Plague's End, The Path of Glouphrie, The Prisoner of Glouphrie. ",
+     "detail": "314.9K per 4h30 cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.2K. Requires Farming 68, Summoning 78, Quests: Plague's End, The Path of Glouphrie, The Prisoner of Glouphrie. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Picking_coconuts",
      "reqs": [
       {
@@ -16269,10 +16269,10 @@
     {
      "name": "Farming irit (without Plant Power T4)",
      "line1": "Farming 44, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈1.7M/day passive",
+     "rate": "≈1.1M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "69.3K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈29.9K. Requires Farming 44, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "69.3K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈29.9K. Requires Farming 44, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_irit#without_Plant_Power_T4",
      "reqs": [
       {
@@ -16294,10 +16294,10 @@
     {
      "name": "Farming ranarr (without Plant Power T4)",
      "line1": "Farming 32, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈1.6M/day passive",
+     "rate": "≈1.0M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "64.9K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈142.1K. Requires Farming 32, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "64.9K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈142.1K. Requires Farming 32, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_ranarr#without_Plant_Power_T4",
      "reqs": [
       {
@@ -16319,10 +16319,10 @@
     {
      "name": "Buying from the Culinaromancer's Chest (Food)",
      "line1": "Quests: Recipe for Disaster",
-     "rate": "≈1.5M/day passive",
+     "rate": "≈1.5M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "1.5M per 24h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈26.4K. Requires Quests: Recipe for Disaster. ",
+     "detail": "1.5M per 24h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈26.4K. Requires Quests: Recipe for Disaster. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Buying_from_the_Culinaromancer%27s_Chest#Food",
      "reqs": [],
      "quests": [
@@ -16332,10 +16332,10 @@
     {
      "name": "Transmuting onyx dust",
      "line1": "Divination 97",
-     "rate": "≈1.5M/day passive",
+     "rate": "≈988.4K/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "247.1K per 4h machine cycle, only ~1 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.2M. Requires Divination 97. ",
+     "detail": "247.1K per 4h cycle, only ~1 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.2M. Requires Divination 97. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Transmuting_onyx_dust",
      "reqs": [
       {
@@ -16349,10 +16349,10 @@
     {
      "name": "Farming avantoe (without Plant Power T4)",
      "line1": "Farming 50, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End",
-     "rate": "≈1.3M/day passive",
+     "rate": "≈896.8K/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "56.0K per 1h machine cycle, only ~5 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈31.8K. Requires Farming 50, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
+     "detail": "56.0K per 1h cycle, only ~5 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈31.8K. Requires Farming 50, Farming 120 (rec), Quests: My Arm's Big Adventure, Plague's End. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_avantoe#without_Plant_Power_T4",
      "reqs": [
       {
@@ -16374,10 +16374,10 @@
     {
      "name": "Farming bloodweed",
      "line1": "Farming 57, Farming 120 (rec)",
-     "rate": "≈1.3M/day passive",
+     "rate": "≈888.7K/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "55.5K per 1h machine cycle, only ~1 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈319.3K. Requires Farming 57, Farming 120 (rec). ",
+     "detail": "55.5K per 1h cycle, only ~1 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈319.3K. Requires Farming 57, Farming 120 (rec). ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_bloodweed",
      "reqs": [
       {
@@ -16396,10 +16396,10 @@
     {
      "name": "Raising rex dinosaurs",
      "line1": "Farming 106, Construction 90",
-     "rate": "≈1.3M/day passive",
+     "rate": "≈1.3M/day recurring",
      "badge": "HIGH",
      "elite": null,
-     "detail": "1.3M per 24h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈212.5K. Requires Farming 106, Construction 90. ",
+     "detail": "1.3M per 24h cycle, only ~2 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈212.5K. Requires Farming 106, Construction 90. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Raising_rex_dinosaurs",
      "reqs": [
       {
@@ -16418,10 +16418,10 @@
     {
      "name": "Making potion flasks",
      "line1": "Crafting 89, Mining 81, Quests: As a First Resort",
-     "rate": "≈1.2M/day passive",
+     "rate": "≈1.2M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "1.2M per 24h machine cycle, only ~7 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Crafting 89, Mining 81, Quests: As a First Resort. ",
+     "detail": "1.2M per 24h cycle, only ~7 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Crafting 89, Mining 81, Quests: As a First Resort. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Making_potion_flasks",
      "reqs": [
       {
@@ -16440,29 +16440,12 @@
      ]
     },
     {
-     "name": "Farming marigolds",
-     "line1": "Farming 2",
-     "rate": "≈986.7K/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "13.7K per 0h machine cycle, only ~3 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.0K. Requires Farming 2. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_marigolds",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 2,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Picking papayas",
      "line1": "Farming 57, Summoning 78, Quests: Plague's End, The Path of Glouphrie, The Prisoner of Glouphrie",
-     "rate": "≈799.3K/day passive",
+     "rate": "≈532.9K/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "149.9K per 4h machine cycle, only ~4 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.2K. Requires Farming 57, Summoning 78, Quests: Plague's End, The Path of Glouphrie, The Prisoner of Glouphrie. ",
+     "detail": "149.9K per 4h30 cycle, only ~4 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.2K. Requires Farming 57, Summoning 78, Quests: Plague's End, The Path of Glouphrie, The Prisoner of Glouphrie. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Picking_papayas",
      "reqs": [
       {
@@ -16485,10 +16468,10 @@
     {
      "name": "Buying crossbows from shops",
      "line1": "Quests: Fishing Contest",
-     "rate": "≈778.3K/day passive",
+     "rate": "≈778.3K/day recurring",
      "badge": "LOW",
      "elite": null,
-     "detail": "778.3K per 24h machine cycle, only ~6 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈208.0K. Requires Quests: Fishing Contest. ",
+     "detail": "778.3K per 24h cycle, only ~6 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈208.0K. Requires Quests: Fishing Contest. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Buying_crossbows_from_shops",
      "reqs": [],
      "quests": [
@@ -16498,10 +16481,10 @@
     {
      "name": "Buying scimitars from Daga",
      "line1": "Quests: Monkey Madness, A Fairy Tale III - Battle at Ork's Rift",
-     "rate": "≈765.2K/day passive",
+     "rate": "≈765.2K/day recurring",
      "badge": "LOW",
      "elite": null,
-     "detail": "765.2K per 24h machine cycle, only ~3 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5M. Requires Quests: Monkey Madness, A Fairy Tale III - Battle at Ork's Rift. ",
+     "detail": "765.2K per 24h cycle, only ~3 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5M. Requires Quests: Monkey Madness, A Fairy Tale III - Battle at Ork's Rift. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Buying_scimitars_from_Daga",
      "reqs": [],
      "quests": [
@@ -16512,10 +16495,10 @@
     {
      "name": "Buying runes",
      "line1": "Magic 64 (rec), Magic 66 (rec), Quests: The Feud, Lunar Diplomacy, Monkey Madness, Enter the Abyss (miniquest)",
-     "rate": "≈751.1K/day passive",
+     "rate": "≈751.1K/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "5.3M per 168h machine cycle, only ~10 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.0M. Requires Magic 64 (rec), Magic 66 (rec), Quests: The Feud, Lunar Diplomacy, Monkey Madness, Enter the Abyss (miniquest), Recipe for Disaster, A Fairy Tale II - Cure a Queen. ",
+     "detail": "5.3M per 168h cycle, only ~10 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.0M. Requires Magic 64 (rec), Magic 66 (rec), Quests: The Feud, Lunar Diplomacy, Monkey Madness, Enter the Abyss (miniquest), Recipe for Disaster, A Fairy Tale II - Cure a Queen. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Buying_runes",
      "reqs": [
       {
@@ -16541,10 +16524,10 @@
     {
      "name": "Buying feathers",
      "line1": "Fishing 68 (rec), Quests: Animal Magnetism, The Fremennik Trials, Shilo Village, The Jack of Spades, As a Firs",
-     "rate": "≈675.6K/day passive",
+     "rate": "≈675.6K/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "4.7M per 168h machine cycle, only ~12 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.2M. Requires Fishing 68 (rec), Quests: Animal Magnetism, The Fremennik Trials, Shilo Village, The Jack of Spades, As a First Resort, Visions of Havenhythe, Anachronia base camp tutorial. ",
+     "detail": "4.7M per 168h cycle, only ~12 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.2M. Requires Fishing 68 (rec), Quests: Animal Magnetism, The Fremennik Trials, Shilo Village, The Jack of Spades, As a First Resort, Visions of Havenhythe, Anachronia base camp tutorial. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Buying_feathers",
      "reqs": [
       {
@@ -16566,10 +16549,10 @@
     {
      "name": "Buying mithril seeds",
      "line1": "Quests: Legends' Quest",
-     "rate": "≈610.0K/day passive",
+     "rate": "≈610.0K/day recurring",
      "badge": "LOW",
      "elite": null,
-     "detail": "610.0K per 24h machine cycle, only ~1 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈150.0K. Requires Quests: Legends' Quest. ",
+     "detail": "610.0K per 24h cycle, only ~1 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈150.0K. Requires Quests: Legends' Quest. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Buying_mithril_seeds",
      "reqs": [],
      "quests": [
@@ -16577,34 +16560,12 @@
      ]
     },
     {
-     "name": "Farming bloodweed",
-     "line1": "Farming 57, Farming 120 (rec)",
-     "rate": "≈597.7K/day passive",
-     "badge": null,
-     "elite": null,
-     "detail": "24.9K per 1h machine cycle, only ~1 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈54.5K. Requires Farming 57, Farming 120 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Farming_bloodweed",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 57,
-       "rec": false
-      },
-      {
-       "s": "Farming",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Raising black dragons to adolescent",
      "line1": "Farming 92, Construction 60",
-     "rate": "≈575.4K/day passive",
+     "rate": "≈575.5K/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "1.0M per 42h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.4M. Requires Farming 92, Construction 60. ",
+     "detail": "1.0M per 42h cycle, only ~2 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.4M. Requires Farming 92, Construction 60. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Raising_black_dragons_to_adolescent",
      "reqs": [
       {
@@ -16623,10 +16584,10 @@
     {
      "name": "Buying items from Martin Thwait",
      "line1": "Thieving 50, Agility 50",
-     "rate": "≈569.7K/day passive",
+     "rate": "≈569.7K/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "569.7K per 24h machine cycle, only ~2 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈384.8K. Requires Thieving 50, Agility 50. ",
+     "detail": "569.7K per 24h cycle, only ~2 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈384.8K. Requires Thieving 50, Agility 50. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Buying_items_from_Martin_Thwait",
      "reqs": [
       {
@@ -16645,10 +16606,10 @@
     {
      "name": "Buying bomb vials",
      "line1": "Construction 78, Quests: Plague's End, Ancient Awakening",
-     "rate": "≈556.2K/day passive",
+     "rate": "≈556.2K/day recurring",
      "badge": "LOW",
      "elite": null,
-     "detail": "556.2K per 24h machine cycle, only ~3 min hands-on per cycle. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5K. Requires Construction 78, Quests: Plague's End, Ancient Awakening. ",
+     "detail": "556.2K per 24h cycle, only ~3 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5K. Requires Construction 78, Quests: Plague's End, Ancient Awakening. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Buying_bomb_vials",
      "reqs": [
       {
