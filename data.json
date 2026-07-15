@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T03:12:17Z",
+ "generated_at": "2026-07-15T07:00:34Z",
  "sections": [
   {
    "icon": "🗺",
@@ -1840,25 +1840,6 @@
      "quests": []
     },
     {
-     "name": "Exchanging agility arena tickets for pirate hook",
-     "line1": "Agility 40, Quests: Rocking Out",
-     "rate": "7.4M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Agility 40, Quests: Rocking Out. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Exchanging_agility_arena_tickets_for_pirate_hook",
-     "reqs": [
-      {
-       "s": "Agility",
-       "l": 40,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Rocking Out"
-     ]
-    },
-    {
      "name": "Constructing frames from logs at Fort Forinthry (Magic)",
      "line1": "Construction 80",
      "rate": "7.4M/hr",
@@ -2065,60 +2046,6 @@
      "url": "https://runescape.wiki/w/Money_making_guide/Making_stone_wall_segments",
      "reqs": [],
      "quests": []
-    },
-    {
-     "name": "Looting Shifting Tombs (Chests only)",
-     "line1": "Dungeoneering 90, Agility 90, Thieving 90, Construction 90, Crafting 90, Prayer 90, Runecrafting 90, Divinatio",
-     "rate": "5.9M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Dungeoneering 90, Agility 90, Thieving 90, Construction 90, Crafting 90, Prayer 90, Runecrafting 90, Divination 90, Quests: The Jack of Spades. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Looting_Shifting_Tombs#Chests_only",
-     "reqs": [
-      {
-       "s": "Dungeoneering",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Agility",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Thieving",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Construction",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Crafting",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Runecrafting",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Divination",
-       "l": 90,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "The Jack of Spades"
-     ]
     },
     {
      "name": "Enchanting ascendri bolts",
@@ -2782,60 +2709,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Looting Shifting Tombs (Full completion)",
-     "line1": "Dungeoneering 90, Agility 90, Thieving 90, Construction 90, Crafting 90, Prayer 90, Runecrafting 90, Divinatio",
-     "rate": "3.5M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Dungeoneering 90, Agility 90, Thieving 90, Construction 90, Crafting 90, Prayer 90, Runecrafting 90, Divination 90, Quests: The Jack of Spades. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Looting_Shifting_Tombs#Full_completion",
-     "reqs": [
-      {
-       "s": "Dungeoneering",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Agility",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Thieving",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Construction",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Crafting",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Runecrafting",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Divination",
-       "l": 90,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "The Jack of Spades"
-     ]
     },
     {
      "name": "Constructing frames from logs at Fort Forinthry (Mahogany)",
@@ -8900,55 +8773,6 @@
      "quests": []
     },
     {
-     "name": "Completing Barrows: Rise of the Six",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 87 (rec), Herblore 96 (rec), Prayer 95 (rec), Quests:",
-     "rate": "72.5M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.6M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 87 (rec), Herblore 96 (rec), Prayer 95 (rec), Quests: The Temple at Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Completing_Barrows:_Rise_of_the_Six",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Summoning",
-       "l": 87,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 96,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Temple at Senntisten"
-     ]
-    },
-    {
      "name": "Killing Nex, Angel of Death (4-player)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec)",
      "rate": "68.0M/hr",
@@ -11697,33 +11521,6 @@
      ]
     },
     {
-     "name": "Killing The Barrows Brothers (High-Level)",
-     "line1": "Magic 80, Necromancy 80, Quests: Ritual of the Mahjarrat, Kindred Spirits, Lair of Tarn Razorlor (miniquest), ",
-     "rate": "6.6M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈799.4K. Requires Magic 80, Necromancy 80, Quests: Ritual of the Mahjarrat, Kindred Spirits, Lair of Tarn Razorlor (miniquest), The Branches of Darkmeyer. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_The_Barrows_Brothers_(High-Level)",
-     "reqs": [
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 80,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Ritual of the Mahjarrat",
-      "Kindred Spirits",
-      "Lair of Tarn Razorlor (miniquest)",
-      "The Branches of Darkmeyer"
-     ]
-    },
-    {
      "name": "Killing unspeakable horrors",
      "line1": "Slayer 99, Prayer 92, Melee 90 (rec), Herblore 96 (rec), Summoning 99 (rec), Quests: Cabin Fever, The Jack of ",
      "rate": "6.5M/hr",
@@ -12683,66 +12480,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Completing the Fight Kiln",
-     "line1": "Attack 90, Strength 90, Magic 90, Ranged 90, Defence 90, Prayer 92, Prayer 95 (rec), Herblore 96, Herblore 98 ",
-     "rate": "1.6M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈466.1K. Requires Attack 90, Strength 90, Magic 90, Ranged 90, Defence 90, Prayer 92, Prayer 95 (rec), Herblore 96, Herblore 98 (rec), Quests: The Elder Kiln, The Brink of Extinction. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Completing_the_Fight_Kiln",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Strength",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 92,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 96,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 98,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Elder Kiln",
-      "The Brink of Extinction"
-     ]
     },
     {
      "name": "Killing cave slime",
@@ -15230,6 +14967,277 @@
      ],
      "quests": [
       "The Temple at Senntisten"
+     ]
+    }
+   ]
+  },
+  {
+   "icon": "🎲",
+   "title": "Minigames",
+   "personal": true,
+   "note": "instanced minigames & activities by gp/hr — Barrows, Shifting Tombs & co · wiki guide-price estimates",
+   "items": [
+    {
+     "name": "Completing Barrows: Rise of the Six",
+     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 87 (rec), Herblore 96 (rec), Prayer 95 (rec), Quests:",
+     "rate": "72.5M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.6M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 87 (rec), Herblore 96 (rec), Prayer 95 (rec), Quests: The Temple at Senntisten. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Completing_Barrows:_Rise_of_the_Six",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Summoning",
+       "l": 87,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 96,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Temple at Senntisten"
+     ]
+    },
+    {
+     "name": "Exchanging agility arena tickets for pirate hook",
+     "line1": "Agility 40, Quests: Rocking Out",
+     "rate": "7.4M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Agility 40, Quests: Rocking Out. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Exchanging_agility_arena_tickets_for_pirate_hook",
+     "reqs": [
+      {
+       "s": "Agility",
+       "l": 40,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Rocking Out"
+     ]
+    },
+    {
+     "name": "Killing The Barrows Brothers (High-Level)",
+     "line1": "Magic 80, Necromancy 80, Quests: Ritual of the Mahjarrat, Kindred Spirits, Lair of Tarn Razorlor (miniquest), ",
+     "rate": "6.6M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈799.4K. Requires Magic 80, Necromancy 80, Quests: Ritual of the Mahjarrat, Kindred Spirits, Lair of Tarn Razorlor (miniquest), The Branches of Darkmeyer. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_The_Barrows_Brothers_(High-Level)",
+     "reqs": [
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 80,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ritual of the Mahjarrat",
+      "Kindred Spirits",
+      "Lair of Tarn Razorlor (miniquest)",
+      "The Branches of Darkmeyer"
+     ]
+    },
+    {
+     "name": "Looting Shifting Tombs (Chests only)",
+     "line1": "Dungeoneering 90, Agility 90, Thieving 90, Construction 90, Crafting 90, Prayer 90, Runecrafting 90, Divinatio",
+     "rate": "5.9M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Dungeoneering 90, Agility 90, Thieving 90, Construction 90, Crafting 90, Prayer 90, Runecrafting 90, Divination 90, Quests: The Jack of Spades. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Looting_Shifting_Tombs#Chests_only",
+     "reqs": [
+      {
+       "s": "Dungeoneering",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Agility",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Thieving",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Construction",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Crafting",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Runecrafting",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Divination",
+       "l": 90,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "The Jack of Spades"
+     ]
+    },
+    {
+     "name": "Looting Shifting Tombs (Full completion)",
+     "line1": "Dungeoneering 90, Agility 90, Thieving 90, Construction 90, Crafting 90, Prayer 90, Runecrafting 90, Divinatio",
+     "rate": "3.5M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Dungeoneering 90, Agility 90, Thieving 90, Construction 90, Crafting 90, Prayer 90, Runecrafting 90, Divination 90, Quests: The Jack of Spades. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Looting_Shifting_Tombs#Full_completion",
+     "reqs": [
+      {
+       "s": "Dungeoneering",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Agility",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Thieving",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Construction",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Crafting",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Runecrafting",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Divination",
+       "l": 90,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "The Jack of Spades"
+     ]
+    },
+    {
+     "name": "Completing the Fight Kiln",
+     "line1": "Attack 90, Strength 90, Magic 90, Ranged 90, Defence 90, Prayer 92, Prayer 95 (rec), Herblore 96, Herblore 98 ",
+     "rate": "1.6M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈466.1K. Requires Attack 90, Strength 90, Magic 90, Ranged 90, Defence 90, Prayer 92, Prayer 95 (rec), Herblore 96, Herblore 98 (rec), Quests: The Elder Kiln, The Brink of Extinction. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Completing_the_Fight_Kiln",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Strength",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Defence",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 92,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 96,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 98,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Elder Kiln",
+      "The Brink of Extinction"
      ]
     }
    ]
