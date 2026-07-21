@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T21:35:17Z",
+ "generated_at": "2026-07-21T03:36:17Z",
  "sections": [
   {
    "icon": "🗺",
@@ -3078,23 +3078,6 @@
      ]
     },
     {
-     "name": "Stringing magic shieldbows",
-     "line1": "Fletching 85",
-     "rate": "2.7M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.4M. Requires Fletching 85. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_magic_shieldbows",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 85,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Cleaning grimy snapdragon",
      "line1": "Herblore 59, Herblore 99 (rec)",
      "rate": "2.6M/hr",
@@ -3289,23 +3272,6 @@
        "s": "Herblore",
        "l": 99,
        "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Stringing yew shieldbows",
-     "line1": "Fletching 70",
-     "rate": "2.4M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.3M. Requires Fletching 70. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_yew_shieldbows",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 70,
-       "rec": false
       }
      ],
      "quests": []
@@ -3613,23 +3579,6 @@
      "quests": []
     },
     {
-     "name": "Stringing oak shieldbows",
-     "line1": "Fletching 25",
-     "rate": "1.8M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Fletching 25. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_oak_shieldbows",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 25,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Mining copper ore",
      "line1": "Mining 20",
      "rate": "1.8M/hr",
@@ -3641,23 +3590,6 @@
       {
        "s": "Mining",
        "l": 20,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Stringing willow shieldbows",
-     "line1": "Fletching 40",
-     "rate": "1.8M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.8M. Requires Fletching 40. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_willow_shieldbows",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 40,
        "rec": false
       }
      ],
@@ -3743,23 +3675,6 @@
       {
        "s": "Mining",
        "l": 50,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Stringing maple shieldbows",
-     "line1": "Fletching 55",
-     "rate": "1.7M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.1M. Requires Fletching 55. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_maple_shieldbows",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 55,
        "rec": false
       }
      ],
@@ -4771,17 +4686,6 @@
      "quests": []
     },
     {
-     "name": "Fletching headless arrows",
-     "line1": "no requirements listed",
-     "rate": "675.0K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.1M. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Fletching_headless_arrows",
-     "reqs": [],
-     "quests": []
-    },
-    {
      "name": "Buying plant cures",
      "line1": "no requirements listed",
      "rate": "650.2K/hr",
@@ -5715,23 +5619,6 @@
      "quests": [
       "Necromancy!"
      ]
-    },
-    {
-     "name": "Fletching elder headless arrows",
-     "line1": "Fletching 90",
-     "rate": "6.5M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.8M. Requires Fletching 90. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Fletching_elder_headless_arrows",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 90,
-       "rec": false
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Smelting orikalkum bars",
@@ -8362,28 +8249,6 @@
      "quests": []
     },
     {
-     "name": "Fletching arrow shafts",
-     "line1": "Fletching 1, Fletching 45 (rec)",
-     "rate": "1.1M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈713.2K. Requires Fletching 1, Fletching 45 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Fletching_arrow_shafts",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 1,
-       "rec": false
-      },
-      {
-       "s": "Fletching",
-       "l": 45,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Pickpocketing Crux Eqal Knights",
      "line1": "Thieving 83, Thieving 103 (rec), Agility 93 (rec), Archaeology 84, Magic 90, Prayer 80, Quests: The Light With",
      "rate": "1.1M/hr",
@@ -10996,48 +10861,6 @@
      ]
     },
     {
-     "name": "Killing legiones to make ascension crossbows",
-     "line1": "Slayer 95, Ranged 90 (rec), Prayer 92, Prayer 95 (rec), Herblore 96 (rec), Summoning 96 (rec)",
-     "rate": "15.8M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈17.8M. Requires Slayer 95, Ranged 90 (rec), Prayer 92, Prayer 95 (rec), Herblore 96 (rec), Summoning 96 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_legiones_to_make_ascension_crossbows",
-     "reqs": [
-      {
-       "s": "Slayer",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 92,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 96,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 96,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Killing the Kalphite King (Duo)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 106 (rec), Prayer 99 (rec)",
      "rate": "15.7M/hr",
@@ -11079,6 +10902,48 @@
       {
        "s": "Prayer",
        "l": 99,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Killing legiones to make ascension crossbows",
+     "line1": "Slayer 95, Ranged 90 (rec), Prayer 92, Prayer 95 (rec), Herblore 96 (rec), Summoning 96 (rec)",
+     "rate": "15.2M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈17.8M. Requires Slayer 95, Ranged 90 (rec), Prayer 92, Prayer 95 (rec), Herblore 96 (rec), Summoning 96 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_legiones_to_make_ascension_crossbows",
+     "reqs": [
+      {
+       "s": "Slayer",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 92,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 96,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 96,
        "rec": true
       }
      ],
@@ -12216,42 +12081,6 @@
      "quests": []
     },
     {
-     "name": "Killing K'ril Tsutsaroth (High-Level)",
-     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
-     "rate": "4.1M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈774.2K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
-     "reqs": [
-      {
-       "s": "Constitution",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 107,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Troll Stronghold",
-      "The Temple at Senntisten",
-      "Ritual of the Mahjarrat"
-     ]
-    },
-    {
      "name": "K'ril Tsutsaroth Alt Guide (High-level)",
      "line1": "Constitution 99, Magic 99, Herblore 107 (rec), Prayer 95 (rec), Summoning 96 (rec), Archaeology 118 (rec), Que",
      "rate": "4.1M/hr",
@@ -12288,6 +12117,42 @@
       {
        "s": "Archaeology",
        "l": 118,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Troll Stronghold",
+      "The Temple at Senntisten",
+      "Ritual of the Mahjarrat"
+     ]
+    },
+    {
+     "name": "Killing K'ril Tsutsaroth (High-Level)",
+     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
+     "rate": "4.1M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈774.2K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
+     "reqs": [
+      {
+       "s": "Constitution",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 107,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
        "rec": true
       }
      ],
@@ -13133,28 +12998,6 @@
      ]
     },
     {
-     "name": "Killing the King Black Dragon (free-to-play)",
-     "line1": "Combat 100 (rec), Prayer 37",
-     "rate": "1.2M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈50.0K. Requires Combat 100 (rec), Prayer 37. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_King_Black_Dragon#free-to-play",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 100,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 37,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Killing General Graardor",
      "line1": "Strength 70, Attack 80, Ranged 80, Magic 80, Necromancy 80, Summoning 96 (rec), Herblore 96 (rec), Prayer 95 (",
      "rate": "1.2M/hr",
@@ -13208,6 +13051,28 @@
       "Troll Stronghold",
       "The Temple at Senntisten"
      ]
+    },
+    {
+     "name": "Killing the King Black Dragon (free-to-play)",
+     "line1": "Combat 100 (rec), Prayer 37",
+     "rate": "1.1M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈50.0K. Requires Combat 100 (rec), Prayer 37. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_King_Black_Dragon#free-to-play",
+     "reqs": [
+      {
+       "s": "Combat",
+       "l": 100,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 37,
+       "rec": false
+      }
+     ],
+     "quests": []
     },
     {
      "name": "Killing spellwisps",
@@ -13417,38 +13282,6 @@
      ]
     },
     {
-     "name": "Killing gelatinous abominations",
-     "line1": "Attack 60, Ranged 60, Magic 60, Necromancy 60",
-     "rate": "486.5K/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈765. Requires Attack 60, Ranged 60, Magic 60, Necromancy 60. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_gelatinous_abominations",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 60,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 60,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 60,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 60,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Killing aviansie",
      "line1": "Strength 70, Agility 70, Ranged 70, Ranged 80 (rec), Defence 70 (rec), Prayer 92 (rec), Quests: The Mighty Fal",
      "rate": "403.9K/hr",
@@ -13621,6 +13454,38 @@
        "s": "Ranged",
        "l": 50,
        "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Killing gelatinous abominations",
+     "line1": "Attack 60, Ranged 60, Magic 60, Necromancy 60",
+     "rate": "301.6K/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈765. Requires Attack 60, Ranged 60, Magic 60, Necromancy 60. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_gelatinous_abominations",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 60,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 60,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 60,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 60,
+       "rec": false
       }
      ],
      "quests": []
@@ -13927,7 +13792,7 @@
     {
      "name": "Killing nightmares",
      "line1": "Slayer 80, Magic 90, Necromancy 90, Prayer 95 (rec), Herblore 97 (rec), Invention 99 (rec), Dungeoneering 30 (",
-     "rate": "10.0M/hr",
+     "rate": "9.6M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.0M. Requires Slayer 80, Magic 90, Necromancy 90, Prayer 95 (rec), Herblore 97 (rec), Invention 99 (rec), Dungeoneering 30 (rec), Quests: Children of Mah, Desert Treasure, City of Senntisten. ",
@@ -13978,7 +13843,7 @@
     {
      "name": "Killing seekers",
      "line1": "Slayer 71, Magic 80, Ranged 80, Quests: Dishonour among Thieves",
-     "rate": "8.3M/hr",
+     "rate": "8.2M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈253.5K. Requires Slayer 71, Magic 80, Ranged 80, Quests: Dishonour among Thieves. ",
@@ -14199,7 +14064,7 @@
     {
      "name": "Killing muspah",
      "line1": "Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treas",
-     "rate": "6.4M/hr",
+     "rate": "6.3M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.7M. Requires Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treasure. ",
@@ -14828,13 +14693,13 @@
      ]
     },
     {
-     "name": "Killing K'ril Tsutsaroth (AFK Necromancy)",
+     "name": "K'ril Tsutsaroth Alt Guide (Mid-level)",
      "line1": "Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!",
      "rate": "2.7M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈805.6K. Requires Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#AFK_Necromancy",
+     "url": "https://runescape.wiki/w/Money_making_guide/K%27ril_Tsutsaroth_Alt_Guide#Mid-level",
      "reqs": [
       {
        "s": "Constitution",
@@ -14853,13 +14718,13 @@
      ]
     },
     {
-     "name": "K'ril Tsutsaroth Alt Guide (Mid-level)",
+     "name": "Killing K'ril Tsutsaroth (AFK Necromancy)",
      "line1": "Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!",
      "rate": "2.7M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈805.6K. Requires Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/K%27ril_Tsutsaroth_Alt_Guide#Mid-level",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#AFK_Necromancy",
      "reqs": [
       {
        "s": "Constitution",
