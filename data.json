@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T17:31:03Z",
+ "generated_at": "2026-07-22T23:32:02Z",
  "sections": [
   {
    "icon": "🗺",
@@ -3834,6 +3834,23 @@
      "quests": []
     },
     {
+     "name": "Making prayer potions",
+     "line1": "Herblore 38",
+     "rate": "1.6M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.0M. Requires Herblore 38. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_prayer_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 38,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Collecting grapes",
      "line1": "Cooking 32",
      "rate": "1.6M/hr",
@@ -3845,23 +3862,6 @@
       {
        "s": "Cooking",
        "l": 32,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making prayer potions",
-     "line1": "Herblore 38",
-     "rate": "1.5M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.0M. Requires Herblore 38. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_prayer_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 38,
        "rec": false
       }
      ],
@@ -6821,6 +6821,30 @@
      "quests": []
     },
     {
+     "name": "Completing the Zarosian collection (Zarosian IV)",
+     "line1": "Archaeology 118, Archaeology 120 (rec), Quests: The Vault of Shadows",
+     "rate": "3.1M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5M. Requires Archaeology 118, Archaeology 120 (rec), Quests: The Vault of Shadows. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Completing_the_Zarosian_collection#Zarosian_IV",
+     "reqs": [
+      {
+       "s": "Archaeology",
+       "l": 118,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Vault of Shadows"
+     ]
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Kharid-et)",
      "line1": "Thieving 108, Archaeology 58, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
      "rate": "3.1M/hr",
@@ -6856,30 +6880,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Completing the Zarosian collection (Zarosian IV)",
-     "line1": "Archaeology 118, Archaeology 120 (rec), Quests: The Vault of Shadows",
-     "rate": "3.1M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5M. Requires Archaeology 118, Archaeology 120 (rec), Quests: The Vault of Shadows. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Completing_the_Zarosian_collection#Zarosian_IV",
-     "reqs": [
-      {
-       "s": "Archaeology",
-       "l": 118,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Vault of Shadows"
-     ]
     },
     {
      "name": "Pickpocketing Archaeology professors (Warforge)",
@@ -6956,38 +6956,6 @@
      "quests": []
     },
     {
-     "name": "Pickpocketing Archaeology professors (Orthen)",
-     "line1": "Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.0M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈117.7K. Requires Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Orthen",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 108,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Pickpocketing Archaeology professors (Daemonheim)",
      "line1": "Thieving 108, Archaeology 103, Dungeoneering 95, Magic 90 (rec), Prayer 80 (rec)",
      "rate": "3.0M/hr",
@@ -7025,27 +6993,32 @@
      "quests": []
     },
     {
-     "name": "Cutting elder logs (without wood spirits)",
-     "line1": "Woodcutting 90, Summoning 33 (rec), Invention 22 (rec)",
-     "rate": "2.9M/hr",
+     "name": "Pickpocketing Archaeology professors (Orthen)",
+     "line1": "Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec)",
+     "rate": "3.0M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.0K. Requires Woodcutting 90, Summoning 33 (rec), Invention 22 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Cutting_elder_logs#without_wood_spirits",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈117.7K. Requires Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Orthen",
      "reqs": [
       {
-       "s": "Woodcutting",
+       "s": "Thieving",
+       "l": 108,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
        "l": 90,
        "rec": false
       },
       {
-       "s": "Summoning",
-       "l": 33,
+       "s": "Magic",
+       "l": 90,
        "rec": true
       },
       {
-       "s": "Invention",
-       "l": 22,
+       "s": "Prayer",
+       "l": 80,
        "rec": true
       }
      ],
@@ -7054,7 +7027,7 @@
     {
      "name": "Mining primal ores",
      "line1": "Mining 100, Mining 109 (rec), Summoning 75, Strength 99 (rec)",
-     "rate": "2.9M/hr",
+     "rate": "3.0M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈199.7K. Requires Mining 100, Mining 109 (rec), Summoning 75, Strength 99 (rec). ",
@@ -7078,6 +7051,33 @@
       {
        "s": "Strength",
        "l": 99,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Cutting elder logs (without wood spirits)",
+     "line1": "Woodcutting 90, Summoning 33 (rec), Invention 22 (rec)",
+     "rate": "2.9M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.0K. Requires Woodcutting 90, Summoning 33 (rec), Invention 22 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Cutting_elder_logs#without_wood_spirits",
+     "reqs": [
+      {
+       "s": "Woodcutting",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Summoning",
+       "l": 33,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 22,
        "rec": true
       }
      ],
@@ -7526,28 +7526,6 @@
      ]
     },
     {
-     "name": "Smelting rune bars (Free-to-play)",
-     "line1": "Smithing 50, Smithing 57 (rec)",
-     "rate": "2.0M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.6M. Requires Smithing 50, Smithing 57 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_rune_bars#Free-to-play",
-     "reqs": [
-      {
-       "s": "Smithing",
-       "l": 50,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 57,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Smelting rune bars (Members)",
      "line1": "Smithing 50, Smithing 57 (rec), Prayer 91 (rec), Archaeology 102, Smithing 99, Quests: Family Crest, Plague's ",
      "rate": "2.0M/hr",
@@ -7587,6 +7565,28 @@
       "Plague's End",
       "The Light Within"
      ]
+    },
+    {
+     "name": "Smelting rune bars (Free-to-play)",
+     "line1": "Smithing 50, Smithing 57 (rec)",
+     "rate": "2.0M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.6M. Requires Smithing 50, Smithing 57 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_rune_bars#Free-to-play",
+     "reqs": [
+      {
+       "s": "Smithing",
+       "l": 50,
+       "rec": false
+      },
+      {
+       "s": "Smithing",
+       "l": 57,
+       "rec": true
+      }
+     ],
+     "quests": []
     },
     {
      "name": "Mining runite ore (Members low intensity)",
@@ -12233,6 +12233,42 @@
      "quests": []
     },
     {
+     "name": "Killing K'ril Tsutsaroth (High-Level)",
+     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
+     "rate": "4.1M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈783.7K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
+     "reqs": [
+      {
+       "s": "Constitution",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 107,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Troll Stronghold",
+      "The Temple at Senntisten",
+      "Ritual of the Mahjarrat"
+     ]
+    },
+    {
      "name": "K'ril Tsutsaroth Alt Guide (High-level)",
      "line1": "Constitution 99, Magic 99, Herblore 107 (rec), Prayer 95 (rec), Summoning 96 (rec), Archaeology 118 (rec), Que",
      "rate": "4.1M/hr",
@@ -12269,42 +12305,6 @@
       {
        "s": "Archaeology",
        "l": 118,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Troll Stronghold",
-      "The Temple at Senntisten",
-      "Ritual of the Mahjarrat"
-     ]
-    },
-    {
-     "name": "Killing K'ril Tsutsaroth (High-Level)",
-     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
-     "rate": "4.1M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈783.7K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
-     "reqs": [
-      {
-       "s": "Constitution",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 107,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
        "rec": true
       }
      ],
@@ -14404,7 +14404,7 @@
     {
      "name": "Killing capsarii",
      "line1": "Slayer 99, Herblore 96 (rec), Prayer 92 (rec), Ranged 80 (rec), Defence 80 (rec), Summoning 99 (rec), Quests: ",
-     "rate": "5.2M/hr",
+     "rate": "5.1M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.2M. Requires Slayer 99, Herblore 96 (rec), Prayer 92 (rec), Ranged 80 (rec), Defence 80 (rec), Summoning 99 (rec), Quests: The Temple at Senntisten, The Jack of Spades. ",
@@ -14489,7 +14489,7 @@
      "rate": "4.0M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈226.4K. Requires Slayer 30. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈225.5K. Requires Slayer 30. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_pyrefiends",
      "reqs": [
       {
