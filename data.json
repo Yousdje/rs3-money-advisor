@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T23:30:02Z",
+ "generated_at": "2026-07-22T05:30:50Z",
  "sections": [
   {
    "icon": "🗺",
@@ -3059,13 +3059,13 @@
      ]
     },
     {
-     "name": "Stringing magic shieldbows",
+     "name": "Stringing magic longbows",
      "line1": "Fletching 85",
      "rate": "2.7M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.3M. Requires Fletching 85. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_magic_shieldbows",
+     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_magic_longbows",
      "reqs": [
       {
        "s": "Fletching",
@@ -3156,13 +3156,13 @@
      "quests": []
     },
     {
-     "name": "Stringing yew shieldbows",
+     "name": "Stringing yew longbows",
      "line1": "Fletching 70",
      "rate": "2.5M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.2M. Requires Fletching 70. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_yew_shieldbows",
+     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_yew_longbows",
      "reqs": [
       {
        "s": "Fletching",
@@ -3586,30 +3586,30 @@
      "quests": []
     },
     {
-     "name": "Stringing oak shieldbows",
-     "line1": "Fletching 25",
+     "name": "Stringing oak longbows",
+     "line1": "Fletching 15",
      "rate": "1.9M/hr",
      "badge": "HIGH",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Fletching 25. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_oak_shieldbows",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Fletching 15. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_oak_longbows",
      "reqs": [
       {
        "s": "Fletching",
-       "l": 25,
+       "l": 15,
        "rec": false
       }
      ],
      "quests": []
     },
     {
-     "name": "Stringing willow shieldbows",
+     "name": "Stringing willow longbows",
      "line1": "Fletching 40",
      "rate": "1.8M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.8M. Requires Fletching 40. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_willow_shieldbows",
+     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_willow_longbows",
      "reqs": [
       {
        "s": "Fletching",
@@ -3698,13 +3698,13 @@
      "quests": []
     },
     {
-     "name": "Stringing maple shieldbows",
+     "name": "Stringing maple longbows",
      "line1": "Fletching 55",
      "rate": "1.7M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.0M. Requires Fletching 55. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_maple_shieldbows",
+     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_maple_longbows",
      "reqs": [
       {
        "s": "Fletching",
