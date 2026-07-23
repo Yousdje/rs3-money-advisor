@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T11:32:24Z",
+ "generated_at": "2026-07-23T17:33:03Z",
  "sections": [
   {
    "icon": "🗺",
@@ -3182,16 +3182,16 @@
     },
     {
      "name": "Stringing yew longbows",
-     "line1": "Fletching 70",
+     "line1": "Fletching 75",
      "rate": "2.6M/hr",
      "badge": "HIGH",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.2M. Requires Fletching 70. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.2M. Requires Fletching 75. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Stringing_yew_longbows",
      "reqs": [
       {
        "s": "Fletching",
-       "l": 70,
+       "l": 75,
        "rec": false
       }
      ],
@@ -3587,16 +3587,16 @@
     },
     {
      "name": "Stringing willow longbows",
-     "line1": "Fletching 40",
+     "line1": "Fletching 25",
      "rate": "1.9M/hr",
      "badge": "HIGH",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Fletching 40. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Fletching 25. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Stringing_willow_longbows",
      "reqs": [
       {
        "s": "Fletching",
-       "l": 40,
+       "l": 25,
        "rec": false
       }
      ],
@@ -3767,16 +3767,16 @@
     },
     {
      "name": "Stringing maple longbows",
-     "line1": "Fletching 55",
+     "line1": "Fletching 45",
      "rate": "1.7M/hr",
      "badge": "HIGH",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.0M. Requires Fletching 55. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.0M. Requires Fletching 45. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Stringing_maple_longbows",
      "reqs": [
       {
        "s": "Fletching",
-       "l": 55,
+       "l": 45,
        "rec": false
       }
      ],
