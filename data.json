@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T05:41:03Z",
+ "generated_at": "2026-07-26T11:42:03Z",
  "sections": [
   {
    "icon": "🗺",
@@ -1136,6 +1136,28 @@
      ]
     },
     {
+     "name": "Making summoning potions",
+     "line1": "Herblore 40, Dungeoneering 49",
+     "rate": "12.5M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈17.3M. Requires Herblore 40, Dungeoneering 49. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_summoning_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 40,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Fletching ascendri bolts",
      "line1": "Fletching 80, Construction 65 (rec), Quests: Dead and Buried",
      "rate": "12.3M/hr",
@@ -1171,28 +1193,6 @@
       {
        "s": "Herblore",
        "l": 82,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making summoning potions",
-     "line1": "Herblore 40, Dungeoneering 49",
-     "rate": "11.6M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈17.3M. Requires Herblore 40, Dungeoneering 49. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_summoning_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 40,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
        "rec": false
       }
      ],
@@ -3098,28 +3098,6 @@
      ]
     },
     {
-     "name": "Cleaning grimy ranarr",
-     "line1": "Herblore 25, Herblore 99 (rec)",
-     "rate": "2.7M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.0M. Requires Herblore 25, Herblore 99 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Cleaning_grimy_ranarr",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 25,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 99,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Cleaning grimy snapdragon",
      "line1": "Herblore 59, Herblore 99 (rec)",
      "rate": "2.7M/hr",
@@ -3131,6 +3109,28 @@
       {
        "s": "Herblore",
        "l": 59,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 99,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Cleaning grimy ranarr",
+     "line1": "Herblore 25, Herblore 99 (rec)",
+     "rate": "2.7M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.0M. Requires Herblore 25, Herblore 99 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Cleaning_grimy_ranarr",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 25,
        "rec": false
       },
       {
@@ -12307,23 +12307,6 @@
      "quests": []
     },
     {
-     "name": "Killing aberrant spectres",
-     "line1": "Slayer 63",
-     "rate": "3.9M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Slayer 63. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_aberrant_spectres",
-     "reqs": [
-      {
-       "s": "Slayer",
-       "l": 63,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "K'ril Tsutsaroth Alt Guide (High-level)",
      "line1": "Constitution 99, Magic 99, Herblore 107 (rec), Prayer 95 (rec), Summoning 96 (rec), Archaeology 118 (rec), Que",
      "rate": "3.9M/hr",
@@ -12404,6 +12387,23 @@
       "The Temple at Senntisten",
       "Ritual of the Mahjarrat"
      ]
+    },
+    {
+     "name": "Killing aberrant spectres",
+     "line1": "Slayer 63",
+     "rate": "3.9M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Slayer 63. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_aberrant_spectres",
+     "reqs": [
+      {
+       "s": "Slayer",
+       "l": 63,
+       "rec": false
+      }
+     ],
+     "quests": []
     },
     {
      "name": "Killing automaton guardians",
@@ -12921,7 +12921,7 @@
     {
      "name": "Killing TzekHaar-Jad",
      "line1": "Ranged 90, Magic 90, Defence 90 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec)",
-     "rate": "1.6M/hr",
+     "rate": "1.5M/hr",
      "badge": "MODERATE",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.6M. Requires Ranged 90, Magic 90, Defence 90 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec). ",
@@ -14128,13 +14128,13 @@
      ]
     },
     {
-     "name": "Killing abyssal beasts (Melee)",
+     "name": "Killing abyssal beasts (Necromancy)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
      "rate": "7.1M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.6M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Necromancy",
      "reqs": [
       {
        "s": "Slayer",
@@ -14155,13 +14155,13 @@
      "quests": []
     },
     {
-     "name": "Killing abyssal beasts (Necromancy)",
+     "name": "Killing abyssal beasts (Melee)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
      "rate": "7.1M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.6M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Necromancy",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
      "reqs": [
       {
        "s": "Slayer",
@@ -15254,7 +15254,7 @@
     {
      "name": "Killing glacytes",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, T",
-     "rate": "944.9K/hr",
+     "rate": "931.9K/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.6M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, The Temple at Senntisten. ",
