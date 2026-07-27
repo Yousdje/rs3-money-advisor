@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T05:44:02Z",
+ "generated_at": "2026-07-27T11:45:03Z",
  "sections": [
   {
    "icon": "🗺",
@@ -3407,16 +3407,14 @@
     },
     {
      "name": "Collecting white berries (Red Dragon Isle)",
-     "line1": "Quests: Succession",
+     "line1": "no requirements listed",
      "rate": "2.2M/hr",
      "badge": "HIGH",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.2K. Requires Quests: Succession. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.2K. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Collecting_white_berries#Red_Dragon_Isle",
      "reqs": [],
-     "quests": [
-      "Succession"
-     ]
+     "quests": []
     },
     {
      "name": "Completing the Zamorakian collection (Zamorakian IV)",
