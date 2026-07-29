@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T05:51:57Z",
+ "generated_at": "2026-07-29T11:52:57Z",
  "sections": [
   {
    "icon": "🗺",
@@ -9527,11 +9527,11 @@
     },
     {
      "name": "Killing Rasial, the First Necromancer",
-     "line1": "Necromancy 95, Defence 90 (rec), Summoning 73, Herblore 106 (rec), Archaeology 112 (rec), Prayer 95 (rec), Inv",
+     "line1": "Necromancy 95, Defence 90 (rec), Summoning 45, Herblore 106 (rec), Archaeology 112 (rec), Prayer 95 (rec), Inv",
      "rate": "42.6M/hr",
      "badge": "HIGH",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Necromancy 95, Defence 90 (rec), Summoning 73, Herblore 106 (rec), Archaeology 112 (rec), Prayer 95 (rec), Invention 89 (rec), Quests: Alpha vs Omega. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Necromancy 95, Defence 90 (rec), Summoning 45, Herblore 106 (rec), Archaeology 112 (rec), Prayer 95 (rec), Invention 89 (rec), Quests: Alpha vs Omega. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_Rasial,_the_First_Necromancer",
      "reqs": [
       {
@@ -9546,7 +9546,7 @@
       },
       {
        "s": "Summoning",
-       "l": 73,
+       "l": 45,
        "rec": false
       },
       {
