@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T06:22:57Z",
+ "generated_at": "2026-08-07T12:23:56Z",
  "sections": [
   {
    "icon": "🗺",
@@ -6863,6 +6863,38 @@
      ]
     },
     {
+     "name": "Pickpocketing Archaeology professors (Orthen)",
+     "line1": "Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec)",
+     "rate": "3.1M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈120.8K. Requires Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Orthen",
+     "reqs": [
+      {
+       "s": "Thieving",
+       "l": 108,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 80,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Daemonheim)",
      "line1": "Thieving 108, Archaeology 103, Dungeoneering 95, Magic 90 (rec), Prayer 80 (rec)",
      "rate": "3.1M/hr",
@@ -6884,38 +6916,6 @@
       {
        "s": "Dungeoneering",
        "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Pickpocketing Archaeology professors (Orthen)",
-     "line1": "Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.1M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈120.8K. Requires Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Orthen",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 108,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 90,
        "rec": false
       },
       {
@@ -14362,36 +14362,6 @@
      ]
     },
     {
-     "name": "Killing rune dragons",
-     "line1": "Ranged 80, Herblore 85, Prayer 95 (rec), Quests: Fate of the Gods, The World Wakes",
-     "rate": "6.0M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.2M. Requires Ranged 80, Herblore 85, Prayer 95 (rec), Quests: Fate of the Gods, The World Wakes. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_rune_dragons",
-     "reqs": [
-      {
-       "s": "Ranged",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 85,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Fate of the Gods",
-      "The World Wakes"
-     ]
-    },
-    {
      "name": "Killing frost dragons",
      "line1": "Dungeoneering 85, Combat 110 (rec), Prayer 92 (rec), Herblore 85 (rec), Archaeology 108 (rec)",
      "rate": "5.5M/hr",
@@ -14583,6 +14553,36 @@
      ],
      "quests": [
       "Plague's End"
+     ]
+    },
+    {
+     "name": "Killing rune dragons",
+     "line1": "Ranged 80, Herblore 85, Prayer 95 (rec), Quests: Fate of the Gods, The World Wakes",
+     "rate": "3.6M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.2M. Requires Ranged 80, Herblore 85, Prayer 95 (rec), Quests: Fate of the Gods, The World Wakes. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_rune_dragons",
+     "reqs": [
+      {
+       "s": "Ranged",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 85,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Fate of the Gods",
+      "The World Wakes"
      ]
     },
     {
@@ -15097,13 +15097,13 @@
      ]
     },
     {
-     "name": "K'ril Tsutsaroth Alt Guide (Mid-level)",
+     "name": "Killing K'ril Tsutsaroth (AFK Necromancy)",
      "line1": "Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!",
      "rate": "1.9M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈851.6K. Requires Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/K%27ril_Tsutsaroth_Alt_Guide#Mid-level",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#AFK_Necromancy",
      "reqs": [
       {
        "s": "Constitution",
@@ -15122,13 +15122,13 @@
      ]
     },
     {
-     "name": "Killing K'ril Tsutsaroth (AFK Necromancy)",
+     "name": "K'ril Tsutsaroth Alt Guide (Mid-level)",
      "line1": "Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!",
      "rate": "1.9M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈851.6K. Requires Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#AFK_Necromancy",
+     "url": "https://runescape.wiki/w/Money_making_guide/K%27ril_Tsutsaroth_Alt_Guide#Mid-level",
      "reqs": [
       {
        "s": "Constitution",
