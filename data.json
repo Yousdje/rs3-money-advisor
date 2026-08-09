@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-09T06:30:56Z",
+ "generated_at": "2026-08-09T12:31:56Z",
  "sections": [
   {
    "icon": "🗺",
@@ -3272,6 +3272,23 @@
      "quests": []
     },
     {
+     "name": "Making prayer potions",
+     "line1": "Herblore 38",
+     "rate": "2.3M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.2M. Requires Herblore 38. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_prayer_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 38,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Mining iron ore (Pay to play)",
      "line1": "Mining 99 (rec)",
      "rate": "2.2M/hr",
@@ -3362,23 +3379,6 @@
        "s": "Archaeology",
        "l": 120,
        "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making prayer potions",
-     "line1": "Herblore 38",
-     "rate": "2.2M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.2M. Requires Herblore 38. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_prayer_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 38,
-       "rec": false
       }
      ],
      "quests": []
@@ -6509,6 +6509,38 @@
      ]
     },
     {
+     "name": "Creating empty divine charges",
+     "line1": "Invention 101, Crafting 80, Smithing 80, Divination 80",
+     "rate": "3.4M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.5M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Creating_empty_divine_charges",
+     "reqs": [
+      {
+       "s": "Invention",
+       "l": 101,
+       "rec": false
+      },
+      {
+       "s": "Crafting",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Smithing",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Divination",
+       "l": 80,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Excavating Tsutsaroth remains",
      "line1": "Archaeology 116, Summoning 50",
      "rate": "3.4M/hr",
@@ -6583,38 +6615,6 @@
      "quests": [
       "City of Senntisten"
      ]
-    },
-    {
-     "name": "Creating empty divine charges",
-     "line1": "Invention 101, Crafting 80, Smithing 80, Divination 80",
-     "rate": "3.3M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.6M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Creating_empty_divine_charges",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 101,
-       "rec": false
-      },
-      {
-       "s": "Crafting",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Divination",
-       "l": 80,
-       "rec": false
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Pickpocketing Archaeology professors (Infernal Source)",
@@ -6807,6 +6807,40 @@
      "quests": []
     },
     {
+     "name": "Harvesting luminous energy",
+     "line1": "Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame",
+     "rate": "3.1M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Harvesting_luminous_energy",
+     "reqs": [
+      {
+       "s": "Divination",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Divination",
+       "l": 93,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 81,
+       "rec": true
+      },
+      {
+       "s": "Archaeology",
+       "l": 98,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Sliske's Endgame"
+     ]
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Warforge)",
      "line1": "Thieving 108, Archaeology 83, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
      "rate": "3.1M/hr",
@@ -6842,40 +6876,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Harvesting luminous energy",
-     "line1": "Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame",
-     "rate": "3.1M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Harvesting_luminous_energy",
-     "reqs": [
-      {
-       "s": "Divination",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Divination",
-       "l": 93,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 81,
-       "rec": true
-      },
-      {
-       "s": "Archaeology",
-       "l": 98,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Sliske's Endgame"
-     ]
     },
     {
      "name": "Pickpocketing Archaeology professors (Orthen)",
@@ -10810,6 +10810,35 @@
      "quests": []
     },
     {
+     "name": "Killing lava strykewyrms",
+     "line1": "Magic 80, Slayer 94, Archaeology 108 (rec), Quests: City of Senntisten",
+     "rate": "15.2M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.1M. Requires Magic 80, Slayer 94, Archaeology 108 (rec), Quests: City of Senntisten. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_lava_strykewyrms",
+     "reqs": [
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Slayer",
+       "l": 94,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 108,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "City of Senntisten"
+     ]
+    },
+    {
      "name": "Killing Beastmaster Durzag",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec)",
      "rate": "15.2M/hr",
@@ -10855,35 +10884,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Killing lava strykewyrms",
-     "line1": "Magic 80, Slayer 94, Archaeology 108 (rec), Quests: City of Senntisten",
-     "rate": "15.2M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.1M. Requires Magic 80, Slayer 94, Archaeology 108 (rec), Quests: City of Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_lava_strykewyrms",
-     "reqs": [
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Slayer",
-       "l": 94,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 108,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "City of Senntisten"
-     ]
     },
     {
      "name": "Killing Kerapac, the bound (Solo normal mode using Necromancy)",
@@ -12418,42 +12418,6 @@
      "quests": []
     },
     {
-     "name": "Killing K'ril Tsutsaroth (High-Level)",
-     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
-     "rate": "3.0M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈831.5K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
-     "reqs": [
-      {
-       "s": "Constitution",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 107,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Troll Stronghold",
-      "The Temple at Senntisten",
-      "Ritual of the Mahjarrat"
-     ]
-    },
-    {
      "name": "K'ril Tsutsaroth Alt Guide (High-level)",
      "line1": "Constitution 99, Magic 99, Herblore 107 (rec), Prayer 95 (rec), Summoning 96 (rec), Archaeology 118 (rec), Que",
      "rate": "3.0M/hr",
@@ -12490,6 +12454,42 @@
       {
        "s": "Archaeology",
        "l": 118,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Troll Stronghold",
+      "The Temple at Senntisten",
+      "Ritual of the Mahjarrat"
+     ]
+    },
+    {
+     "name": "Killing K'ril Tsutsaroth (High-Level)",
+     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
+     "rate": "3.0M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈831.5K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
+     "reqs": [
+      {
+       "s": "Constitution",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 107,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
        "rec": true
       }
      ],
@@ -14037,7 +14037,7 @@
     {
      "name": "Killing muspah",
      "line1": "Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treas",
-     "rate": "7.3M/hr",
+     "rate": "7.4M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.7M. Requires Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treasure. ",
@@ -14223,7 +14223,7 @@
     {
      "name": "Killing the Corporeal Beast (AFK Necromancy)",
      "line1": "Necromancy 120 (rec), Prayer 92 (rec), Quests: Summer's End",
-     "rate": "6.3M/hr",
+     "rate": "6.2M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.8M. Requires Necromancy 120 (rec), Prayer 92 (rec), Quests: Summer's End. ",
@@ -14247,7 +14247,7 @@
     {
      "name": "Killing abyssal beasts (Magic)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
-     "rate": "6.2M/hr",
+     "rate": "6.1M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.6M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
@@ -15273,7 +15273,7 @@
     {
      "name": "Killing glacytes",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, T",
-     "rate": "725.2K/hr",
+     "rate": "728.8K/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, The Temple at Senntisten. ",
@@ -15792,7 +15792,7 @@
      "rate": "≈4.3M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "355.2K per 1h20 cycle, only ~4 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Per-cycle profit assumes every patch/spot the guide lists — fewer unlocked means proportionally less. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈26.0K. Requires Farming 95, Cooking 92, Agility 13 (rec), Quests: A Fairy Tale I - Growing Pains. ",
+     "detail": "355.4K per 1h20 cycle, only ~4 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Per-cycle profit assumes every patch/spot the guide lists — fewer unlocked means proportionally less. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈25.8K. Requires Farming 95, Cooking 92, Agility 13 (rec), Quests: A Fairy Tale I - Growing Pains. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Farming_godly_grapevines",
      "reqs": [
       {
