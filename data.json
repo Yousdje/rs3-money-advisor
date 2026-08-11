@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T06:38:57Z",
+ "generated_at": "2026-08-11T12:39:56Z",
  "sections": [
   {
    "icon": "🗺",
@@ -3218,6 +3218,23 @@
      "quests": []
     },
     {
+     "name": "Making prayer potions",
+     "line1": "Herblore 38",
+     "rate": "2.3M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.2M. Requires Herblore 38. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_prayer_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 38,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Completing the Zamorakian collection (Zamorakian III)",
      "line1": "Archaeology 104, Archaeology 120 (rec)",
      "rate": "2.3M/hr",
@@ -3395,23 +3412,6 @@
       {
        "s": "Mining",
        "l": 20,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making prayer potions",
-     "line1": "Herblore 38",
-     "rate": "2.2M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.2M. Requires Herblore 38. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_prayer_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 38,
        "rec": false
       }
      ],
@@ -5271,7 +5271,7 @@
     {
      "name": "Crafting decorated urns (no rune)",
      "line1": "Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End",
-     "rate": "12.8M/hr",
+     "rate": "13.3M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.1M. Requires Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End. ",
@@ -6433,38 +6433,6 @@
      ]
     },
     {
-     "name": "Creating empty divine charges",
-     "line1": "Invention 101, Crafting 80, Smithing 80, Divination 80",
-     "rate": "3.4M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.5M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Creating_empty_divine_charges",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 101,
-       "rec": false
-      },
-      {
-       "s": "Crafting",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Divination",
-       "l": 80,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Excavating Tsutsaroth remains",
      "line1": "Archaeology 116, Summoning 50",
      "rate": "3.4M/hr",
@@ -6557,6 +6525,38 @@
       {
        "s": "Construction",
        "l": 25,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Creating empty divine charges",
+     "line1": "Invention 101, Crafting 80, Smithing 80, Divination 80",
+     "rate": "3.3M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.6M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Creating_empty_divine_charges",
+     "reqs": [
+      {
+       "s": "Invention",
+       "l": 101,
+       "rec": false
+      },
+      {
+       "s": "Crafting",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Smithing",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Divination",
+       "l": 80,
        "rec": false
       }
      ],
@@ -9061,7 +9061,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 200 killstreak)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "91.6M/hr",
+     "rate": "92.0M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.4M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10241,7 +10241,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 1000 percent enrage claims)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "20.7M/hr",
+     "rate": "20.8M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.3M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10509,6 +10509,45 @@
      ]
     },
     {
+     "name": "Killing the Arch-Glacor (Hard Mode streaking)",
+     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
+     "rate": "18.6M/hr",
+     "badge": "HIGH",
+     "elite": true,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_streaking",
+     "reqs": [
+      {
+       "s": "Combat",
+       "l": 138,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 96,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 89,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "City of Senntisten"
+     ]
+    },
+    {
      "name": "Completing ED2 - Dragonkin Laboratory (Duo)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96 (rec), Herblore 96 (rec), Prayer 95 (rec), Inventi",
      "rate": "18.6M/hr",
@@ -10560,45 +10599,6 @@
      ],
      "quests": [
       "Curse of the Black Stone"
-     ]
-    },
-    {
-     "name": "Killing the Arch-Glacor (Hard Mode streaking)",
-     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "18.5M/hr",
-     "badge": "HIGH",
-     "elite": true,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_streaking",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 138,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 96,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "City of Senntisten"
      ]
     },
     {
@@ -11501,6 +11501,35 @@
      "quests": []
     },
     {
+     "name": "Killing the Corporeal Beast (Melee)",
+     "line1": "Melee 80 (rec), Herblore 96 (rec), Prayer 95 (rec), Quests: Summer's End",
+     "rate": "9.6M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈614.4K. Requires Melee 80 (rec), Herblore 96 (rec), Prayer 95 (rec), Quests: Summer's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Corporeal_Beast#Melee",
+     "reqs": [
+      {
+       "s": "Melee",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 96,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Summer's End"
+     ]
+    },
+    {
      "name": "Killing the Twin Furies (High Level)",
      "line1": "Ranged 80, Attack 90, Necromancy 90, Defence 90 (rec), Herblore 98, Prayer 95, Summoning 99 (rec)",
      "rate": "8.7M/hr",
@@ -11588,35 +11617,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Killing the Corporeal Beast (Melee)",
-     "line1": "Melee 80 (rec), Herblore 96 (rec), Prayer 95 (rec), Quests: Summer's End",
-     "rate": "8.3M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈614.4K. Requires Melee 80 (rec), Herblore 96 (rec), Prayer 95 (rec), Quests: Summer's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Corporeal_Beast#Melee",
-     "reqs": [
-      {
-       "s": "Melee",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 96,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Summer's End"
-     ]
     },
     {
      "name": "Killing edimmu (Ranged)",
@@ -13984,7 +13984,7 @@
     {
      "name": "Killing muspah",
      "line1": "Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treas",
-     "rate": "7.4M/hr",
+     "rate": "7.5M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.7M. Requires Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treasure. ",
@@ -14014,6 +14014,30 @@
      "quests": [
       "Fate of the Gods",
       "Desert Treasure"
+     ]
+    },
+    {
+     "name": "Killing the Corporeal Beast (AFK Necromancy)",
+     "line1": "Necromancy 120 (rec), Prayer 92 (rec), Quests: Summer's End",
+     "rate": "7.4M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.8M. Requires Necromancy 120 (rec), Prayer 92 (rec), Quests: Summer's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Corporeal_Beast#AFK_Necromancy",
+     "reqs": [
+      {
+       "s": "Necromancy",
+       "l": 120,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 92,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Summer's End"
      ]
     },
     {
@@ -14057,13 +14081,13 @@
      ]
     },
     {
-     "name": "Killing abyssal beasts (Necromancy)",
+     "name": "Killing abyssal beasts (Melee)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
      "rate": "7.1M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Necromancy",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
      "reqs": [
       {
        "s": "Slayer",
@@ -14084,13 +14108,13 @@
      "quests": []
     },
     {
-     "name": "Killing abyssal beasts (Melee)",
+     "name": "Killing abyssal beasts (Necromancy)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
      "rate": "7.1M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Necromancy",
      "reqs": [
       {
        "s": "Slayer",
@@ -14208,33 +14232,9 @@
      ]
     },
     {
-     "name": "Killing the Corporeal Beast (AFK Necromancy)",
-     "line1": "Necromancy 120 (rec), Prayer 92 (rec), Quests: Summer's End",
-     "rate": "6.2M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.8M. Requires Necromancy 120 (rec), Prayer 92 (rec), Quests: Summer's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Corporeal_Beast#AFK_Necromancy",
-     "reqs": [
-      {
-       "s": "Necromancy",
-       "l": 120,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 92,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Summer's End"
-     ]
-    },
-    {
      "name": "Killing abyssal beasts (Magic)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
-     "rate": "6.1M/hr",
+     "rate": "6.2M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.6M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
@@ -14492,7 +14492,7 @@
      "rate": "3.9M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈247.4K. Requires Slayer 30. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈247.9K. Requires Slayer 30. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_pyrefiends",
      "reqs": [
       {
@@ -15221,7 +15221,7 @@
     {
      "name": "Killing glacytes",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, T",
-     "rate": "749.6K/hr",
+     "rate": "750.3K/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, The Temple at Senntisten. ",
