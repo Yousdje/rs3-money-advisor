@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T18:44:56Z",
+ "generated_at": "2026-08-13T00:45:56Z",
  "sections": [
   {
    "icon": "🗺",
@@ -5239,6 +5239,17 @@
      "quests": []
     },
     {
+     "name": "Picking cadava berries",
+     "line1": "no requirements listed",
+     "rate": "100.8K/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Picking_cadava_berries",
+     "reqs": [],
+     "quests": []
+    },
+    {
      "name": "Collecting sandstone (5kg)",
      "line1": "Quests: Enakhra's Lament",
      "rate": "100.8K/hr",
@@ -5250,17 +5261,6 @@
      "quests": [
       "Enakhra's Lament"
      ]
-    },
-    {
-     "name": "Picking cadava berries",
-     "line1": "no requirements listed",
-     "rate": "100.8K/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Picking_cadava_berries",
-     "reqs": [],
-     "quests": []
     }
    ]
   },
@@ -6723,43 +6723,9 @@
      "quests": []
     },
     {
-     "name": "Harvesting luminous energy",
-     "line1": "Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame",
-     "rate": "3.1M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Harvesting_luminous_energy",
-     "reqs": [
-      {
-       "s": "Divination",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Divination",
-       "l": 93,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 81,
-       "rec": true
-      },
-      {
-       "s": "Archaeology",
-       "l": 98,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Sliske's Endgame"
-     ]
-    },
-    {
      "name": "Pickpocketing Archaeology professors (Daemonheim)",
      "line1": "Thieving 108, Archaeology 103, Dungeoneering 95, Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.1M/hr",
+     "rate": "3.2M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈117.6K. Requires Thieving 108, Archaeology 103, Dungeoneering 95, Magic 90 (rec), Prayer 80 (rec). ",
@@ -6796,7 +6762,7 @@
     {
      "name": "Pickpocketing Archaeology professors (Orthen)",
      "line1": "Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.1M/hr",
+     "rate": "3.2M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈117.6K. Requires Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec). ",
@@ -6824,6 +6790,40 @@
       }
      ],
      "quests": []
+    },
+    {
+     "name": "Harvesting luminous energy",
+     "line1": "Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame",
+     "rate": "3.1M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Harvesting_luminous_energy",
+     "reqs": [
+      {
+       "s": "Divination",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Divination",
+       "l": 93,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 81,
+       "rec": true
+      },
+      {
+       "s": "Archaeology",
+       "l": 98,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Sliske's Endgame"
+     ]
     },
     {
      "name": "Pickpocketing Archaeology professors (Senntisten)",
@@ -10243,7 +10243,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 1000 percent enrage claims)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "21.0M/hr",
+     "rate": "20.9M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.3M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -13947,7 +13947,7 @@
     {
      "name": "Killing abyssal lords",
      "line1": "Slayer 115, Slayer 120 (rec), Magic 99, Defence 99, Prayer 95, Quests: City of Senntisten",
-     "rate": "8.7M/hr",
+     "rate": "8.8M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.3M. Requires Slayer 115, Slayer 120 (rec), Magic 99, Defence 99, Prayer 95, Quests: City of Senntisten. ",
@@ -14494,7 +14494,7 @@
      "rate": "4.0M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈251.4K. Requires Slayer 30. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈252.1K. Requires Slayer 30. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_pyrefiends",
      "reqs": [
       {
@@ -15262,7 +15262,7 @@
     {
      "name": "Killing glacytes",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, T",
-     "rate": "549.9K/hr",
+     "rate": "557.7K/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.0M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, The Temple at Senntisten. ",
