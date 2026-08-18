@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T13:06:57Z",
+ "generated_at": "2026-08-18T19:07:56Z",
  "sections": [
   {
    "icon": "🗺",
@@ -6230,13 +6230,13 @@
      "quests": []
     },
     {
-     "name": "Mining Soft Porcelain Clay",
+     "name": "Mining soft porcelain clay",
      "line1": "Mining 102, Archaeology 42",
      "rate": "4.1M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈224.1K. Requires Mining 102, Archaeology 42. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Mining_Soft_Porcelain_Clay",
+     "url": "https://runescape.wiki/w/Money_making_guide/Mining_soft_porcelain_clay",
      "reqs": [
       {
        "s": "Mining",
