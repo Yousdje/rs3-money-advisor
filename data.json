@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T14:23:38Z",
+ "generated_at": "2026-08-31T20:24:38Z",
  "sections": [
   {
    "icon": "🗺",
@@ -147,7 +147,7 @@
     {
      "name": "Defeating Croesus (4-person)",
      "line1": "Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec",
-     "rate": "44.5M/hr",
+     "rate": "44.4M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈149.6K. Requires Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec), Quests: The Light Within. ",
@@ -1630,6 +1630,28 @@
      ]
     },
     {
+     "name": "Making super attack potions",
+     "line1": "Herblore 45, Dungeoneering 49",
+     "rate": "7.9M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.8M. Requires Herblore 45, Dungeoneering 49. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_attack_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 45,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Hunting crystal skillchompas",
      "line1": "Hunter 97, Hunter 99 (rec), Agility 99 (rec), Summoning 71 (rec), Quests: Regicide",
      "rate": "7.8M/hr",
@@ -1698,28 +1720,6 @@
      "quests": [
       "Dream Mentor"
      ]
-    },
-    {
-     "name": "Making super attack potions",
-     "line1": "Herblore 45, Dungeoneering 49",
-     "rate": "7.5M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.8M. Requires Herblore 45, Dungeoneering 49. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_attack_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 45,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
-       "rec": false
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Collecting dinosaur eggs from seggregation",
@@ -5256,7 +5256,7 @@
     {
      "name": "Crafting decorated urns (no rune)",
      "line1": "Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End",
-     "rate": "12.3M/hr",
+     "rate": "13.0M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.0M. Requires Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End. ",
@@ -6566,7 +6566,7 @@
     {
      "name": "Pickpocketing Archaeology professors (Stormguard Citadel)",
      "line1": "Thieving 108, Archaeology 76, Smithing 40, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.1M/hr",
+     "rate": "3.0M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈117.7K. Requires Thieving 108, Archaeology 76, Smithing 40, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec). ",
@@ -8960,7 +8960,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 200 killstreak)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "92.1M/hr",
+     "rate": "92.0M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.3M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10178,7 +10178,7 @@
     {
      "name": "Killing Beastmaster Durzag",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec)",
-     "rate": "21.3M/hr",
+     "rate": "21.7M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.9M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
@@ -10225,7 +10225,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 1000 percent enrage claims)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "20.8M/hr",
+     "rate": "20.7M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.2M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10469,45 +10469,6 @@
      ]
     },
     {
-     "name": "Killing the Arch-Glacor (Hard Mode streaking)",
-     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "18.6M/hr",
-     "badge": "HIGH",
-     "elite": true,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_streaking",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 138,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 96,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "City of Senntisten"
-     ]
-    },
-    {
      "name": "Completing ED2 - Dragonkin Laboratory (Duo)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96 (rec), Herblore 96 (rec), Prayer 95 (rec), Inventi",
      "rate": "18.6M/hr",
@@ -10559,6 +10520,45 @@
      ],
      "quests": [
       "Curse of the Black Stone"
+     ]
+    },
+    {
+     "name": "Killing the Arch-Glacor (Hard Mode streaking)",
+     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
+     "rate": "18.6M/hr",
+     "badge": "HIGH",
+     "elite": true,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_streaking",
+     "reqs": [
+      {
+       "s": "Combat",
+       "l": 138,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 96,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 89,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "City of Senntisten"
      ]
     },
     {
@@ -14443,7 +14443,7 @@
      "rate": "3.9M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈232.5K. Requires Slayer 30. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈232.2K. Requires Slayer 30. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_pyrefiends",
      "reqs": [
       {
@@ -15211,7 +15211,7 @@
     {
      "name": "Killing glacytes",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, T",
-     "rate": "633.2K/hr",
+     "rate": "628.1K/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.0M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, The Temple at Senntisten. ",
