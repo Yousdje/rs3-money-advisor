@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T14:26:44Z",
+ "generated_at": "2026-09-01T20:27:38Z",
  "sections": [
   {
    "icon": "🗺",
@@ -6101,31 +6101,12 @@
      "quests": []
     },
     {
-     "name": "Performing Powerful essence rituals",
-     "line1": "Necromancy 95, Quests: Necromancy!",
+     "name": "Creating empty divine charges",
+     "line1": "Invention 101, Crafting 80, Smithing 80, Divination 80",
      "rate": "4.5M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.1M. Requires Necromancy 95, Quests: Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Performing_Powerful_essence_rituals",
-     "reqs": [
-      {
-       "s": "Necromancy",
-       "l": 95,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Necromancy!"
-     ]
-    },
-    {
-     "name": "Creating empty divine charges",
-     "line1": "Invention 101, Crafting 80, Smithing 80, Divination 80",
-     "rate": "4.3M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.8M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.6M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Creating_empty_divine_charges",
      "reqs": [
       {
@@ -6150,6 +6131,25 @@
       }
      ],
      "quests": []
+    },
+    {
+     "name": "Performing Powerful essence rituals",
+     "line1": "Necromancy 95, Quests: Necromancy!",
+     "rate": "4.5M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.1M. Requires Necromancy 95, Quests: Necromancy!. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Performing_Powerful_essence_rituals",
+     "reqs": [
+      {
+       "s": "Necromancy",
+       "l": 95,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Necromancy!"
+     ]
     },
     {
      "name": "Smelting adamant bars (Members)",
@@ -12227,7 +12227,7 @@
     {
      "name": "Killing aberrant spectres",
      "line1": "Slayer 63",
-     "rate": "3.7M/hr",
+     "rate": "3.6M/hr",
      "badge": "MODERATE",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Slayer 63. ",
@@ -13876,7 +13876,7 @@
     {
      "name": "Killing muspah",
      "line1": "Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treas",
-     "rate": "8.6M/hr",
+     "rate": "8.5M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.7M. Requires Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treasure. ",
@@ -14017,13 +14017,13 @@
      ]
     },
     {
-     "name": "Killing abyssal beasts (Necromancy)",
+     "name": "Killing abyssal beasts (Melee)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
      "rate": "6.9M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.9M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Necromancy",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
      "reqs": [
       {
        "s": "Slayer",
@@ -14044,13 +14044,13 @@
      "quests": []
     },
     {
-     "name": "Killing abyssal beasts (Melee)",
+     "name": "Killing abyssal beasts (Necromancy)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
      "rate": "6.9M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.9M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Necromancy",
      "reqs": [
       {
        "s": "Slayer",
@@ -14401,7 +14401,7 @@
      "rate": "3.8M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈227.6K. Requires Slayer 30. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈227.4K. Requires Slayer 30. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_pyrefiends",
      "reqs": [
       {
@@ -15169,7 +15169,7 @@
     {
      "name": "Killing glacytes",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, T",
-     "rate": "602.4K/hr",
+     "rate": "608.5K/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.0M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, The Temple at Senntisten. ",
@@ -15799,7 +15799,7 @@
      "rate": "≈4.1M/day recurring",
      "badge": "MODERATE",
      "elite": null,
-     "detail": "4.1M per 24h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.6M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
+     "detail": "4.1M per 24h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.7M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Mega_shop_run#Daily",
      "reqs": [
       {
@@ -16093,10 +16093,10 @@
     {
      "name": "Mega shop run (Weekly)",
      "line1": "Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal",
-     "rate": "≈1.7M/day recurring",
+     "rate": "≈1.8M/day recurring",
      "badge": "MODERATE",
      "elite": null,
-     "detail": "12.2M per 168h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.8M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
+     "detail": "12.3M per 168h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈10.5M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Mega_shop_run#Weekly",
      "reqs": [
       {
