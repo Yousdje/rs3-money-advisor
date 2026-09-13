@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T19:25:46Z",
+ "generated_at": "2026-09-13T01:26:16Z",
  "sections": [
   {
    "icon": "🗺",
@@ -7803,6 +7803,28 @@
      "quests": []
     },
     {
+     "name": "Smelting rune bars (Free-to-play)",
+     "line1": "Smithing 50, Smithing 57 (rec)",
+     "rate": "1.6M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.2M. Requires Smithing 50, Smithing 57 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_rune_bars#Free-to-play",
+     "reqs": [
+      {
+       "s": "Smithing",
+       "l": 50,
+       "rec": false
+      },
+      {
+       "s": "Smithing",
+       "l": 57,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Smelting rune bars (Members)",
      "line1": "Smithing 50, Smithing 57 (rec), Prayer 91 (rec), Archaeology 102, Smithing 99, Quests: Family Crest, Plague's ",
      "rate": "1.6M/hr",
@@ -7842,28 +7864,6 @@
       "Plague's End",
       "The Light Within"
      ]
-    },
-    {
-     "name": "Smelting rune bars (Free-to-play)",
-     "line1": "Smithing 50, Smithing 57 (rec)",
-     "rate": "1.6M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.2M. Requires Smithing 50, Smithing 57 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_rune_bars#Free-to-play",
-     "reqs": [
-      {
-       "s": "Smithing",
-       "l": 50,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 57,
-       "rec": true
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Mining necrite ore",
@@ -12108,6 +12108,42 @@
      "quests": []
     },
     {
+     "name": "Killing K'ril Tsutsaroth (High-Level)",
+     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
+     "rate": "4.1M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈849.5K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
+     "reqs": [
+      {
+       "s": "Constitution",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 107,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Troll Stronghold",
+      "The Temple at Senntisten",
+      "Ritual of the Mahjarrat"
+     ]
+    },
+    {
      "name": "K'ril Tsutsaroth Alt Guide (High-level)",
      "line1": "Constitution 99, Magic 99, Herblore 107 (rec), Prayer 95 (rec), Summoning 96 (rec), Archaeology 118 (rec), Que",
      "rate": "4.1M/hr",
@@ -12144,42 +12180,6 @@
       {
        "s": "Archaeology",
        "l": 118,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Troll Stronghold",
-      "The Temple at Senntisten",
-      "Ritual of the Mahjarrat"
-     ]
-    },
-    {
-     "name": "Killing K'ril Tsutsaroth (High-Level)",
-     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
-     "rate": "4.1M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈849.5K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
-     "reqs": [
-      {
-       "s": "Constitution",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 107,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
        "rec": true
       }
      ],
@@ -14014,13 +14014,13 @@
      ]
     },
     {
-     "name": "Killing abyssal beasts (Necromancy)",
+     "name": "Killing abyssal beasts (Melee)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
      "rate": "6.8M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.9M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Necromancy",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
      "reqs": [
       {
        "s": "Slayer",
@@ -14041,13 +14041,13 @@
      "quests": []
     },
     {
-     "name": "Killing abyssal beasts (Melee)",
+     "name": "Killing abyssal beasts (Necromancy)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
      "rate": "6.8M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.9M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Necromancy",
      "reqs": [
       {
        "s": "Slayer",
@@ -14582,13 +14582,13 @@
      ]
     },
     {
-     "name": "K'ril Tsutsaroth Alt Guide (Mid-level)",
+     "name": "Killing K'ril Tsutsaroth (AFK Necromancy)",
      "line1": "Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!",
      "rate": "2.7M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈811.7K. Requires Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/K%27ril_Tsutsaroth_Alt_Guide#Mid-level",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#AFK_Necromancy",
      "reqs": [
       {
        "s": "Constitution",
@@ -14607,13 +14607,13 @@
      ]
     },
     {
-     "name": "Killing K'ril Tsutsaroth (AFK Necromancy)",
+     "name": "K'ril Tsutsaroth Alt Guide (Mid-level)",
      "line1": "Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!",
      "rate": "2.7M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈811.7K. Requires Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#AFK_Necromancy",
+     "url": "https://runescape.wiki/w/Money_making_guide/K%27ril_Tsutsaroth_Alt_Guide#Mid-level",
      "reqs": [
       {
        "s": "Constitution",
