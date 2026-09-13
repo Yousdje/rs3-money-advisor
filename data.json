@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T13:26:57Z",
+ "generated_at": "2026-09-13T19:27:16Z",
  "sections": [
   {
    "icon": "🗺",
@@ -147,7 +147,7 @@
     {
      "name": "Defeating Croesus (4-person)",
      "line1": "Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec",
-     "rate": "47.7M/hr",
+     "rate": "47.8M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈140.4K. Requires Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec), Quests: The Light Within. ",
@@ -1914,6 +1914,28 @@
      "quests": []
     },
     {
+     "name": "Making super strength potions",
+     "line1": "Herblore 55, Dungeoneering 49",
+     "rate": "6.0M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈17.0M. Requires Herblore 55, Dungeoneering 49. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_strength_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 55,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Constructing frames at Fort Forinthry (Maple)",
      "line1": "Construction 40",
      "rate": "5.9M/hr",
@@ -1959,28 +1981,6 @@
       {
        "s": "Smithing",
        "l": 99,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making super strength potions",
-     "line1": "Herblore 55, Dungeoneering 49",
-     "rate": "5.8M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈17.0M. Requires Herblore 55, Dungeoneering 49. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_strength_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 55,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
        "rec": false
       }
      ],
@@ -5214,7 +5214,7 @@
     {
      "name": "Crafting decorated urns (no rune)",
      "line1": "Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End",
-     "rate": "12.6M/hr",
+     "rate": "13.7M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.7M. Requires Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End. ",
@@ -6088,10 +6088,10 @@
     {
      "name": "Creating empty divine charges",
      "line1": "Invention 101, Crafting 80, Smithing 80, Divination 80",
-     "rate": "4.4M/hr",
+     "rate": "4.5M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.5M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.4M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Creating_empty_divine_charges",
      "reqs": [
       {
@@ -6477,6 +6477,40 @@
      "quests": []
     },
     {
+     "name": "Harvesting luminous energy",
+     "line1": "Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame",
+     "rate": "3.1M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Harvesting_luminous_energy",
+     "reqs": [
+      {
+       "s": "Divination",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Divination",
+       "l": 93,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 81,
+       "rec": true
+      },
+      {
+       "s": "Archaeology",
+       "l": 98,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Sliske's Endgame"
+     ]
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Stormguard Citadel)",
      "line1": "Thieving 108, Archaeology 76, Smithing 40, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
      "rate": "3.1M/hr",
@@ -6517,40 +6551,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Harvesting luminous energy",
-     "line1": "Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame",
-     "rate": "3.1M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Divination 90, Divination 93 (rec), Summoning 81 (rec), Archaeology 98 (rec), Quests: Sliske's Endgame. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Harvesting_luminous_energy",
-     "reqs": [
-      {
-       "s": "Divination",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Divination",
-       "l": 93,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 81,
-       "rec": true
-      },
-      {
-       "s": "Archaeology",
-       "l": 98,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Sliske's Endgame"
-     ]
     },
     {
      "name": "Pickpocketing Archaeology professors (Everlight)",
@@ -7938,28 +7938,6 @@
      "quests": []
     },
     {
-     "name": "Smelting rune bars (Free-to-play)",
-     "line1": "Smithing 50, Smithing 57 (rec)",
-     "rate": "1.5M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.3M. Requires Smithing 50, Smithing 57 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_rune_bars#Free-to-play",
-     "reqs": [
-      {
-       "s": "Smithing",
-       "l": 50,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 57,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Smelting rune bars (Members)",
      "line1": "Smithing 50, Smithing 57 (rec), Prayer 91 (rec), Archaeology 102, Smithing 99, Quests: Family Crest, Plague's ",
      "rate": "1.5M/hr",
@@ -7999,6 +7977,28 @@
       "Plague's End",
       "The Light Within"
      ]
+    },
+    {
+     "name": "Smelting rune bars (Free-to-play)",
+     "line1": "Smithing 50, Smithing 57 (rec)",
+     "rate": "1.5M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.3M. Requires Smithing 50, Smithing 57 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_rune_bars#Free-to-play",
+     "reqs": [
+      {
+       "s": "Smithing",
+       "l": 50,
+       "rec": false
+      },
+      {
+       "s": "Smithing",
+       "l": 57,
+       "rec": true
+      }
+     ],
+     "quests": []
     },
     {
      "name": "Pickpocketing elven workers (Ithell)",
@@ -8933,9 +8933,48 @@
      ]
     },
     {
+     "name": "Killing the Arch-Glacor (Hard Mode 200 killstreak)",
+     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
+     "rate": "94.7M/hr",
+     "badge": "HIGH",
+     "elite": true,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.4M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_200_killstreak",
+     "reqs": [
+      {
+       "s": "Combat",
+       "l": 138,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 96,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 89,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "City of Senntisten"
+     ]
+    },
+    {
      "name": "Killing Nex, Angel of Death (Solo)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec)",
-     "rate": "94.3M/hr",
+     "rate": "94.4M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.3M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec). ",
@@ -8983,45 +9022,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Killing the Arch-Glacor (Hard Mode 200 killstreak)",
-     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "93.7M/hr",
-     "badge": "HIGH",
-     "elite": true,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.4M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_200_killstreak",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 138,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 96,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "City of Senntisten"
-     ]
     },
     {
      "name": "Killing Nex, Angel of Death (4-player)",
@@ -10099,7 +10099,7 @@
     {
      "name": "Killing Beastmaster Durzag",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec)",
-     "rate": "23.5M/hr",
+     "rate": "23.3M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.9M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
@@ -10198,6 +10198,45 @@
      ]
     },
     {
+     "name": "Killing the Arch-Glacor (Hard Mode 1000 percent enrage claims)",
+     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
+     "rate": "21.8M/hr",
+     "badge": "HIGH",
+     "elite": true,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.3M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_1000_percent_enrage_claims",
+     "reqs": [
+      {
+       "s": "Combat",
+       "l": 138,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 96,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 89,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "City of Senntisten"
+     ]
+    },
+    {
      "name": "Killing blood reavers",
      "line1": "Summoning 73, Slayer 73, Archaeology 68, Agility 70, Constitution 70, Ranged 70, Strength 70, Melee 90 (rec), ",
      "rate": "21.5M/hr",
@@ -10263,45 +10302,6 @@
       "Fate of the Gods",
       "The Temple at Senntisten",
       "Animal Magnetism"
-     ]
-    },
-    {
-     "name": "Killing the Arch-Glacor (Hard Mode 1000 percent enrage claims)",
-     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "21.4M/hr",
-     "badge": "HIGH",
-     "elite": true,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.3M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_1000_percent_enrage_claims",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 138,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 96,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "City of Senntisten"
      ]
     },
     {
@@ -10446,6 +10446,45 @@
      ]
     },
     {
+     "name": "Killing the Arch-Glacor (Hard Mode streaking)",
+     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
+     "rate": "19.3M/hr",
+     "badge": "HIGH",
+     "elite": true,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_streaking",
+     "reqs": [
+      {
+       "s": "Combat",
+       "l": 138,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 96,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 89,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "City of Senntisten"
+     ]
+    },
+    {
      "name": "Killing legiones to make ascension crossbows",
      "line1": "Slayer 95, Ranged 90 (rec), Prayer 92, Prayer 95 (rec), Herblore 96 (rec), Summoning 96 (rec)",
      "rate": "19.3M/hr",
@@ -10486,45 +10525,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Killing the Arch-Glacor (Hard Mode streaking)",
-     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "19.0M/hr",
-     "badge": "HIGH",
-     "elite": true,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_streaking",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 138,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 96,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "City of Senntisten"
-     ]
     },
     {
      "name": "Killing Dagannoth Kings (High Level)",
@@ -10718,7 +10718,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 0 percent enrage claims)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 1 (rec), Quests: City of Senntisten",
-     "rate": "18.0M/hr",
+     "rate": "18.1M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 1 (rec), Quests: City of Senntisten. ",
@@ -12108,42 +12108,6 @@
      "quests": []
     },
     {
-     "name": "Killing K'ril Tsutsaroth (High-Level)",
-     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
-     "rate": "4.1M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈836.8K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
-     "reqs": [
-      {
-       "s": "Constitution",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 107,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Troll Stronghold",
-      "The Temple at Senntisten",
-      "Ritual of the Mahjarrat"
-     ]
-    },
-    {
      "name": "K'ril Tsutsaroth Alt Guide (High-level)",
      "line1": "Constitution 99, Magic 99, Herblore 107 (rec), Prayer 95 (rec), Summoning 96 (rec), Archaeology 118 (rec), Que",
      "rate": "4.1M/hr",
@@ -12180,6 +12144,42 @@
       {
        "s": "Archaeology",
        "l": 118,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Troll Stronghold",
+      "The Temple at Senntisten",
+      "Ritual of the Mahjarrat"
+     ]
+    },
+    {
+     "name": "Killing K'ril Tsutsaroth (High-Level)",
+     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
+     "rate": "4.1M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈836.8K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
+     "reqs": [
+      {
+       "s": "Constitution",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 107,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
        "rec": true
       }
      ],
@@ -14418,7 +14418,7 @@
      "rate": "4.0M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈217.0K. Requires Slayer 30. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈216.6K. Requires Slayer 30. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_pyrefiends",
      "reqs": [
       {
@@ -14632,41 +14632,6 @@
      ]
     },
     {
-     "name": "Killing dark beasts",
-     "line1": "Slayer 90, Ranged 80 (rec), Herblore 96 (rec), Prayer 92 (rec), Quests: Mourning's End Part I, Within the Ligh",
-     "rate": "2.6M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈596.3K. Requires Slayer 90, Ranged 80 (rec), Herblore 96 (rec), Prayer 92 (rec), Quests: Mourning's End Part I, Within the Light. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_dark_beasts",
-     "reqs": [
-      {
-       "s": "Slayer",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 96,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 92,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Mourning's End Part I",
-      "Within the Light"
-     ]
-    },
-    {
      "name": "Killing abyssal savages",
      "line1": "Slayer 95, Combat 100, Combat 138 (rec), Prayer 71, Prayer 95 (rec), Quests: Desert Treasure",
      "rate": "2.6M/hr",
@@ -14703,6 +14668,41 @@
      ],
      "quests": [
       "Desert Treasure"
+     ]
+    },
+    {
+     "name": "Killing dark beasts",
+     "line1": "Slayer 90, Ranged 80 (rec), Herblore 96 (rec), Prayer 92 (rec), Quests: Mourning's End Part I, Within the Ligh",
+     "rate": "2.6M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈596.3K. Requires Slayer 90, Ranged 80 (rec), Herblore 96 (rec), Prayer 92 (rec), Quests: Mourning's End Part I, Within the Light. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_dark_beasts",
+     "reqs": [
+      {
+       "s": "Slayer",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 96,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 92,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Mourning's End Part I",
+      "Within the Light"
      ]
     },
     {
@@ -15186,7 +15186,7 @@
     {
      "name": "Killing glacytes",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, T",
-     "rate": "697.9K/hr",
+     "rate": "700.4K/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.0M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, The Temple at Senntisten. ",
@@ -15735,7 +15735,7 @@
      "rate": "≈4.5M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "31.4M per 168h cycle, only ~360 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
+     "detail": "31.3M per 168h cycle, only ~360 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
      "url": "https://runescape.wiki/w/Money_making_guide/Completing_Soul_Reaper_tasks",
      "reqs": [
       {
@@ -15782,7 +15782,7 @@
      "rate": "≈4.3M/day recurring",
      "badge": "MODERATE",
      "elite": null,
-     "detail": "4.3M per 24h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.0M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
+     "detail": "4.3M per 24h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.9M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Mega_shop_run#Daily",
      "reqs": [
       {
@@ -16045,7 +16045,7 @@
      "rate": "≈2.0M/day recurring",
      "badge": "MODERATE",
      "elite": null,
-     "detail": "13.7M per 168h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈12.3M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
+     "detail": "13.8M per 168h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈11.7M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Mega_shop_run#Weekly",
      "reqs": [
       {
@@ -16250,17 +16250,6 @@
       "My Arm's Big Adventure",
       "Plague's End"
      ]
-    },
-    {
-     "name": "Buying supplies from the Stonemason",
-     "line1": "no requirements listed",
-     "rate": "≈897.5K/day recurring",
-     "badge": null,
-     "elite": null,
-     "detail": "897.5K per 24h cycle, only ~7 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.8M. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Buying_supplies_from_the_Stonemason",
-     "reqs": [],
-     "quests": []
     },
     {
      "name": "Operating the Alchemiser mk. II",
