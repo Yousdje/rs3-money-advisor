@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T16:33:27Z",
+ "generated_at": "2026-09-19T22:34:27Z",
  "sections": [
   {
    "icon": "🗺",
@@ -3652,13 +3652,13 @@
      "quests": []
     },
     {
-     "name": "Mining iron ore (Pay to play)",
+     "name": "Mining iron ore (Members)",
      "line1": "Mining 99 (rec)",
      "rate": "1.7M/hr",
      "badge": "MODERATE",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈11.4K. Requires Mining 99 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Mining_iron_ore#Pay_to_play",
+     "url": "https://runescape.wiki/w/Money_making_guide/Mining_iron_ore#Members",
      "reqs": [
       {
        "s": "Mining",
@@ -4156,13 +4156,13 @@
      "quests": []
     },
     {
-     "name": "Mining iron ore (Free to play)",
+     "name": "Mining iron ore (Free-to-play)",
      "line1": "Mining 50, Dungeoneering 15, Combat 25",
      "rate": "1.1M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.6K. Requires Mining 50, Dungeoneering 15, Combat 25. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Mining_iron_ore#Free_to_play",
+     "url": "https://runescape.wiki/w/Money_making_guide/Mining_iron_ore#Free-to-play",
      "reqs": [
       {
        "s": "Mining",
