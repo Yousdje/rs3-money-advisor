@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T22:48:27Z",
+ "generated_at": "2026-09-25T02:23:35Z",
  "sections": [
   {
    "icon": "🗺",
@@ -6027,11 +6027,11 @@
     },
     {
      "name": "Crafting clockwork (Using House Teleport)",
-     "line1": "Crafting 8, Construction 25, Magic 40, Archaeology 112 (rec)",
+     "line1": "Crafting 8, Construction 25, Magic 40, Construction 50 (rec), Archaeology 112 (rec)",
      "rate": "4.5M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.6M. Requires Crafting 8, Construction 25, Magic 40, Archaeology 112 (rec). ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.6M. Requires Crafting 8, Construction 25, Magic 40, Construction 50 (rec), Archaeology 112 (rec). ",
      "url": "https://runescape.wiki/w/Money_making_guide/Crafting_clockwork#Using_House_Teleport",
      "reqs": [
       {
@@ -6048,6 +6048,11 @@
        "s": "Magic",
        "l": 40,
        "rec": false
+      },
+      {
+       "s": "Construction",
+       "l": 50,
+       "rec": true
       },
       {
        "s": "Archaeology",
