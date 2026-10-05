@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T20:23:05Z",
+ "generated_at": "2026-10-05T02:23:06Z",
  "sections": [
   {
    "icon": "🗺",
@@ -16920,52 +16920,52 @@
    "note": "profit re-derived: high alch − price − nature rune, volume-capped",
    "items": [
     {
+     "name": "Small plated orikalkum salvage",
+     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
+     "rate": "+1,992/alch · ≈2.4M/hr",
+     "detail": "Buy at 47,622, alch for 50,000 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 25,000, 88,098 traded/day."
+    },
+    {
+     "name": "Tiny blunt rune salvage",
+     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
+     "rate": "+1,859/alch · ≈2.1M/hr",
+     "detail": "Buy at 5,755, alch for 8,000 (nature rune deducted). Supply-capped at 4,600 casts/4h — limit 25,000, 46,006 traded/day."
+    },
+    {
+     "name": "Large bladed adamant salvage",
+     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
+     "rate": "+1,749/alch · ≈2.1M/hr",
+     "detail": "Buy at 5,865, alch for 8,000 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 25,000, 139,677 traded/day."
+    },
+    {
+     "name": "Huge bladed rune salvage",
+     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
+     "rate": "+1,723/alch · ≈2.1M/hr",
+     "detail": "Buy at 37,891, alch for 40,000 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 25,000, 76,093 traded/day."
+    },
+    {
+     "name": "Large plated rune salvage",
+     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
+     "rate": "+1,662/alch · ≈2.0M/hr",
+     "detail": "Buy at 29,952, alch for 32,000 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 25,000, 54,298 traded/day."
+    },
+    {
+     "name": "Large bladed rune salvage",
+     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
+     "rate": "+1,625/alch · ≈1.9M/hr",
+     "detail": "Buy at 29,989, alch for 32,000 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 25,000, 96,979 traded/day."
+    },
+    {
+     "name": "Huge plated rune salvage",
+     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
+     "rate": "+1,609/alch · ≈1.9M/hr",
+     "detail": "Buy at 38,005, alch for 40,000 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 25,000, 81,138 traded/day."
+    },
+    {
      "name": "Ascendri bolts (e)",
      "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
-     "rate": "+1,588/alch · ≈1.9M/hr",
-     "detail": "Buy at 8,826, alch for 10,800 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 10,000, 208,245 traded/day."
-    },
-    {
-     "name": "Fire battlestaff",
-     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
-     "rate": "+1,497/alch · ≈1.8M/hr",
-     "detail": "Buy at 7,417, alch for 9,300 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 5,000, 68,619 traded/day."
-    },
-    {
-     "name": "Ascendri bolts",
-     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
-     "rate": "+1,493/alch · ≈1.8M/hr",
-     "detail": "Buy at 8,321, alch for 10,200 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 10,000, 170,433 traded/day."
-    },
-    {
-     "name": "Onyx bolts (e)",
-     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
-     "rate": "+1,476/alch · ≈1.8M/hr",
-     "detail": "Buy at 7,138, alch for 9,000 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 25,000, 951,268 traded/day."
-    },
-    {
-     "name": "Water battlestaff",
-     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
-     "rate": "+1,362/alch · ≈1.6M/hr",
-     "detail": "Buy at 7,552, alch for 9,300 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 5,000, 48,002 traded/day."
-    },
-    {
-     "name": "Dragonstone",
-     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
-     "rate": "+1,300/alch · ≈1.6M/hr",
-     "detail": "Buy at 4,314, alch for 6,000 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 10,000, 286,721 traded/day."
-    },
-    {
-     "name": "Royal dragonhide body",
-     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
-     "rate": "+1,553/alch · ≈1.3M/hr",
-     "detail": "Buy at 9,581, alch for 11,520 (nature rune deducted). Supply-capped at 3,227 casts/4h — limit 5,000, 32,278 traded/day."
-    },
-    {
-     "name": "Onyx bolts",
-     "line1": "buy → cast High Level Alchemy (55 Magic + nature rune)",
-     "rate": "+1,013/alch · ≈1.2M/hr",
-     "detail": "Buy at 6,780, alch for 8,179 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 10,000, 165,589 traded/day."
+     "rate": "+1,600/alch · ≈1.9M/hr",
+     "detail": "Buy at 8,814, alch for 10,800 (nature rune deducted). Supply-capped at 4,800 casts/4h — limit 10,000, 1,202,814 traded/day."
     }
    ]
   },
