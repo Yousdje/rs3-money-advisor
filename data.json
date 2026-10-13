@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T16:06:35Z",
+ "generated_at": "2026-10-13T22:07:37Z",
  "sections": [
   {
    "icon": "🗺",
@@ -59,7 +59,7 @@
     {
      "name": "Defeating Croesus (Duo)",
      "line1": "Construction 80 (rec), Woodcutting 99 (rec), Mining 99 (rec), Fishing 99 (rec), Hunter 99 (rec), Magic 90 (rec",
-     "rate": "55.2M/hr",
+     "rate": "55.3M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Construction 80 (rec), Woodcutting 99 (rec), Mining 99 (rec), Fishing 99 (rec), Hunter 99 (rec), Magic 90 (rec), Quests: The Light Within. ",
@@ -272,7 +272,7 @@
     {
      "name": "Defeating Croesus (4-person)",
      "line1": "Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec",
-     "rate": "44.2M/hr",
+     "rate": "44.3M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈139.6K. Requires Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec), Quests: The Light Within. ",
@@ -5103,6 +5103,23 @@
      "quests": []
     },
     {
+     "name": "Making unfinished fellstalk potions",
+     "line1": "Herblore 91",
+     "rate": "267.3K/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.1M. Requires Herblore 91. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_unfinished_fellstalk_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 91,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Hunting ruby harvests",
      "line1": "Hunter 15, Hunter 30 (rec), Quests: Swan Song",
      "rate": "264.2K/hr",
@@ -5965,38 +5982,6 @@
      ]
     },
     {
-     "name": "Creating empty divine charges",
-     "line1": "Invention 101, Crafting 80, Smithing 80, Divination 80",
-     "rate": "5.2M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.0M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Creating_empty_divine_charges",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 101,
-       "rec": false
-      },
-      {
-       "s": "Crafting",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Divination",
-       "l": 80,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Screening aerated sediment",
      "line1": "Archaeology 110, Divination 68, Divination 99 (rec), Summoning 50",
      "rate": "5.2M/hr",
@@ -6088,6 +6073,38 @@
      "quests": [
       "Necromancy!"
      ]
+    },
+    {
+     "name": "Creating empty divine charges",
+     "line1": "Invention 101, Crafting 80, Smithing 80, Divination 80",
+     "rate": "4.7M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.6M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Creating_empty_divine_charges",
+     "reqs": [
+      {
+       "s": "Invention",
+       "l": 101,
+       "rec": false
+      },
+      {
+       "s": "Crafting",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Smithing",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Divination",
+       "l": 80,
+       "rec": false
+      }
+     ],
+     "quests": []
     },
     {
      "name": "Making standard teleport tablets (House teleport)",
@@ -6335,28 +6352,6 @@
      ]
     },
     {
-     "name": "Excavating Tsutsaroth remains",
-     "line1": "Archaeology 116, Summoning 50",
-     "rate": "3.7M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈562.5K. Requires Archaeology 116, Summoning 50. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Excavating_Tsutsaroth_remains",
-     "reqs": [
-      {
-       "s": "Archaeology",
-       "l": 116,
-       "rec": false
-      },
-      {
-       "s": "Summoning",
-       "l": 50,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Pickpocketing Menaphos market guards",
      "line1": "Thieving 104, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Jack of Spades, The Light Wit",
      "rate": "3.7M/hr",
@@ -6390,6 +6385,28 @@
       "The Jack of Spades",
       "The Light Within"
      ]
+    },
+    {
+     "name": "Excavating Tsutsaroth remains",
+     "line1": "Archaeology 116, Summoning 50",
+     "rate": "3.7M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈562.5K. Requires Archaeology 116, Summoning 50. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Excavating_Tsutsaroth_remains",
+     "reqs": [
+      {
+       "s": "Archaeology",
+       "l": 116,
+       "rec": false
+      },
+      {
+       "s": "Summoning",
+       "l": 50,
+       "rec": false
+      }
+     ],
+     "quests": []
     },
     {
      "name": "Pickpocketing fairy traders",
@@ -6644,6 +6661,40 @@
      "quests": []
     },
     {
+     "name": "Pickpocketing Wizards' Tower master mages",
+     "line1": "Thieving 106, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within",
+     "rate": "3.2M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈126.1K. Requires Thieving 106, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Wizards%27_Tower_master_mages",
+     "reqs": [
+      {
+       "s": "Thieving",
+       "l": 106,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 84,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 80,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Light Within"
+     ]
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Kharid-et)",
      "line1": "Thieving 108, Archaeology 58, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
      "rate": "3.2M/hr",
@@ -6679,40 +6730,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Pickpocketing Wizards' Tower master mages",
-     "line1": "Thieving 106, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within",
-     "rate": "3.2M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈126.1K. Requires Thieving 106, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Wizards%27_Tower_master_mages",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 106,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 84,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Light Within"
-     ]
     },
     {
      "name": "Pickpocketing Archaeology professors (Senntisten)",
@@ -6754,7 +6771,7 @@
     {
      "name": "Pickpocketing Archaeology professors (Warforge)",
      "line1": "Thieving 108, Archaeology 83, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.2M/hr",
+     "rate": "3.1M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈126.1K. Requires Thieving 108, Archaeology 83, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec). ",
@@ -6774,38 +6791,6 @@
        "s": "Archaeology",
        "l": 84,
        "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Pickpocketing Archaeology professors (Orthen)",
-     "line1": "Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.1M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈126.1K. Requires Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Orthen",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 108,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 90,
-       "rec": false
       },
       {
        "s": "Magic",
@@ -6842,6 +6827,38 @@
       {
        "s": "Dungeoneering",
        "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 80,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Pickpocketing Archaeology professors (Orthen)",
+     "line1": "Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec)",
+     "rate": "3.1M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈126.1K. Requires Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Orthen",
+     "reqs": [
+      {
+       "s": "Thieving",
+       "l": 108,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 90,
        "rec": false
       },
       {
@@ -6950,6 +6967,30 @@
      ]
     },
     {
+     "name": "Completing the Zarosian collection (Zarosian IV)",
+     "line1": "Archaeology 118, Archaeology 120 (rec), Quests: The Vault of Shadows",
+     "rate": "3.0M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5M. Requires Archaeology 118, Archaeology 120 (rec), Quests: The Vault of Shadows. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Completing_the_Zarosian_collection#Zarosian_IV",
+     "reqs": [
+      {
+       "s": "Archaeology",
+       "l": 118,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 120,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Vault of Shadows"
+     ]
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Archaeology Campus)",
      "line1": "Thieving 108, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
      "rate": "3.0M/hr",
@@ -6980,30 +7021,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Completing the Zarosian collection (Zarosian IV)",
-     "line1": "Archaeology 118, Archaeology 120 (rec), Quests: The Vault of Shadows",
-     "rate": "3.0M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5M. Requires Archaeology 118, Archaeology 120 (rec), Quests: The Vault of Shadows. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Completing_the_Zarosian_collection#Zarosian_IV",
-     "reqs": [
-      {
-       "s": "Archaeology",
-       "l": 118,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 120,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Vault of Shadows"
-     ]
     },
     {
      "name": "Making standard teleport tablets (Heart teleport)",
@@ -9106,7 +9123,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 200 killstreak)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "91.5M/hr",
+     "rate": "90.6M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.3M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10617,7 +10634,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 1000 percent enrage claims)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "20.8M/hr",
+     "rate": "20.5M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.2M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10736,45 +10753,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Killing the Arch-Glacor (Hard Mode streaking)",
-     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "18.2M/hr",
-     "badge": "HIGH",
-     "elite": true,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_streaking",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 138,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 96,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "City of Senntisten"
-     ]
     },
     {
      "name": "Killing Dagannoth Kings (High Level)",
@@ -10917,9 +10895,48 @@
      ]
     },
     {
+     "name": "Killing the Arch-Glacor (Hard Mode streaking)",
+     "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
+     "rate": "18.0M/hr",
+     "badge": "HIGH",
+     "elite": true,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Hard_Mode_streaking",
+     "reqs": [
+      {
+       "s": "Combat",
+       "l": 138,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 96,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      },
+      {
+       "s": "Invention",
+       "l": 89,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "City of Senntisten"
+     ]
+    },
+    {
      "name": "Killing the Arch-Glacor (Hard Mode 0 percent enrage claims)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 1 (rec), Quests: City of Senntisten",
-     "rate": "17.3M/hr",
+     "rate": "17.2M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 1 (rec), Quests: City of Senntisten. ",
@@ -11057,7 +11074,7 @@
     {
      "name": "Killing Beastmaster Durzag",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec)",
-     "rate": "15.4M/hr",
+     "rate": "15.5M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.9M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
@@ -12591,42 +12608,6 @@
      "quests": []
     },
     {
-     "name": "Killing K'ril Tsutsaroth (High-Level)",
-     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
-     "rate": "3.9M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈800.6K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
-     "reqs": [
-      {
-       "s": "Constitution",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 107,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Troll Stronghold",
-      "The Temple at Senntisten",
-      "Ritual of the Mahjarrat"
-     ]
-    },
-    {
      "name": "K'ril Tsutsaroth Alt Guide (High-level)",
      "line1": "Constitution 99, Magic 99, Herblore 107 (rec), Prayer 95 (rec), Summoning 96 (rec), Archaeology 118 (rec), Que",
      "rate": "3.9M/hr",
@@ -12663,6 +12644,42 @@
       {
        "s": "Archaeology",
        "l": 118,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Troll Stronghold",
+      "The Temple at Senntisten",
+      "Ritual of the Mahjarrat"
+     ]
+    },
+    {
+     "name": "Killing K'ril Tsutsaroth (High-Level)",
+     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
+     "rate": "3.9M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈800.6K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
+     "reqs": [
+      {
+       "s": "Constitution",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 107,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
        "rec": true
       }
      ],
@@ -14550,7 +14567,7 @@
     {
      "name": "Killing Crystal Shapeshifters (Classic Combat Mode) (with Inquisitor staff)",
      "line1": "Slayer 99, Prayer 95 (rec), Attack 90, Ranged 90, Magic 90, Necromancy 90, Invention 45 (rec), Quests: The Jac",
-     "rate": "6.4M/hr",
+     "rate": "6.5M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.4M. Requires Slayer 99, Prayer 95 (rec), Attack 90, Ranged 90, Magic 90, Necromancy 90, Invention 45 (rec), Quests: The Jack of Spades, The Light Within, The Temple at Senntisten. ",
@@ -15005,7 +15022,7 @@
      "rate": "3.4M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈204.9K. Requires Slayer 30. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈205.6K. Requires Slayer 30. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_pyrefiends",
      "reqs": [
       {
@@ -15274,13 +15291,13 @@
      ]
     },
     {
-     "name": "K'ril Tsutsaroth Alt Guide (Mid-level)",
+     "name": "Killing K'ril Tsutsaroth (AFK Necromancy)",
      "line1": "Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!",
      "rate": "2.6M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈815.0K. Requires Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/K%27ril_Tsutsaroth_Alt_Guide#Mid-level",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#AFK_Necromancy",
      "reqs": [
       {
        "s": "Constitution",
@@ -15299,13 +15316,13 @@
      ]
     },
     {
-     "name": "Killing K'ril Tsutsaroth (AFK Necromancy)",
+     "name": "K'ril Tsutsaroth Alt Guide (Mid-level)",
      "line1": "Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!",
      "rate": "2.6M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈815.0K. Requires Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#AFK_Necromancy",
+     "url": "https://runescape.wiki/w/Money_making_guide/K%27ril_Tsutsaroth_Alt_Guide#Mid-level",
      "reqs": [
       {
        "s": "Constitution",
@@ -16240,7 +16257,7 @@
      "rate": "≈4.4M/day recurring",
      "badge": "MODERATE",
      "elite": null,
-     "detail": "4.4M per 24h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.3M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
+     "detail": "4.4M per 24h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.2M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Mega_shop_run#Daily",
      "reqs": [
       {
@@ -16315,7 +16332,7 @@
      "rate": "≈4.1M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "28.6M per 168h cycle, only ~360 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
+     "detail": "28.6M per 168h cycle, only ~360 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.7M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
      "url": "https://runescape.wiki/w/Money_making_guide/Completing_Soul_Reaper_tasks",
      "reqs": [
       {
@@ -16545,6 +16562,17 @@
      ]
     },
     {
+     "name": "Buying supplies from the Stonemason",
+     "line1": "no requirements listed",
+     "rate": "≈2.2M/day recurring",
+     "badge": null,
+     "elite": null,
+     "detail": "2.2M per 24h cycle, only ~7 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈42.9M. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Buying_supplies_from_the_Stonemason",
+     "reqs": [],
+     "quests": []
+    },
+    {
      "name": "Buying from the Culinaromancer's Chest (Food)",
      "line1": "Quests: Recipe for Disaster",
      "rate": "≈2.1M/day recurring",
@@ -16578,7 +16606,7 @@
      "rate": "≈2.0M/day recurring",
      "badge": "MODERATE",
      "elite": null,
-     "detail": "14.1M per 168h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈14.8M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
+     "detail": "14.2M per 168h cycle, only ~30 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈14.2M. Requires Magic 66, Fishing 68, Farming 83, Quests: Enter the Abyss (miniquest), Lunar Diplomacy, Monkey Madness, Animal Magnetism, The Fremennik Trials, Tree Gnome Village, Shilo Village, Plague's End, Horror from the Deep, As a First Resort, Priest in Peril, Fishing Contest, New Foundations. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Mega_shop_run#Weekly",
      "reqs": [
       {
@@ -16768,17 +16796,6 @@
      "quests": [
       "As a First Resort"
      ]
-    },
-    {
-     "name": "Buying supplies from the Stonemason",
-     "line1": "no requirements listed",
-     "rate": "≈1.3M/day recurring",
-     "badge": null,
-     "elite": null,
-     "detail": "1.3M per 24h cycle, only ~7 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.7M. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Buying_supplies_from_the_Stonemason",
-     "reqs": [],
-     "quests": []
     },
     {
      "name": "Farming irit (without Plant Power T4)",
