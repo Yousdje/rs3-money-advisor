@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T16:10:36Z",
+ "generated_at": "2026-10-17T22:10:36Z",
  "sections": [
   {
    "icon": "🗺",
@@ -14791,57 +14791,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Killing tormented demons",
-     "line1": "Slayer 99, Ranged 90, Strength 90, Attack 90, Prayer 92, Herblore 106, Summoning 87 (rec), Quests: While Guthi",
-     "rate": "3.9M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.1M. Requires Slayer 99, Ranged 90, Strength 90, Attack 90, Prayer 92, Herblore 106, Summoning 87 (rec), Quests: While Guthix Sleeps, Dimension of Disaster: Curse of Arrav, The Temple at Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_tormented_demons",
-     "reqs": [
-      {
-       "s": "Slayer",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Strength",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 92,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": false
-      },
-      {
-       "s": "Summoning",
-       "l": 87,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "While Guthix Sleeps",
-      "Dimension of Disaster: Curse of Arrav",
-      "The Temple at Senntisten"
-     ]
     },
     {
      "name": "Killing Iorwerth scouts",
