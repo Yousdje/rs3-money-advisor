@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T09:05:51Z",
+ "generated_at": "2026-10-25T15:05:51Z",
  "sections": [
   {
    "icon": "🗺",
@@ -9905,6 +9905,61 @@
      "quests": [
       "The Temple at Senntisten",
       "Ritual of the Mahjarrat"
+     ]
+    },
+    {
+     "name": "Killing Raksha",
+     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96 (rec), Herblore 106 (rec), Praye",
+     "rate": "39.0M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96 (rec), Herblore 106 (rec), Prayer 95 (rec), Quests: Raksha, the Shadow Colossus (quest), Extinction. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Raksha",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Defence",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 96,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Raksha, the Shadow Colossus (quest)",
+      "Extinction"
      ]
     },
     {
