@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T07:50:47Z",
+ "generated_at": "2026-10-28T13:50:47Z",
  "sections": [
   {
    "icon": "🗺",
@@ -2893,23 +2893,6 @@
      "quests": []
     },
     {
-     "name": "Crafting emerald jewellery (Stringing amulets)",
-     "line1": "Crafting 31",
-     "rate": "3.0M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈22.4M. Requires Crafting 31. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_emerald_jewellery#Stringing_amulets",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 31,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Enchanting onyx bolts",
      "line1": "Magic 87",
      "rate": "3.0M/hr",
@@ -2921,6 +2904,23 @@
       {
        "s": "Magic",
        "l": 87,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Crafting emerald jewellery (Stringing amulets)",
+     "line1": "Crafting 31",
+     "rate": "3.0M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈22.4M. Requires Crafting 31. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_emerald_jewellery#Stringing_amulets",
+     "reqs": [
+      {
+       "s": "Crafting",
+       "l": 31,
        "rec": false
       }
      ],
@@ -5262,7 +5262,7 @@
     {
      "name": "Crafting decorated urns (no rune)",
      "line1": "Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End",
-     "rate": "11.7M/hr",
+     "rate": "13.2M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.0M. Requires Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End. ",
@@ -5483,9 +5483,31 @@
      "quests": []
     },
     {
+     "name": "Fletching headless dinarrows",
+     "line1": "Fletching 95, Construction 65 (rec)",
+     "rate": "8.3M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈37.5M. Requires Fletching 95, Construction 65 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Fletching_headless_dinarrows",
+     "reqs": [
+      {
+       "s": "Fletching",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Construction",
+       "l": 65,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Making large historic component crates",
      "line1": "Archaeology 5, Archaeology 70 (rec), Invention 20",
-     "rate": "8.3M/hr",
+     "rate": "8.2M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.2M. Requires Archaeology 5, Archaeology 70 (rec), Invention 20. ",
@@ -5505,28 +5527,6 @@
        "s": "Invention",
        "l": 20,
        "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Fletching headless dinarrows",
-     "line1": "Fletching 95, Construction 65 (rec)",
-     "rate": "8.3M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈37.5M. Requires Fletching 95, Construction 65 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Fletching_headless_dinarrows",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Construction",
-       "l": 65,
-       "rec": true
       }
      ],
      "quests": []
@@ -6073,10 +6073,10 @@
     {
      "name": "Creating empty divine charges",
      "line1": "Invention 101, Crafting 80, Smithing 80, Divination 80",
-     "rate": "4.9M/hr",
+     "rate": "4.7M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.1M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.2M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Creating_empty_divine_charges",
      "reqs": [
       {
@@ -6330,40 +6330,6 @@
      "quests": []
     },
     {
-     "name": "Harvesting vibrant energy",
-     "line1": "Divination 60, Divination 80 (rec), Archaeology 98, Invention 86, Quests: The World Wakes",
-     "rate": "3.6M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈30.2K. Requires Divination 60, Divination 80 (rec), Archaeology 98, Invention 86, Quests: The World Wakes. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Harvesting_vibrant_energy",
-     "reqs": [
-      {
-       "s": "Divination",
-       "l": 60,
-       "rec": false
-      },
-      {
-       "s": "Divination",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Archaeology",
-       "l": 98,
-       "rec": false
-      },
-      {
-       "s": "Invention",
-       "l": 86,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "The World Wakes"
-     ]
-    },
-    {
      "name": "Pickpocketing Menaphos market guards",
      "line1": "Thieving 104, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Jack of Spades, The Light Wit",
      "rate": "3.6M/hr",
@@ -6396,6 +6362,40 @@
      "quests": [
       "The Jack of Spades",
       "The Light Within"
+     ]
+    },
+    {
+     "name": "Harvesting vibrant energy",
+     "line1": "Divination 60, Divination 80 (rec), Archaeology 98, Invention 86, Quests: The World Wakes",
+     "rate": "3.6M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈30.2K. Requires Divination 60, Divination 80 (rec), Archaeology 98, Invention 86, Quests: The World Wakes. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Harvesting_vibrant_energy",
+     "reqs": [
+      {
+       "s": "Divination",
+       "l": 60,
+       "rec": false
+      },
+      {
+       "s": "Divination",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Archaeology",
+       "l": 98,
+       "rec": false
+      },
+      {
+       "s": "Invention",
+       "l": 86,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "The World Wakes"
      ]
     },
     {
@@ -6862,6 +6862,40 @@
      ]
     },
     {
+     "name": "Pickpocketing Wizards' Tower master mages",
+     "line1": "Thieving 106, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within",
+     "rate": "3.0M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈134.4K. Requires Thieving 106, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Wizards%27_Tower_master_mages",
+     "reqs": [
+      {
+       "s": "Thieving",
+       "l": 106,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 84,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 80,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Light Within"
+     ]
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Daemonheim)",
      "line1": "Thieving 108, Archaeology 103, Dungeoneering 95, Magic 90 (rec), Prayer 80 (rec)",
      "rate": "3.0M/hr",
@@ -6929,40 +6963,6 @@
       }
      ],
      "quests": []
-    },
-    {
-     "name": "Pickpocketing Wizards' Tower master mages",
-     "line1": "Thieving 106, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within",
-     "rate": "3.0M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈134.4K. Requires Thieving 106, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Wizards%27_Tower_master_mages",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 106,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 84,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Light Within"
-     ]
     },
     {
      "name": "Completing the Zarosian collection (Zarosian III)",
@@ -7072,26 +7072,9 @@
      "quests": []
     },
     {
-     "name": "Crafting ganodermic visors",
-     "line1": "Crafting 86",
-     "rate": "2.8M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.0M. Requires Crafting 86. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_ganodermic_visors",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 86,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Mining primal ores",
      "line1": "Mining 100, Mining 109 (rec), Summoning 75, Strength 99 (rec)",
-     "rate": "2.8M/hr",
+     "rate": "2.9M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈185.9K. Requires Mining 100, Mining 109 (rec), Summoning 75, Strength 99 (rec). ",
@@ -7116,6 +7099,23 @@
        "s": "Strength",
        "l": 99,
        "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Crafting ganodermic visors",
+     "line1": "Crafting 86",
+     "rate": "2.8M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.0M. Requires Crafting 86. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_ganodermic_visors",
+     "reqs": [
+      {
+       "s": "Crafting",
+       "l": 86,
+       "rec": false
       }
      ],
      "quests": []
@@ -9112,7 +9112,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 200 killstreak)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "94.3M/hr",
+     "rate": "93.7M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.3M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10548,7 +10548,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 1000 percent enrage claims)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "21.9M/hr",
+     "rate": "21.7M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.2M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10653,9 +10653,43 @@
      ]
     },
     {
+     "name": "Killing Dagannoth Kings (High Level)",
+     "line1": "Attack 80, Ranged 90, Magic 90, Prayer 92 (rec), Quests: Koschei's Troubles (miniquest)",
+     "rate": "18.9M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈694.4K. Requires Attack 80, Ranged 90, Magic 90, Prayer 92 (rec), Quests: Koschei's Troubles (miniquest). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Dagannoth_Kings#High_Level",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 92,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Koschei's Troubles (miniquest)"
+     ]
+    },
+    {
      "name": "Killing the Arch-Glacor (Hard Mode streaking)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "19.0M/hr",
+     "rate": "18.8M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10689,40 +10723,6 @@
      ],
      "quests": [
       "City of Senntisten"
-     ]
-    },
-    {
-     "name": "Killing Dagannoth Kings (High Level)",
-     "line1": "Attack 80, Ranged 90, Magic 90, Prayer 92 (rec), Quests: Koschei's Troubles (miniquest)",
-     "rate": "18.9M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈694.4K. Requires Attack 80, Ranged 90, Magic 90, Prayer 92 (rec), Quests: Koschei's Troubles (miniquest). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Dagannoth_Kings#High_Level",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 92,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Koschei's Troubles (miniquest)"
      ]
     },
     {
@@ -10920,7 +10920,7 @@
     {
      "name": "Killing Beastmaster Durzag",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec)",
-     "rate": "16.6M/hr",
+     "rate": "16.7M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.9M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
@@ -12635,42 +12635,6 @@
      ]
     },
     {
-     "name": "Killing K'ril Tsutsaroth (High-Level)",
-     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
-     "rate": "3.9M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈798.1K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
-     "reqs": [
-      {
-       "s": "Constitution",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 107,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Troll Stronghold",
-      "The Temple at Senntisten",
-      "Ritual of the Mahjarrat"
-     ]
-    },
-    {
      "name": "K'ril Tsutsaroth Alt Guide (High-level)",
      "line1": "Constitution 99, Magic 99, Herblore 107 (rec), Prayer 95 (rec), Summoning 96 (rec), Archaeology 118 (rec), Que",
      "rate": "3.9M/hr",
@@ -12707,6 +12671,42 @@
       {
        "s": "Archaeology",
        "l": 118,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Troll Stronghold",
+      "The Temple at Senntisten",
+      "Ritual of the Mahjarrat"
+     ]
+    },
+    {
+     "name": "Killing K'ril Tsutsaroth (High-Level)",
+     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
+     "rate": "3.9M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈798.1K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
+     "reqs": [
+      {
+       "s": "Constitution",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 107,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
        "rec": true
       }
      ],
@@ -14289,7 +14289,7 @@
     {
      "name": "Killing abyssal lords",
      "line1": "Slayer 115, Slayer 120 (rec), Magic 99, Defence 99, Prayer 95, Quests: City of Senntisten",
-     "rate": "8.6M/hr",
+     "rate": "8.5M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.1M. Requires Slayer 115, Slayer 120 (rec), Magic 99, Defence 99, Prayer 95, Quests: City of Senntisten. ",
@@ -14326,33 +14326,6 @@
      ]
     },
     {
-     "name": "Killing abyssal beasts (Melee)",
-     "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
-     "rate": "7.5M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.2M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
-     "reqs": [
-      {
-       "s": "Slayer",
-       "l": 105,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Killing abyssal beasts (Necromancy)",
      "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
      "rate": "7.5M/hr",
@@ -14380,9 +14353,36 @@
      "quests": []
     },
     {
+     "name": "Killing abyssal beasts (Melee)",
+     "line1": "Slayer 105, Prayer 95 (rec), Herblore 106 (rec)",
+     "rate": "7.5M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.2M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Melee",
+     "reqs": [
+      {
+       "s": "Slayer",
+       "l": 105,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Killing muspah",
      "line1": "Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treas",
-     "rate": "7.4M/hr",
+     "rate": "7.3M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.3M. Requires Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treasure. ",
@@ -14489,7 +14489,7 @@
      "rate": "6.7M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.0M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.1M. Requires Slayer 105, Prayer 95 (rec), Herblore 106 (rec). ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_beasts#Magic",
      "reqs": [
       {
@@ -14988,7 +14988,7 @@
      "rate": "3.3M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈204.2K. Requires Slayer 30. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈204.5K. Requires Slayer 30. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_pyrefiends",
      "reqs": [
       {
@@ -16415,6 +16415,17 @@
      ]
     },
     {
+     "name": "Buying supplies from the Stonemason",
+     "line1": "no requirements listed",
+     "rate": "≈3.1M/day recurring",
+     "badge": null,
+     "elite": null,
+     "detail": "3.1M per 24h cycle, only ~7 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈42.9M. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Buying_supplies_from_the_Stonemason",
+     "reqs": [],
+     "quests": []
+    },
+    {
      "name": "Gathering golden roses with Rapid Growth",
      "line1": "Farming 90, Magic 88, Quests: The Light Within",
      "rate": "≈2.8M/day recurring",
@@ -16437,17 +16448,6 @@
      "quests": [
       "The Light Within"
      ]
-    },
-    {
-     "name": "Buying supplies from the Stonemason",
-     "line1": "no requirements listed",
-     "rate": "≈2.8M/day recurring",
-     "badge": null,
-     "elite": null,
-     "detail": "2.8M per 24h cycle, only ~7 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈13.7M. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Buying_supplies_from_the_Stonemason",
-     "reqs": [],
-     "quests": []
     },
     {
      "name": "Farming snapdragon (Without Plant Power T4)",
