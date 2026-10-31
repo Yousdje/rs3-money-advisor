@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T19:53:04Z",
+ "generated_at": "2026-10-31T01:54:04Z",
  "sections": [
   {
    "icon": "🗺",
@@ -10553,74 +10553,6 @@
      "quests": []
     },
     {
-     "name": "Killing blood reavers",
-     "line1": "Summoning 73, Slayer 73, Archaeology 68, Agility 70, Constitution 70, Ranged 70, Strength 70, Melee 90 (rec), ",
-     "rate": "21.5M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈24.1M. Requires Summoning 73, Slayer 73, Archaeology 68, Agility 70, Constitution 70, Ranged 70, Strength 70, Melee 90 (rec), Prayer 95 (rec), Herblore 96 (rec), Quests: Death Plateau, Troll Stronghold, Fate of the Gods, The Temple at Senntisten, Animal Magnetism. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_blood_reavers",
-     "reqs": [
-      {
-       "s": "Summoning",
-       "l": 73,
-       "rec": false
-      },
-      {
-       "s": "Slayer",
-       "l": 73,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 68,
-       "rec": false
-      },
-      {
-       "s": "Agility",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Constitution",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Strength",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Melee",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 96,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Death Plateau",
-      "Troll Stronghold",
-      "Fate of the Gods",
-      "The Temple at Senntisten",
-      "Animal Magnetism"
-     ]
-    },
-    {
      "name": "Killing the Arch-Glacor (Hard Mode 1000 percent enrage claims)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
      "rate": "21.1M/hr",
@@ -11019,6 +10951,74 @@
       }
      ],
      "quests": []
+    },
+    {
+     "name": "Killing blood reavers",
+     "line1": "Summoning 73, Slayer 73, Archaeology 68, Agility 70, Constitution 70, Ranged 70, Strength 70, Melee 90 (rec), ",
+     "rate": "16.4M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈18.7M. Requires Summoning 73, Slayer 73, Archaeology 68, Agility 70, Constitution 70, Ranged 70, Strength 70, Melee 90 (rec), Prayer 95 (rec), Herblore 96 (rec), Quests: Death Plateau, Troll Stronghold, Fate of the Gods, The Temple at Senntisten, Animal Magnetism. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_blood_reavers",
+     "reqs": [
+      {
+       "s": "Summoning",
+       "l": 73,
+       "rec": false
+      },
+      {
+       "s": "Slayer",
+       "l": 73,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 68,
+       "rec": false
+      },
+      {
+       "s": "Agility",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Constitution",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Strength",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Melee",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 96,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Death Plateau",
+      "Troll Stronghold",
+      "Fate of the Gods",
+      "The Temple at Senntisten",
+      "Animal Magnetism"
+     ]
     },
     {
      "name": "Completing Sanctum of Rebirth (Normal Mode)",
