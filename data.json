@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T21:20:32Z",
+ "generated_at": "2026-11-07T03:20:38Z",
  "sections": [
   {
    "icon": "🗺",
@@ -59,7 +59,7 @@
     {
      "name": "Defeating Croesus (Duo)",
      "line1": "Construction 80 (rec), Woodcutting 99 (rec), Mining 99 (rec), Fishing 99 (rec), Hunter 99 (rec), Magic 90 (rec",
-     "rate": "47.0M/hr",
+     "rate": "46.9M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.9M. Requires Construction 80 (rec), Woodcutting 99 (rec), Mining 99 (rec), Fishing 99 (rec), Hunter 99 (rec), Magic 90 (rec), Quests: The Light Within. ",
@@ -212,7 +212,7 @@
     {
      "name": "Defeating Croesus (4-person)",
      "line1": "Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec",
-     "rate": "38.3M/hr",
+     "rate": "38.2M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈156.7K. Requires Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec), Quests: The Light Within. ",
@@ -1119,6 +1119,28 @@
      ]
     },
     {
+     "name": "Making super strength potions",
+     "line1": "Herblore 55, Dungeoneering 49",
+     "rate": "15.2M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈17.3M. Requires Herblore 55, Dungeoneering 49. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_strength_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 55,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Making summoning potions",
      "line1": "Herblore 40, Dungeoneering 49",
      "rate": "15.0M/hr",
@@ -1228,28 +1250,6 @@
       {
        "s": "Firemaking",
        "l": 75,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making super strength potions",
-     "line1": "Herblore 55, Dungeoneering 49",
-     "rate": "11.4M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈17.3M. Requires Herblore 55, Dungeoneering 49. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_strength_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 55,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
        "rec": false
       }
      ],
@@ -4387,23 +4387,6 @@
      "quests": []
     },
     {
-     "name": "Stringing oak longbows",
-     "line1": "Fletching 15",
-     "rate": "820.4K/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.6M. Requires Fletching 15. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_oak_longbows",
-     "reqs": [
-      {
-       "s": "Fletching",
-       "l": 15,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Stringing maple longbows",
      "line1": "Fletching 45",
      "rate": "820.4K/hr",
@@ -4415,6 +4398,23 @@
       {
        "s": "Fletching",
        "l": 45,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Stringing oak longbows",
+     "line1": "Fletching 15",
+     "rate": "820.4K/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.6M. Requires Fletching 15. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Stringing_oak_longbows",
+     "reqs": [
+      {
+       "s": "Fletching",
+       "l": 15,
        "rec": false
       }
      ],
@@ -5174,7 +5174,7 @@
     {
      "name": "Crafting decorated urns (no rune)",
      "line1": "Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End",
-     "rate": "14.7M/hr",
+     "rate": "15.0M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.7M. Requires Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End. ",
@@ -6032,10 +6032,10 @@
     {
      "name": "Creating empty divine charges",
      "line1": "Invention 101, Crafting 80, Smithing 80, Divination 80",
-     "rate": "4.9M/hr",
+     "rate": "4.8M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.0M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.1M. Requires Invention 101, Crafting 80, Smithing 80, Divination 80. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Creating_empty_divine_charges",
      "reqs": [
       {
@@ -6484,6 +6484,23 @@
      "quests": []
     },
     {
+     "name": "Mining banite",
+     "line1": "Mining 80",
+     "rate": "3.2M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈507.0K. Requires Mining 80. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Mining_banite",
+     "reqs": [
+      {
+       "s": "Mining",
+       "l": 80,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Infernal Source)",
      "line1": "Thieving 108, Archaeology 29, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
      "rate": "3.2M/hr",
@@ -6523,7 +6540,7 @@
     {
      "name": "Pickpocketing Archaeology professors (Stormguard Citadel)",
      "line1": "Thieving 108, Archaeology 76, Smithing 40, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.2M/hr",
+     "rate": "3.1M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈125.2K. Requires Thieving 108, Archaeology 76, Smithing 40, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec). ",
@@ -6558,23 +6575,6 @@
        "s": "Prayer",
        "l": 80,
        "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Mining banite",
-     "line1": "Mining 80",
-     "rate": "3.2M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈507.0K. Requires Mining 80. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Mining_banite",
-     "reqs": [
-      {
-       "s": "Mining",
-       "l": 80,
-       "rec": false
       }
      ],
      "quests": []
@@ -6646,9 +6646,26 @@
      ]
     },
     {
+     "name": "Crafting ganodermic visors",
+     "line1": "Crafting 86",
+     "rate": "3.1M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.5M. Requires Crafting 86. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_ganodermic_visors",
+     "reqs": [
+      {
+       "s": "Crafting",
+       "l": 86,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Warforge)",
      "line1": "Thieving 108, Archaeology 83, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.1M/hr",
+     "rate": "3.0M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈125.2K. Requires Thieving 108, Archaeology 83, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec). ",
@@ -6683,23 +6700,6 @@
      "quests": []
     },
     {
-     "name": "Crafting ganodermic visors",
-     "line1": "Crafting 86",
-     "rate": "3.1M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.5M. Requires Crafting 86. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_ganodermic_visors",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 86,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Completing the Zarosian collection (Zarosian IV)",
      "line1": "Archaeology 118, Archaeology 120 (rec), Quests: The Vault of Shadows",
      "rate": "3.0M/hr",
@@ -6722,6 +6722,28 @@
      "quests": [
       "The Vault of Shadows"
      ]
+    },
+    {
+     "name": "Excavating material cache (Stormguard steel)",
+     "line1": "Archaeology 70, Archaeology 76 (rec)",
+     "rate": "3.0M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Archaeology 70, Archaeology 76 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Excavating_material_cache_(Stormguard_steel)",
+     "reqs": [
+      {
+       "s": "Archaeology",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 76,
+       "rec": true
+      }
+     ],
+     "quests": []
     },
     {
      "name": "Pickpocketing Archaeology professors (Kharid-et)",
@@ -6755,28 +6777,6 @@
       {
        "s": "Prayer",
        "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Excavating material cache (Stormguard steel)",
-     "line1": "Archaeology 70, Archaeology 76 (rec)",
-     "rate": "3.0M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Archaeology 70, Archaeology 76 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Excavating_material_cache_(Stormguard_steel)",
-     "reqs": [
-      {
-       "s": "Archaeology",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 76,
        "rec": true
       }
      ],
@@ -6913,32 +6913,32 @@
      "quests": []
     },
     {
-     "name": "Pickpocketing Archaeology professors (Archaeology Campus)",
-     "line1": "Thieving 108, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
+     "name": "Mining primal ores",
+     "line1": "Mining 100, Mining 109 (rec), Summoning 75, Strength 99 (rec)",
      "rate": "2.9M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈125.2K. Requires Thieving 108, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Archaeology_Campus",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈177.5K. Requires Mining 100, Mining 109 (rec), Summoning 75, Strength 99 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Mining_primal_ores",
      "reqs": [
       {
-       "s": "Thieving",
-       "l": 108,
+       "s": "Mining",
+       "l": 100,
        "rec": false
       },
       {
-       "s": "Archaeology",
-       "l": 84,
+       "s": "Mining",
+       "l": 109,
        "rec": true
       },
       {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
+       "s": "Summoning",
+       "l": 75,
+       "rec": false
       },
       {
-       "s": "Prayer",
-       "l": 80,
+       "s": "Strength",
+       "l": 99,
        "rec": true
       }
      ],
@@ -6979,32 +6979,32 @@
      ]
     },
     {
-     "name": "Mining primal ores",
-     "line1": "Mining 100, Mining 109 (rec), Summoning 75, Strength 99 (rec)",
-     "rate": "2.8M/hr",
+     "name": "Pickpocketing Archaeology professors (Archaeology Campus)",
+     "line1": "Thieving 108, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec)",
+     "rate": "2.9M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈177.5K. Requires Mining 100, Mining 109 (rec), Summoning 75, Strength 99 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Mining_primal_ores",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈125.2K. Requires Thieving 108, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Archaeology_Campus",
      "reqs": [
       {
-       "s": "Mining",
-       "l": 100,
+       "s": "Thieving",
+       "l": 108,
        "rec": false
       },
       {
-       "s": "Mining",
-       "l": 109,
+       "s": "Archaeology",
+       "l": 84,
        "rec": true
       },
       {
-       "s": "Summoning",
-       "l": 75,
-       "rec": false
+       "s": "Magic",
+       "l": 90,
+       "rec": true
       },
       {
-       "s": "Strength",
-       "l": 99,
+       "s": "Prayer",
+       "l": 80,
        "rec": true
       }
      ],
@@ -7084,28 +7084,6 @@
      ]
     },
     {
-     "name": "Smelting rune bars (Free-to-play)",
-     "line1": "Smithing 50, Smithing 57 (rec)",
-     "rate": "2.7M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.3M. Requires Smithing 50, Smithing 57 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_rune_bars#Free-to-play",
-     "reqs": [
-      {
-       "s": "Smithing",
-       "l": 50,
-       "rec": false
-      },
-      {
-       "s": "Smithing",
-       "l": 57,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Smelting rune bars (Members)",
      "line1": "Smithing 50, Smithing 57 (rec), Prayer 91 (rec), Archaeology 102, Smithing 99, Quests: Family Crest, Plague's ",
      "rate": "2.7M/hr",
@@ -7145,6 +7123,28 @@
       "Plague's End",
       "The Light Within"
      ]
+    },
+    {
+     "name": "Smelting rune bars (Free-to-play)",
+     "line1": "Smithing 50, Smithing 57 (rec)",
+     "rate": "2.7M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.3M. Requires Smithing 50, Smithing 57 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Smelting_rune_bars#Free-to-play",
+     "reqs": [
+      {
+       "s": "Smithing",
+       "l": 50,
+       "rec": false
+      },
+      {
+       "s": "Smithing",
+       "l": 57,
+       "rec": true
+      }
+     ],
+     "quests": []
     },
     {
      "name": "Completing the Zarosian collection (Zarosian II)",
@@ -9029,7 +9029,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 200 killstreak)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "93.5M/hr",
+     "rate": "92.8M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.3M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10406,7 +10406,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode 1000 percent enrage claims)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "21.7M/hr",
+     "rate": "21.5M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.2M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10553,7 +10553,7 @@
     {
      "name": "Killing the Arch-Glacor (Hard Mode streaking)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten",
-     "rate": "18.7M/hr",
+     "rate": "18.5M/hr",
      "badge": "HIGH",
      "elite": true,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.9M. Requires Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec), Quests: City of Senntisten. ",
@@ -10771,7 +10771,7 @@
     {
      "name": "Killing Beastmaster Durzag",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec)",
-     "rate": "17.1M/hr",
+     "rate": "16.9M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.9M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
@@ -14262,7 +14262,7 @@
     {
      "name": "Killing muspah",
      "line1": "Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treas",
-     "rate": "8.0M/hr",
+     "rate": "7.8M/hr",
      "badge": "LOW",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.1M. Requires Magic 80 (rec), Prayer 92 (rec), Herblore 97 (rec), Summoning 96 (rec), Quests: Fate of the Gods, Desert Treasure. ",
@@ -14949,7 +14949,7 @@
      "rate": "3.4M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈206.0K. Requires Slayer 30. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈205.1K. Requires Slayer 30. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_pyrefiends",
      "reqs": [
       {
@@ -16085,7 +16085,7 @@
      "rate": "≈4.6M/day recurring",
      "badge": null,
      "elite": null,
-     "detail": "32.4M per 168h cycle, only ~360 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
+     "detail": "32.5M per 168h cycle, only ~360 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 99 (rec), Herblore 96 (rec), Prayer 95 (rec). ",
      "url": "https://runescape.wiki/w/Money_making_guide/Completing_Soul_Reaper_tasks",
      "reqs": [
       {
