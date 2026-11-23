@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:41:30Z",
+ "generated_at": "2026-11-23T18:41:30Z",
  "sections": [
   {
    "icon": "🗺",
@@ -11775,11 +11775,11 @@
     },
     {
      "name": "Killing edimmu (Ranged)",
-     "line1": "Slayer 90, Dungeoneering 115, Ranged 90 (rec), Herblore 92 (rec), Prayer 92 (rec), Summoning 96 (rec), Quests:",
+     "line1": "Slayer 90, Dungeoneering 92, Ranged 90 (rec), Herblore 92 (rec), Prayer 92 (rec), Summoning 96 (rec), Quests: ",
      "rate": "9.3M/hr",
      "badge": "HIGH",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.7M. Requires Slayer 90, Dungeoneering 115, Ranged 90 (rec), Herblore 92 (rec), Prayer 92 (rec), Summoning 96 (rec), Quests: Plague's End, The Temple at Senntisten. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.7M. Requires Slayer 90, Dungeoneering 92, Ranged 90 (rec), Herblore 92 (rec), Prayer 92 (rec), Summoning 96 (rec), Quests: Plague's End, The Temple at Senntisten. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_edimmu#Ranged",
      "reqs": [
       {
@@ -11789,7 +11789,7 @@
       },
       {
        "s": "Dungeoneering",
-       "l": 115,
+       "l": 92,
        "rec": false
       },
       {
@@ -12800,16 +12800,16 @@
     },
     {
      "name": "Killing ganodermic beasts",
-     "line1": "Slayer 95, Magic 95 (rec), Prayer 92 (rec), Herblore 91 (rec), Defence 75 (rec), Agility 73 (rec), Quests: The",
+     "line1": "Slayer 75, Magic 95 (rec), Prayer 92 (rec), Herblore 91 (rec), Defence 75 (rec), Agility 73 (rec), Quests: The",
      "rate": "3.1M/hr",
      "badge": "MODERATE",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈509.0K. Requires Slayer 95, Magic 95 (rec), Prayer 92 (rec), Herblore 91 (rec), Defence 75 (rec), Agility 73 (rec), Quests: The Temple at Senntisten. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈509.0K. Requires Slayer 75, Magic 95 (rec), Prayer 92 (rec), Herblore 91 (rec), Defence 75 (rec), Agility 73 (rec), Quests: The Temple at Senntisten. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_ganodermic_beasts",
      "reqs": [
       {
        "s": "Slayer",
-       "l": 95,
+       "l": 75,
        "rec": false
       },
       {
@@ -15611,16 +15611,16 @@
     },
     {
      "name": "Killing salawa akhs",
-     "line1": "Slayer 105, Attack 90, Magic 90, Necromancy 90, Prayer 92 (rec), Herblore 96 (rec), Summoning 96 (rec), Quests",
+     "line1": "Slayer 95, Attack 90, Magic 90, Necromancy 90, Prayer 92 (rec), Herblore 96 (rec), Summoning 96 (rec), Quests:",
      "rate": "1.1M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.0M. Requires Slayer 105, Attack 90, Magic 90, Necromancy 90, Prayer 92 (rec), Herblore 96 (rec), Summoning 96 (rec), Quests: Icthlarin's Little Helper, The Jack of Spades, Contact!. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈3.0M. Requires Slayer 95, Attack 90, Magic 90, Necromancy 90, Prayer 92 (rec), Herblore 96 (rec), Summoning 96 (rec), Quests: Icthlarin's Little Helper, The Jack of Spades, Contact!. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_salawa_akhs",
      "reqs": [
       {
        "s": "Slayer",
-       "l": 105,
+       "l": 95,
        "rec": false
       },
       {
@@ -16631,23 +16631,6 @@
      ]
     },
     {
-     "name": "Operating the Alchemiser mk. II",
-     "line1": "Invention 108",
-     "rate": "≈1.6M/day recurring",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "12.8M per 192h cycle, only ~2 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈32.2M. Requires Invention 108. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Operating_the_Alchemiser_mk._II",
-     "reqs": [
-      {
-       "s": "Invention",
-       "l": 108,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Transmuting onyx dust",
      "line1": "Divination 97",
      "rate": "≈1.1M/day recurring",
@@ -16787,6 +16770,23 @@
       "My Arm's Big Adventure",
       "Plague's End"
      ]
+    },
+    {
+     "name": "Operating the Alchemiser mk. II",
+     "line1": "Invention 108",
+     "rate": "≈940.9K/day recurring",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "7.5M per 192h cycle, only ~2 min hands-on per cycle; short cycles assume collecting through a ~16h day, not around the clock. Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈19.5M. Requires Invention 108. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Operating_the_Alchemiser_mk._II",
+     "reqs": [
+      {
+       "s": "Invention",
+       "l": 108,
+       "rec": false
+      }
+     ],
+     "quests": []
     },
     {
      "name": "Picking papayas",
