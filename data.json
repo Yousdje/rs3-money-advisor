@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T12:44:30Z",
+ "generated_at": "2026-11-24T18:44:30Z",
  "sections": [
   {
    "icon": "🗺",
@@ -314,30 +314,6 @@
      ]
     },
     {
-     "name": "Making super Saradomin brew flasks",
-     "line1": "Herblore 93, Dungeoneering 49, Quests: As a First Resort",
-     "rate": "36.2M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈107.3M. Requires Herblore 93, Dungeoneering 49, Quests: As a First Resort. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_Saradomin_brew_flasks",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 93,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "As a First Resort"
-     ]
-    },
-    {
      "name": "Completing the Vault of Hereditas",
      "line1": "Thieving 95, Thieving 102 (rec), Magic 90 (rec), Archaeology 84 (rec), Invention 81 (rec), Prayer 80 (rec), Ag",
      "rate": "35.8M/hr",
@@ -549,6 +525,30 @@
      "quests": [
       "Rune Mythos",
       "Hero's Welcome"
+     ]
+    },
+    {
+     "name": "Making super Saradomin brew flasks",
+     "line1": "Herblore 93, Dungeoneering 49, Quests: As a First Resort",
+     "rate": "32.0M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈106.5M. Requires Herblore 93, Dungeoneering 49, Quests: As a First Resort. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_Saradomin_brew_flasks",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 93,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "As a First Resort"
      ]
     },
     {
@@ -1071,50 +1071,6 @@
      "quests": []
     },
     {
-     "name": "Making super defence potions",
-     "line1": "Herblore 66, Dungeoneering 49",
-     "rate": "16.6M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈14.1M. Requires Herblore 66, Dungeoneering 49. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_defence_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 66,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making super antipoisons",
-     "line1": "Herblore 48, Dungeoneering 49",
-     "rate": "15.8M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.9M. Requires Herblore 48, Dungeoneering 49. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_antipoisons",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 48,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Running the Anachronia Agility Course for codex pages",
      "line1": "Agility 85",
      "rate": "15.7M/hr",
@@ -1208,6 +1164,28 @@
      ]
     },
     {
+     "name": "Making super antipoisons",
+     "line1": "Herblore 48, Dungeoneering 49",
+     "rate": "13.9M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.9M. Requires Herblore 48, Dungeoneering 49. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_antipoisons",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 48,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Collecting sharp shell shards",
      "line1": "Firemaking 87, Quests: Extinction",
      "rate": "13.9M/hr",
@@ -1227,6 +1205,28 @@
      ]
     },
     {
+     "name": "Making super defence potions",
+     "line1": "Herblore 66, Dungeoneering 49",
+     "rate": "13.8M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈14.1M. Requires Herblore 66, Dungeoneering 49. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_defence_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 66,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Making aggression potions",
      "line1": "Herblore 82",
      "rate": "12.7M/hr",
@@ -1238,28 +1238,6 @@
       {
        "s": "Herblore",
        "l": 82,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making super attack potions",
-     "line1": "Herblore 45, Dungeoneering 49",
-     "rate": "12.3M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.1M. Requires Herblore 45, Dungeoneering 49. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_attack_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 45,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
        "rec": false
       }
      ],
@@ -1370,6 +1348,28 @@
      ]
     },
     {
+     "name": "Making super attack potions",
+     "line1": "Herblore 45, Dungeoneering 49",
+     "rate": "10.8M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.1M. Requires Herblore 45, Dungeoneering 49. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_attack_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 45,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Screening soil using Sift Soil (Ancient gravel)",
      "line1": "Archaeology 99, Archaeology 120 (rec), Magic 91, Summoning 50 (rec), Quests: Lunar Diplomacy",
      "rate": "10.6M/hr",
@@ -1431,28 +1431,6 @@
        "s": "Agility",
        "l": 5,
        "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making super strength potions",
-     "line1": "Herblore 55, Dungeoneering 49",
-     "rate": "10.2M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈16.7M. Requires Herblore 55, Dungeoneering 49. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_strength_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 55,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
-       "rec": false
       }
      ],
      "quests": []
@@ -1577,28 +1555,6 @@
      ]
     },
     {
-     "name": "Making weapon poison+++",
-     "line1": "Herblore 100, Dungeoneering 49",
-     "rate": "9.3M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈65.3M. Requires Herblore 100, Dungeoneering 49. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_weapon_poison%2B%2B%2B",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 100,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Adding herbs to incense sticks (Spirit weed)",
      "line1": "Firemaking 35",
      "rate": "9.1M/hr",
@@ -1693,6 +1649,28 @@
      ]
     },
     {
+     "name": "Making super strength potions",
+     "line1": "Herblore 55, Dungeoneering 49",
+     "rate": "8.0M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈16.7M. Requires Herblore 55, Dungeoneering 49. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_super_strength_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 55,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Making infernal magic incense sticks",
      "line1": "Firemaking 75",
      "rate": "8.0M/hr",
@@ -1704,28 +1682,6 @@
       {
        "s": "Firemaking",
        "l": 75,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making summoning potions",
-     "line1": "Herblore 40, Dungeoneering 49",
-     "rate": "7.4M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈18.7M. Requires Herblore 40, Dungeoneering 49. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_summoning_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 40,
-       "rec": false
-      },
-      {
-       "s": "Dungeoneering",
-       "l": 49,
        "rec": false
       }
      ],
@@ -1752,6 +1708,31 @@
       }
      ],
      "quests": []
+    },
+    {
+     "name": "Crafting decorated urns (no rune)",
+     "line1": "Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End",
+     "rate": "7.0M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.1M. Requires Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_decorated_urns_(no_rune)",
+     "reqs": [
+      {
+       "s": "Crafting",
+       "l": 76,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 82,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Lunar Diplomacy",
+      "Plague's End"
+     ]
     },
     {
      "name": "Constructing frames at Fort Forinthry (Oak)",
@@ -2093,6 +2074,28 @@
      ]
     },
     {
+     "name": "Making summoning potions",
+     "line1": "Herblore 40, Dungeoneering 49",
+     "rate": "5.1M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈18.7M. Requires Herblore 40, Dungeoneering 49. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_summoning_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 40,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Mining red and crystal sandstone (Red sandstone)",
      "line1": "Mining 81, Crafting 89, Agility 29 (rec), Summoning 50 (rec), Quests: As a First Resort",
      "rate": "5.0M/hr",
@@ -2183,13 +2186,13 @@
      "quests": []
     },
     {
-     "name": "Making infernal urns",
+     "name": "Crafting infernal urns (no rune)",
      "line1": "Crafting 62",
      "rate": "4.4M/hr",
      "badge": "MODERATE",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.5M. Requires Crafting 62. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_infernal_urns",
+     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_infernal_urns_(no_rune)",
      "reqs": [
       {
        "s": "Crafting",
@@ -2767,6 +2770,28 @@
      "quests": []
     },
     {
+     "name": "Making weapon poison+++",
+     "line1": "Herblore 100, Dungeoneering 49",
+     "rate": "3.0M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈65.3M. Requires Herblore 100, Dungeoneering 49. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_weapon_poison%2B%2B%2B",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 100,
+       "rec": false
+      },
+      {
+       "s": "Dungeoneering",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Mining soft clay",
      "line1": "Agility 75, Construction 75, Crafting 75, Dungeoneering 75, Herblore 75, Mining 75, Prayer 75, Ranged 75, Summ",
      "rate": "3.0M/hr",
@@ -3140,23 +3165,6 @@
        "s": "Crafting",
        "l": 50,
        "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Making prayer potions",
-     "line1": "Herblore 38",
-     "rate": "2.4M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.4M. Requires Herblore 38. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_prayer_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 38,
-       "rec": false
       }
      ],
      "quests": []
@@ -3894,6 +3902,23 @@
        "s": "Herblore",
        "l": 99,
        "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Making prayer potions",
+     "line1": "Herblore 38",
+     "rate": "1.5M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.4M. Requires Herblore 38. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Making_prayer_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 38,
+       "rec": false
       }
      ],
      "quests": []
@@ -4659,23 +4684,6 @@
      "quests": []
     },
     {
-     "name": "Making Saradomin brews",
-     "line1": "Herblore 81",
-     "rate": "699.8K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.7M. Requires Herblore 81. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Making_Saradomin_brews",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 81,
-       "rec": false
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Crafting sapphire jewellery (Necklaces)",
      "line1": "Crafting 22",
      "rate": "693.8K/hr",
@@ -5286,31 +5294,6 @@
      ],
      "quests": [
       "Dead and Buried"
-     ]
-    },
-    {
-     "name": "Crafting decorated urns (no rune)",
-     "line1": "Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End",
-     "rate": "16.5M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.5M. Requires Crafting 76, Magic 82, Quests: Lunar Diplomacy, Plague's End. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Crafting_decorated_urns_(no_rune)",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 76,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 82,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Lunar Diplomacy",
-      "Plague's End"
      ]
     },
     {
@@ -6456,41 +6439,6 @@
      "quests": []
     },
     {
-     "name": "Pickpocketing Menaphos market guards",
-     "line1": "Thieving 104, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Jack of Spades, The Light Wit",
-     "rate": "3.4M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈117.0K. Requires Thieving 104, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Jack of Spades, The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Menaphos_market_guards",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 104,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 84,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Jack of Spades",
-      "The Light Within"
-     ]
-    },
-    {
      "name": "Screening aerated sediment",
      "line1": "Archaeology 110, Divination 68, Divination 99 (rec), Summoning 50",
      "rate": "3.3M/hr",
@@ -7609,6 +7557,41 @@
      ],
      "quests": [
       "Plague's End",
+      "The Light Within"
+     ]
+    },
+    {
+     "name": "Pickpocketing Menaphos market guards",
+     "line1": "Thieving 104, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Jack of Spades, The Light Wit",
+     "rate": "2.2M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈117.0K. Requires Thieving 104, Archaeology 84 (rec), Magic 90 (rec), Prayer 80 (rec), Quests: The Jack of Spades, The Light Within. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Menaphos_market_guards",
+     "reqs": [
+      {
+       "s": "Thieving",
+       "l": 104,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 84,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 80,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Jack of Spades",
       "The Light Within"
      ]
     },
@@ -9081,56 +9064,6 @@
      "quests": []
     },
     {
-     "name": "Killing TzKal-Zuk (Hard mode)",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 99, Herblore 106, Quests: City of S",
-     "rate": "105.6M/hr",
-     "badge": "HIGH",
-     "elite": true,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.6M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 99, Herblore 106, Quests: City of Senntisten, Extinction. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_TzKal-Zuk#Hard_mode",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "City of Senntisten",
-      "Extinction"
-     ]
-    },
-    {
      "name": "Killing Nex, Angel of Death (Duo)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec)",
      "rate": "104.7M/hr",
@@ -9181,6 +9114,56 @@
       }
      ],
      "quests": []
+    },
+    {
+     "name": "Killing TzKal-Zuk (Hard mode)",
+     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 99, Herblore 106, Quests: City of S",
+     "rate": "104.3M/hr",
+     "badge": "HIGH",
+     "elite": true,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈8.6M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 99, Herblore 106, Quests: City of Senntisten, Extinction. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_TzKal-Zuk#Hard_mode",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Defence",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 99,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "City of Senntisten",
+      "Extinction"
+     ]
     },
     {
      "name": "Killing the Arch-Glacor (Hard Mode 200 killstreak)",
@@ -9328,7 +9311,7 @@
     {
      "name": "Killing Nex, Angel of Death (4-player)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec)",
-     "rate": "76.4M/hr",
+     "rate": "76.3M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.5M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec). ",
@@ -10028,56 +10011,6 @@
      "quests": []
     },
     {
-     "name": "Killing TzKal-Zuk (Normal mode)",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 99, Herblore 106, Quests: City of S",
-     "rate": "34.9M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.2M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 99, Herblore 106, Quests: City of Senntisten, Extinction. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_TzKal-Zuk#Normal_mode",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "City of Senntisten",
-      "Extinction"
-     ]
-    },
-    {
      "name": "Killing Araxxi",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96 (rec), Herblore 96 (rec), Prayer 95 (rec), Inventi",
      "rate": "34.5M/hr",
@@ -10133,6 +10066,56 @@
       }
      ],
      "quests": []
+    },
+    {
+     "name": "Killing TzKal-Zuk (Normal mode)",
+     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 99, Herblore 106, Quests: City of S",
+     "rate": "33.5M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.2M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 99, Herblore 106, Quests: City of Senntisten, Extinction. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_TzKal-Zuk#Normal_mode",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Defence",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 99,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "City of Senntisten",
+      "Extinction"
+     ]
     },
     {
      "name": "Killing the Giant Mimic (Elite)",
@@ -12708,6 +12691,42 @@
      "quests": []
     },
     {
+     "name": "Killing K'ril Tsutsaroth (High-Level)",
+     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
+     "rate": "3.9M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈826.4K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
+     "reqs": [
+      {
+       "s": "Constitution",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 107,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Troll Stronghold",
+      "The Temple at Senntisten",
+      "Ritual of the Mahjarrat"
+     ]
+    },
+    {
      "name": "K'ril Tsutsaroth Alt Guide (High-level)",
      "line1": "Constitution 99, Magic 99, Herblore 107 (rec), Prayer 95 (rec), Summoning 96 (rec), Archaeology 118 (rec), Que",
      "rate": "3.9M/hr",
@@ -12744,42 +12763,6 @@
       {
        "s": "Archaeology",
        "l": 118,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Troll Stronghold",
-      "The Temple at Senntisten",
-      "Ritual of the Mahjarrat"
-     ]
-    },
-    {
-     "name": "Killing K'ril Tsutsaroth (High-Level)",
-     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
-     "rate": "3.9M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈826.4K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
-     "reqs": [
-      {
-       "s": "Constitution",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 107,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
        "rec": true
       }
      ],
@@ -13137,9 +13120,26 @@
      "quests": []
     },
     {
+     "name": "Killing guards",
+     "line1": "Combat 60 (rec)",
+     "rate": "1.4M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Combat 60 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_guards",
+     "reqs": [
+      {
+       "s": "Combat",
+       "l": 60,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Killing TzekHaar-Jad",
      "line1": "Ranged 90, Magic 90, Defence 90 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec)",
-     "rate": "1.4M/hr",
+     "rate": "1.3M/hr",
      "badge": "MODERATE",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈1.7M. Requires Ranged 90, Magic 90, Defence 90 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 89 (rec). ",
@@ -13178,23 +13178,6 @@
       {
        "s": "Invention",
        "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Killing guards",
-     "line1": "Combat 60 (rec)",
-     "rate": "1.4M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈0. Requires Combat 60 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_guards",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 60,
        "rec": true
       }
      ],
@@ -14338,45 +14321,6 @@
      ]
     },
     {
-     "name": "Killing abyssal lords",
-     "line1": "Slayer 115, Slayer 120 (rec), Magic 99, Defence 99, Prayer 95, Quests: City of Senntisten",
-     "rate": "8.4M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.0M. Requires Slayer 115, Slayer 120 (rec), Magic 99, Defence 99, Prayer 95, Quests: City of Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_lords",
-     "reqs": [
-      {
-       "s": "Slayer",
-       "l": 115,
-       "rec": false
-      },
-      {
-       "s": "Slayer",
-       "l": 120,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 99,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "City of Senntisten"
-     ]
-    },
-    {
      "name": "Killing elite profane scabarites (AFK)",
      "line1": "Slayer 99, Necromancy 90, Defence 90, Herblore 96 (rec), Prayer 95 (rec), Quests: Beneath Scabaras' Sands",
      "rate": "8.2M/hr",
@@ -14448,6 +14392,45 @@
      "quests": [
       "Fate of the Gods",
       "Desert Treasure"
+     ]
+    },
+    {
+     "name": "Killing abyssal lords",
+     "line1": "Slayer 115, Slayer 120 (rec), Magic 99, Defence 99, Prayer 95, Quests: City of Senntisten",
+     "rate": "8.0M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.0M. Requires Slayer 115, Slayer 120 (rec), Magic 99, Defence 99, Prayer 95, Quests: City of Senntisten. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_abyssal_lords",
+     "reqs": [
+      {
+       "s": "Slayer",
+       "l": 115,
+       "rec": false
+      },
+      {
+       "s": "Slayer",
+       "l": 120,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 99,
+       "rec": false
+      },
+      {
+       "s": "Defence",
+       "l": 99,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "City of Senntisten"
      ]
     },
     {
@@ -15324,51 +15307,6 @@
      ]
     },
     {
-     "name": "Killing glacytes",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, T",
-     "rate": "2.7M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.9M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, The Temple at Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_glacytes",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 107,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 99,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The World Wakes",
-      "The Temple at Senntisten"
-     ]
-    },
-    {
      "name": "K'ril Tsutsaroth Alt Guide (Mid-level)",
      "line1": "Constitution 70, Necromancy 90 (rec), Quests: Troll Stronghold, Necromancy!",
      "rate": "2.6M/hr",
@@ -15565,32 +15503,48 @@
      ]
     },
     {
-     "name": "Killing the Arch-Glacor (Normal Mode, AFK with 1 mechanic)",
-     "line1": "Combat 100 (rec), Defence 70 (rec), Summoning 68, Quests: City of Senntisten",
-     "rate": "1.4M/hr",
+     "name": "Killing glacytes",
+     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, T",
+     "rate": "1.5M/hr",
      "badge": "LOW",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈350.7K. Requires Combat 100 (rec), Defence 70 (rec), Summoning 68, Quests: City of Senntisten. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Arch-Glacor#Normal_Mode,_AFK_with_1_mechanic",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈5.9M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Herblore 107 (rec), Prayer 99 (rec), Quests: The World Wakes, The Temple at Senntisten. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_glacytes",
      "reqs": [
       {
-       "s": "Combat",
-       "l": 100,
-       "rec": true
-      },
-      {
-       "s": "Defence",
-       "l": 70,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 68,
+       "s": "Attack",
+       "l": 90,
        "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 107,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 99,
+       "rec": true
       }
      ],
      "quests": [
-      "City of Senntisten"
+      "The World Wakes",
+      "The Temple at Senntisten"
      ]
     },
     {
