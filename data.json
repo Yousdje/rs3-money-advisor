@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:41:30Z",
+ "generated_at": "2026-11-24T00:42:31Z",
  "sections": [
   {
    "icon": "🗺",
@@ -7,6 +7,138 @@
    "personal": true,
    "note": "active play (moderate/high intensity) · wiki live-priced estimates · ELITE = optimal variant, filter with the chips",
    "items": [
+    {
+     "name": "Defeating Croesus (Duo)",
+     "line1": "Construction 80 (rec), Woodcutting 99 (rec), Mining 99 (rec), Fishing 99 (rec), Hunter 99 (rec), Magic 90 (rec",
+     "rate": "86.1M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Construction 80 (rec), Woodcutting 99 (rec), Mining 99 (rec), Fishing 99 (rec), Hunter 99 (rec), Magic 90 (rec), Quests: The Light Within. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Defeating_Croesus#Duo",
+     "reqs": [
+      {
+       "s": "Construction",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Woodcutting",
+       "l": 99,
+       "rec": true
+      },
+      {
+       "s": "Mining",
+       "l": 99,
+       "rec": true
+      },
+      {
+       "s": "Fishing",
+       "l": 99,
+       "rec": true
+      },
+      {
+       "s": "Hunter",
+       "l": 99,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Light Within"
+     ]
+    },
+    {
+     "name": "Cleansing the Gate of Elidinis",
+     "line1": "Mining 80 (rec), Summoning 83 (rec), Defence 81 (rec), Magic 66, Necromancy 75, Archaeology 86, Quests: Ode of",
+     "rate": "69.1M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈64.2K. Requires Mining 80 (rec), Summoning 83 (rec), Defence 81 (rec), Magic 66, Necromancy 75, Archaeology 86, Quests: Ode of the Devourer. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Cleansing_the_Gate_of_Elidinis",
+     "reqs": [
+      {
+       "s": "Mining",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 83,
+       "rec": true
+      },
+      {
+       "s": "Defence",
+       "l": 81,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 66,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 75,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 86,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ode of the Devourer"
+     ]
+    },
+    {
+     "name": "Defeating Croesus (4-person)",
+     "line1": "Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec",
+     "rate": "67.5M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈152.7K. Requires Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec), Quests: The Light Within. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Defeating_Croesus#4-person",
+     "reqs": [
+      {
+       "s": "Construction",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Woodcutting",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Mining",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Fishing",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Hunter",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "The Light Within"
+     ]
+    },
     {
      "name": "Completing the Asuran Arsenal",
      "line1": "Thieving 108, Thieving 114 (rec), Agility 99 (rec), Constitution 99 (rec), Archaeology 74 (rec), Thieving 120,",
@@ -54,94 +186,6 @@
      ],
      "quests": [
       "Eye of Het II"
-     ]
-    },
-    {
-     "name": "Defeating Croesus (Duo)",
-     "line1": "Construction 80 (rec), Woodcutting 99 (rec), Mining 99 (rec), Fishing 99 (rec), Hunter 99 (rec), Magic 90 (rec",
-     "rate": "51.0M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.7M. Requires Construction 80 (rec), Woodcutting 99 (rec), Mining 99 (rec), Fishing 99 (rec), Hunter 99 (rec), Magic 90 (rec), Quests: The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Defeating_Croesus#Duo",
-     "reqs": [
-      {
-       "s": "Construction",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Woodcutting",
-       "l": 99,
-       "rec": true
-      },
-      {
-       "s": "Mining",
-       "l": 99,
-       "rec": true
-      },
-      {
-       "s": "Fishing",
-       "l": 99,
-       "rec": true
-      },
-      {
-       "s": "Hunter",
-       "l": 99,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Light Within"
-     ]
-    },
-    {
-     "name": "Defeating Croesus (4-person)",
-     "line1": "Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec",
-     "rate": "41.1M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈152.7K. Requires Construction 80 (rec), Woodcutting 80 (rec), Mining 80 (rec), Fishing 80 (rec), Hunter 80 (rec), Magic 90 (rec), Quests: The Light Within. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Defeating_Croesus#4-person",
-     "reqs": [
-      {
-       "s": "Construction",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Woodcutting",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Mining",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Fishing",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Hunter",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "The Light Within"
      ]
     },
     {
@@ -202,50 +246,6 @@
      "quests": [
       "Rune Mythos",
       "Hero's Welcome"
-     ]
-    },
-    {
-     "name": "Cleansing the Gate of Elidinis",
-     "line1": "Mining 80 (rec), Summoning 83 (rec), Defence 81 (rec), Magic 66, Necromancy 75, Archaeology 86, Quests: Ode of",
-     "rate": "39.8M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈64.2K. Requires Mining 80 (rec), Summoning 83 (rec), Defence 81 (rec), Magic 66, Necromancy 75, Archaeology 86, Quests: Ode of the Devourer. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Cleansing_the_Gate_of_Elidinis",
-     "reqs": [
-      {
-       "s": "Mining",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 83,
-       "rec": true
-      },
-      {
-       "s": "Defence",
-       "l": 81,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 66,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 75,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 86,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Ode of the Devourer"
      ]
     },
     {
@@ -4918,17 +4918,6 @@
      ]
     },
     {
-     "name": "Taking vials of water from a portable well",
-     "line1": "no requirements listed",
-     "rate": "331.6K/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈4.4K. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Taking_vials_of_water_from_a_portable_well",
-     "reqs": [],
-     "quests": []
-    },
-    {
      "name": "Crafting carapace boots",
      "line1": "Crafting 31",
      "rate": "325.2K/hr",
@@ -6648,6 +6637,38 @@
      "quests": []
     },
     {
+     "name": "Pickpocketing Archaeology professors (Orthen)",
+     "line1": "Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec)",
+     "rate": "3.1M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈117.8K. Requires Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Orthen",
+     "reqs": [
+      {
+       "s": "Thieving",
+       "l": 108,
+       "rec": false
+      },
+      {
+       "s": "Archaeology",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 80,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Pickpocketing Archaeology professors (Daemonheim)",
      "line1": "Thieving 108, Archaeology 103, Dungeoneering 95, Magic 90 (rec), Prayer 80 (rec)",
      "rate": "3.1M/hr",
@@ -6669,38 +6690,6 @@
       {
        "s": "Dungeoneering",
        "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 80,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Pickpocketing Archaeology professors (Orthen)",
-     "line1": "Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec)",
-     "rate": "3.1M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈117.8K. Requires Thieving 108, Archaeology 90, Magic 90 (rec), Prayer 80 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Pickpocketing_Archaeology_professors#Orthen",
-     "reqs": [
-      {
-       "s": "Thieving",
-       "l": 108,
-       "rec": false
-      },
-      {
-       "s": "Archaeology",
-       "l": 90,
        "rec": false
       },
       {
@@ -9098,7 +9087,7 @@
     {
      "name": "Killing Nex, Angel of Death (Duo)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec)",
-     "rate": "102.9M/hr",
+     "rate": "105.0M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.5M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec). ",
@@ -9454,7 +9443,7 @@
     {
      "name": "Killing Nex, Angel of Death (7-player)",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96, Herblore 106 (rec), Prayer 95, ",
-     "rate": "63.0M/hr",
+     "rate": "64.5M/hr",
      "badge": "HIGH",
      "elite": null,
      "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.5M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec). ",
@@ -9824,6 +9813,63 @@
      "quests": []
     },
     {
+     "name": "Killing Solak",
+     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96, Herblore 106 (rec), Prayer 95, ",
+     "rate": "42.9M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.4M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Solak",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Defence",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 96,
+       "rec": false
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Invention",
+       "l": 89,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Killing Raksha",
      "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96 (rec), Herblore 106 (rec), Praye",
      "rate": "41.0M/hr",
@@ -9877,63 +9923,6 @@
       "Raksha, the Shadow Colossus (quest)",
       "Extinction"
      ]
-    },
-    {
-     "name": "Killing Solak",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96, Herblore 106 (rec), Prayer 95, ",
-     "rate": "40.9M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈9.4M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 96, Herblore 106 (rec), Prayer 95, Invention 89 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Solak",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 96,
-       "rec": false
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Invention",
-       "l": 89,
-       "rec": true
-      }
-     ],
-     "quests": []
     },
     {
      "name": "Killing Zamorak, Lord of Chaos (50 enrage)",
@@ -10943,6 +10932,58 @@
      "quests": []
     },
     {
+     "name": "Killing Vorago (Solo)",
+     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Praye",
+     "rate": "17.5M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.6M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Prayer 95 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Vorago#Solo",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Defence",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 87,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Killing the Arch-Glacor (Hard Mode 0 percent enrage claims)",
      "line1": "Combat 138 (rec), Summoning 96, Prayer 95, Herblore 106 (rec), Invention 1 (rec), Quests: City of Senntisten",
      "rate": "17.4M/hr",
@@ -11178,58 +11219,6 @@
      "quests": []
     },
     {
-     "name": "Killing Vorago (Solo)",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Praye",
-     "rate": "14.0M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈7.6M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Prayer 95 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Vorago#Solo",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 87,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Killing lava strykewyrms",
      "line1": "Magic 80, Slayer 94, Archaeology 108 (rec), Quests: City of Senntisten",
      "rate": "13.8M/hr",
@@ -11293,6 +11282,58 @@
      ]
     },
     {
+     "name": "Killing Vorago (Duo)",
+     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Praye",
+     "rate": "13.1M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.6M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Prayer 95 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Vorago#Duo",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Defence",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 87,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
      "name": "Killing the Giant Mimic (Medium)",
      "line1": "Combat 1 (rec), Melee 80, Magic 80, Ranged 80, Prayer 70 (rec)",
      "rate": "12.3M/hr",
@@ -11324,6 +11365,58 @@
       {
        "s": "Prayer",
        "l": 70,
+       "rec": true
+      }
+     ],
+     "quests": []
+    },
+    {
+     "name": "Killing Vorago (Trio)",
+     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Praye",
+     "rate": "11.8M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Prayer 95 (rec). ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Vorago#Trio",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Necromancy",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Defence",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Summoning",
+       "l": 87,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 106,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
        "rec": true
       }
      ],
@@ -11438,69 +11531,17 @@
      ]
     },
     {
-     "name": "Killing Vorago (Duo)",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Praye",
-     "rate": "10.9M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.6M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Prayer 95 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Vorago#Duo",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 87,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
      "name": "Killing the Magister",
-     "line1": "Slayer 115, Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 96 (rec), Prayer 95 (rec",
+     "line1": "Slayer 95, Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 96 (rec), Prayer 95 (rec)",
      "rate": "10.3M/hr",
      "badge": "HIGH",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈24.5M. Requires Slayer 115, Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 96 (rec), Prayer 95 (rec), Summoning 87 (rec), Quests: Icthlarin's Little Helper. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈24.5M. Requires Slayer 95, Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Herblore 96 (rec), Prayer 95 (rec), Summoning 87 (rec), Quests: Icthlarin's Little Helper. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_the_Magister",
      "reqs": [
       {
        "s": "Slayer",
-       "l": 115,
+       "l": 95,
        "rec": false
       },
       {
@@ -11686,58 +11727,6 @@
       {
        "s": "Prayer",
        "l": 94,
-       "rec": true
-      }
-     ],
-     "quests": []
-    },
-    {
-     "name": "Killing Vorago (Trio)",
-     "line1": "Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Praye",
-     "rate": "9.8M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈2.8M. Requires Attack 90, Ranged 90, Magic 90, Necromancy 90, Defence 90 (rec), Summoning 87 (rec), Herblore 106 (rec), Prayer 95 (rec). ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_Vorago#Trio",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Necromancy",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Summoning",
-       "l": 87,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 106,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
        "rec": true
       }
      ],
@@ -12096,16 +12085,16 @@
     },
     {
      "name": "Killing legiones to make ascension crossbows",
-     "line1": "Slayer 95, Ranged 90 (rec), Prayer 92, Prayer 95 (rec), Herblore 96 (rec), Summoning 96 (rec)",
+     "line1": "Slayer 88, Ranged 90 (rec), Prayer 92, Prayer 95 (rec), Herblore 96 (rec), Summoning 96 (rec)",
      "rate": "7.0M/hr",
      "badge": "HIGH",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈19.6M. Requires Slayer 95, Ranged 90 (rec), Prayer 92, Prayer 95 (rec), Herblore 96 (rec), Summoning 96 (rec). ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈19.6M. Requires Slayer 88, Ranged 90 (rec), Prayer 92, Prayer 95 (rec), Herblore 96 (rec), Summoning 96 (rec). ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_legiones_to_make_ascension_crossbows",
      "reqs": [
       {
        "s": "Slayer",
-       "l": 95,
+       "l": 88,
        "rec": false
       },
       {
@@ -12464,16 +12453,16 @@
     },
     {
      "name": "Killing grifolapines",
-     "line1": "Slayer 88, Magic 80 (rec), Defence 70 (rec), Quests: A Fairy Tale II - Cure a Queen",
+     "line1": "Slayer 68, Magic 80 (rec), Defence 70 (rec), Quests: A Fairy Tale II - Cure a Queen",
      "rate": "5.6M/hr",
      "badge": "HIGH",
      "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.9K. Requires Slayer 88, Magic 80 (rec), Defence 70 (rec), Quests: A Fairy Tale II - Cure a Queen. ",
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈6.9K. Requires Slayer 68, Magic 80 (rec), Defence 70 (rec), Quests: A Fairy Tale II - Cure a Queen. ",
      "url": "https://runescape.wiki/w/Money_making_guide/Killing_grifolapines",
      "reqs": [
       {
        "s": "Slayer",
-       "l": 88,
+       "l": 68,
        "rec": false
       },
       {
@@ -12673,42 +12662,6 @@
      "quests": []
     },
     {
-     "name": "Killing K'ril Tsutsaroth (High-Level)",
-     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
-     "rate": "3.9M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈837.0K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
-     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
-     "reqs": [
-      {
-       "s": "Constitution",
-       "l": 70,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Herblore",
-       "l": 107,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 95,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Troll Stronghold",
-      "The Temple at Senntisten",
-      "Ritual of the Mahjarrat"
-     ]
-    },
-    {
      "name": "K'ril Tsutsaroth Alt Guide (High-level)",
      "line1": "Constitution 99, Magic 99, Herblore 107 (rec), Prayer 95 (rec), Summoning 96 (rec), Archaeology 118 (rec), Que",
      "rate": "3.9M/hr",
@@ -12745,6 +12698,42 @@
       {
        "s": "Archaeology",
        "l": 118,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Troll Stronghold",
+      "The Temple at Senntisten",
+      "Ritual of the Mahjarrat"
+     ]
+    },
+    {
+     "name": "Killing K'ril Tsutsaroth (High-Level)",
+     "line1": "Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at ",
+     "rate": "3.9M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "detail": "Wiki estimate at daily guide prices — treat as a ceiling. Startup/input cost ≈837.0K. Requires Constitution 70, Magic 80 (rec), Herblore 107 (rec), Prayer 95 (rec), Quests: Troll Stronghold, The Temple at Senntisten, Ritual of the Mahjarrat. ",
+     "url": "https://runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth#High-Level",
+     "reqs": [
+      {
+       "s": "Constitution",
+       "l": 70,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Herblore",
+       "l": 107,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 95,
        "rec": true
       }
      ],
